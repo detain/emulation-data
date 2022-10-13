@@ -1015,6 +1015,11 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/Cemu-Wii-U-Emulator-Pic-05.jpg"
             ],
             "versions": {
+                "1.26.2": {
+                    "id": "cemu_download_windows",
+                    "url": "https://consolo.is.cc/emuking/cemu/cemu_1.26.2.zip",
+                    "os": "Windows"
+                },
                 "1.26.1": {
                     "id": "cemu_archive_download_windows_1_26_1",
                     "url": "https://consolo.is.cc/emuking/cemu/cemu_1.26.1.zip",
@@ -1067,7 +1072,14 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/09/Decaf-Emulator-Wii-U-Emulator-Pic-03.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/09/Decaf-Emulator-Wii-U-Emulator-Pic-04.jpg"
             ],
-            "versions": []
+            "versions": {
+                "2019-06-18": {
+                    "id": "decaf-emulator_download_windows",
+                    "url": "https://consolo.is.cc/emuking/decaf-emulator/decaf-bin-18_06_2019.zip",
+                    "date": "2019/06/18",
+                    "os": "Windows"
+                }
+            }
         },
         "citra": {
             "id": "citra",
@@ -1237,7 +1249,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/TronDS-3DS-Emulator-Screen-2.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/TronDS-3DS-Emulator-Screen-3.jpg"
             ],
-            "versions": []
+            "versions": {
+                "1.0.0.5": {
+                    "id": "tronds_download_windows",
+                    "url": "https://consolo.is.cc/emuking/tronds/TronDS1005.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "dolphin": {
             "id": "dolphin",
@@ -1410,6 +1428,12 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/DeSmuME-Nintendo-DS-Emulator-Pic-05.png"
             ],
             "versions": {
+                "2022-08-05": {
+                    "id": "desmume_download_windows64",
+                    "url": "https://consolo.is.cc/emuking/desmume/DeSmuME-VS2019-x64-Release_05_08_2022.exe",
+                    "date": "2022/08/05",
+                    "os": "Windows"
+                },
                 "2022-07-30": {
                     "id": "desmume_archive_download_windows64_30_07_2022",
                     "url": "https://consolo.is.cc/emuking/desmume/DeSmuME-VS2019-x64-Release_30_07_2022.exe",
@@ -1507,6 +1531,11 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/ideas-Nintendo-DS-Emulator-Pic-04.gif"
             ],
             "versions": {
+                "1.0.4.0": {
+                    "id": "ideas-emulator_download_linux",
+                    "url": "https://consolo.is.cc/emuking/ideas-emulator/ideas1039.tar.bz2",
+                    "os": "Linux"
+                },
                 "1.0.3.9": {
                     "id": "ideas-emulator_download_windows",
                     "url": "https://consolo.is.cc/emuking/ideas-emulator/ideas1040.7z",
@@ -1568,7 +1597,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/DuoS-Nintendo-DS-Emulator-Pic-03.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/DuoS-Nintendo-DS-Emulator-Pic-04.jpg"
             ],
-            "versions": []
+            "versions": {
+                "DuoS Emulator": {
+                    "id": "duos-emulator_download_windows",
+                    "url": "https://consolo.is.cc/emuking/duos-emulator/DuoS.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "dualis-emulator": {
             "id": "dualis-emulator",
@@ -1590,7 +1625,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/dualis-Nintendo-DS-Screenshot-Pic-04.png",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/dualis-Nintendo-DS-Screenshot-Pic-05.png"
             ],
-            "versions": []
+            "versions": {
+                "20.4": {
+                    "id": "dualis-emulator_download_windows",
+                    "url": "https://consolo.is.cc/emuking/dualis-emulator/dualis-20.4.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "gcube": {
             "id": "gcube",
@@ -1633,7 +1674,13 @@
             "screenshots": [
                 "https://cdn.emulationking.com/wp-content/uploads/2015/03/Dolwin-Nintendo-GameCube-Emulator-Pic-01.png"
             ],
-            "versions": []
+            "versions": {
+                "0.1.0": {
+                    "id": "dolwin_download_windows",
+                    "url": "https://consolo.is.cc/emuking/dolwin/Dolwin010bin.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "gekko": {
             "id": "gekko",
@@ -1651,7 +1698,13 @@
             "screenshots": [
                 "https://cdn.emulationking.com/wp-content/uploads/2015/03/Gekko-Nintendo-GameCube-Emulator-Pic-01.png"
             ],
-            "versions": []
+            "versions": {
+                "0.3": {
+                    "id": "gekko_download_windows",
+                    "url": "https://consolo.is.cc/emuking/gekko/Gekko%20Public%20Release.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "supergcube": {
             "id": "supergcube",
@@ -1669,7 +1722,13 @@
             "screenshots": [
                 "https://cdn.emulationking.com/wp-content/uploads/2015/03/SuperGCube-Nintendo-GameCube-Emulator-Pic-01.jpg"
             ],
-            "versions": []
+            "versions": {
+                "0.4a rev0110": {
+                    "id": "supergcube_download_windows",
+                    "url": "https://consolo.is.cc/emuking/supergcube/SuperGCube_0.4a_rev_0110_win32.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "whinecube": {
             "id": "whinecube",
@@ -1690,6 +1749,11 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2015/03/WhineCube-Nintendo-GameCube-Emulator-Pic-03.png"
             ],
             "versions": {
+                "r7": {
+                    "id": "whinecube_download_windows",
+                    "url": "https://consolo.is.cc/emuking/whinecube/whinecube_r7.zip",
+                    "os": "Windows"
+                },
                 "r8": {
                     "id": "whinecube_download_source",
                     "url": "https://consolo.is.cc/emuking/whinecube/whinecube_r8_src.zip",
@@ -1715,7 +1779,14 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2015/03/GCemu-Nintendo-GameCube-Emulator-Pic-02.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2015/03/GCemu-Nintendo-GameCube-Emulator-Pic-03.jpg"
             ],
-            "versions": []
+            "versions": {
+                "2005-12-11": {
+                    "id": "gcemu_download_windows",
+                    "url": "https://consolo.is.cc/emuking/gcemu/gcemu-release_20051211.zip",
+                    "date": "2005/12/11",
+                    "os": "Windows"
+                }
+            }
         },
         "visual-boy-advance": {
             "id": "visual-boy-advance",
@@ -1842,6 +1913,12 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2014/05/higan-NES-Emulator-SNES-Emulator-Pic-06.png"
             ],
             "versions": {
+                "v093": {
+                    "id": "higan_download_macosx",
+                    "url": "https://consolo.is.cc/emuking/higan/Higan+v093.dmg",
+                    "os": "Apple",
+                    "branch": "Stable"
+                },
                 "v107": {
                     "id": "higan_download_windows",
                     "url": "https://consolo.is.cc/emuking/higan/higan_v107-windows.zip",
@@ -1934,6 +2011,11 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/GBE-GBC-Emulator-GBA-Emulator-Pic-06.png"
             ],
             "versions": {
+                "1.6": {
+                    "id": "gbeplus_download_windows",
+                    "url": "https://consolo.is.cc/emuking/gbeplus/gbe_plus_1.6.7z",
+                    "os": "Windows"
+                },
                 "1.5": {
                     "id": "gbeplus_archive_download_windows_1_5",
                     "url": "https://consolo.is.cc/emuking/gbeplus/gbe_plus_1.5.7z",
@@ -1968,15 +2050,15 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/Boycott-Advance-GBC-Emulator-GBA-Emulator-Pic-04.jpg"
             ],
             "versions": {
-                "0.4.0": {
-                    "id": "boycottadvance_download_macosx",
-                    "url": "https://consolo.is.cc/emuking/boycottadvance/ba-040.dmg",
-                    "os": "Apple"
-                },
                 "0.2.8": {
                     "id": "boycottadvance_download_linux",
                     "url": "https://consolo.is.cc/emuking/boycottadvance/BoyCottAdvance-SDL-0.2.8R1.i386.linux.tar.gz",
                     "os": "Linux"
+                },
+                "0.4.0": {
+                    "id": "boycottadvance_download_macosx",
+                    "url": "https://consolo.is.cc/emuking/boycottadvance/ba-040.dmg",
+                    "os": "Apple"
                 }
             }
         },
@@ -1999,6 +2081,11 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/RascalBoy-Advance-GBA-Emulator-Pic-04.jpg"
             ],
             "versions": {
+                "1.3.0.0": {
+                    "id": "rascalboy-advance_download_windows",
+                    "url": "https://consolo.is.cc/emuking/rascalboy-advance/rascalboy1300.zip",
+                    "os": "Windows"
+                },
                 "1.0.0.0": {
                     "id": "rascalboy-advance_download_multiplayerplugin",
                     "url": "https://consolo.is.cc/emuking/rascalboy-advance/rbamulti_1000.zip",
@@ -2024,7 +2111,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/BatGBA-GBA-Emulator-Pic-03.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/BatGBA-GBA-Emulator-Pic-04.jpg"
             ],
-            "versions": []
+            "versions": {
+                "2.25b": {
+                    "id": "batgba_download_windows",
+                    "url": "https://consolo.is.cc/emuking/batgba/batgba225b.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "dreamgba": {
             "id": "dreamgba",
@@ -2044,7 +2137,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/DreamGBA-GBA-Emulator-Pic-02.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/DreamGBA-GBA-Emulator-Pic-03.jpg"
             ],
-            "versions": []
+            "versions": {
+                "2.5": {
+                    "id": "dreamgba_download_windows",
+                    "url": "https://consolo.is.cc/emuking/dreamgba/dreamgba2_5.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "kigb": {
             "id": "kigb",
@@ -2157,7 +2256,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2015/03/basicboy-GBC-Emulator-Pic-05.png",
                 "https://cdn.emulationking.com/wp-content/uploads/2015/03/basicboy-GBC-Emulator-Pic-06.png"
             ],
-            "versions": []
+            "versions": {
+                "2.0.3": {
+                    "id": "basicboy_download_windows",
+                    "url": "https://consolo.is.cc/emuking/basicboy/BasicBoy2.0.3bin.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "bgb": {
             "id": "bgb",
@@ -2209,7 +2314,13 @@
             "screenshots": [
                 "https://cdn.emulationking.com/wp-content/uploads/2015/03/DreamGBC-GBC-Emulator-Pic-01.jpg"
             ],
-            "versions": []
+            "versions": {
+                "Final Beta 5": {
+                    "id": "dreamgbc_download_windows",
+                    "url": "https://consolo.is.cc/emuking/dreamgbc/dreamgbc2000finalbeta5.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "gest": {
             "id": "gest",
@@ -2232,7 +2343,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2015/03/GEST-GBC-Emulator-Pic-05.gif",
                 "https://cdn.emulationking.com/wp-content/uploads/2015/03/GEST-GBC-Emulator-Pic-06.gif"
             ],
-            "versions": []
+            "versions": {
+                "1.1.1": {
+                    "id": "gest_download_windows",
+                    "url": "https://consolo.is.cc/emuking/gest/GEST_v1.1.1.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "gnuboy": {
             "id": "gnuboy",
@@ -2250,7 +2367,13 @@
             "screenshots": [
                 "https://cdn.emulationking.com/wp-content/uploads/2015/03/gnuboy-GBC-Emulator-Pic-01.jpg"
             ],
-            "versions": []
+            "versions": {
+                "r136": {
+                    "id": "gnuboy_download_windows",
+                    "url": "https://consolo.is.cc/emuking/gnuboy/win32_svn_gnuboy_rr136m.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "playguy": {
             "id": "playguy",
@@ -2268,7 +2391,13 @@
             "screenshots": [
                 "https://cdn.emulationking.com/wp-content/uploads/2015/03/PlayGuy-GBC-Emulator-Pic-01.jpg"
             ],
-            "versions": []
+            "versions": {
+                "1.03b": {
+                    "id": "playguy_download_windows",
+                    "url": "https://consolo.is.cc/emuking/playguy/PlayGuy_1_03b.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "tgb-dual": {
             "id": "tgb-dual",
@@ -2317,6 +2446,11 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2013/01/project-64-n64-emulator-pic-06.jpg"
             ],
             "versions": {
+                "2.4.0": {
+                    "id": "project-64_download_windows",
+                    "url": "https://consolo.is.cc/emuking/project-64/Project64-2.4-windows.zip",
+                    "os": "Windows"
+                },
                 "2.3.2": {
                     "id": "project-64_archive_download_windows_2_3_2",
                     "url": "https://consolo.is.cc/emuking/project-64/pj64-v2.3.2-setup.exe",
@@ -2396,7 +2530,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2014/05/vbjin-Virtual-Boy-Emulator-Pic-01.png",
                 "https://cdn.emulationking.com/wp-content/uploads/2014/05/vbjin-Virtual-Boy-Emulator-Pic-02.jpg"
             ],
-            "versions": []
+            "versions": {
+                "r61": {
+                    "id": "vbjin_download_windows",
+                    "url": "https://consolo.is.cc/emuking/vbjin/VBjin-svn61.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "snes9x": {
             "id": "snes9x",
@@ -2600,6 +2740,11 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2014/05/Nestopia-NES-Emulator-Pic-06.jpg"
             ],
             "versions": {
+                "1.49": {
+                    "id": "nestopia_download_windows",
+                    "url": "https://consolo.is.cc/emuking/nestopia/nestopia_1.49-win32.zip",
+                    "os": "Windows"
+                },
                 "1.41": {
                     "id": "nestopia_download_macosx",
                     "url": "https://consolo.is.cc/emuking/nestopia/nestopia-141%20MAC.dmg",
@@ -2675,6 +2820,11 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/Nemulator-SEGA-Master-System-Emulator-NES-Emulator-Pic-06.png"
             ],
             "versions": {
+                "4.4": {
+                    "id": "nemulator_download_windows",
+                    "url": "https://consolo.is.cc/emuking/nemulator/nemulator4.4.zip",
+                    "os": "Windows"
+                },
                 "4.3.1": {
                     "id": "nemulator_archive_download_windows_4_3_1",
                     "url": "https://consolo.is.cc/emuking/nemulator/nemulator4.3.1.zip",
@@ -3029,7 +3179,13 @@
             "screenshots": [
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSP-PSP-Emulator.jpg"
             ],
-            "versions": []
+            "versions": {
+                "0.5.5": {
+                    "id": "pcsp_download_windows",
+                    "url": "https://consolo.is.cc/emuking/pcsp/pcsp_v0.5.5.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "pcsx2": {
             "id": "pcsx2",
@@ -3207,7 +3363,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/PS2emu-PS2-Emulator-Pic-03.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/PS2emu-PS2-Emulator-Pic-04.jpg"
             ],
-            "versions": []
+            "versions": {
+                "0.1 Alpha": {
+                    "id": "ps2emu_download_windows",
+                    "url": "https://consolo.is.cc/emuking/ps2emu/PS2EMU_-_Alpha_01.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "neutrinosx2": {
             "id": "neutrinosx2",
@@ -3230,7 +3392,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/NeutrinoSX2-PS2-Emulator-Pic-03.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/NeutrinoSX2-PS2-Emulator-Pic-04.jpg"
             ],
-            "versions": []
+            "versions": {
+                "0.08.1": {
+                    "id": "neutrinosx2_download_windows",
+                    "url": "https://consolo.is.cc/emuking/neutrinosx2/nsx2-0.08.1-win32.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "epsxe": {
             "id": "epsxe",
@@ -3314,6 +3482,11 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/nopsx-PSX-Emulator-Pic-05.png"
             ],
             "versions": {
+                "2.0 Debug Build": {
+                    "id": "nopsx_download_windows_debug",
+                    "url": "https://consolo.is.cc/emuking/nopsx/no$psx_2_0.zip",
+                    "os": "Windows"
+                },
                 "2.0 Gaming Build": {
                     "id": "nopsx_download_windows_gaming",
                     "url": "https://consolo.is.cc/emuking/nopsx/no$psx_2_0_gaming.zip",
@@ -3344,7 +3517,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/pSX-PlayStation-1-emulator-pic-07.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/pSX-PlayStation-1-emulator-pic-08.jpg"
             ],
-            "versions": []
+            "versions": {
+                "1.13": {
+                    "id": "psx-emu_download_windows",
+                    "url": "https://consolo.is.cc/emuking/psx-emu/pSX_1_13.rar",
+                    "os": "Windows"
+                }
+            }
         },
         "psxeven": {
             "id": "psxeven",
@@ -3362,7 +3541,13 @@
             "screenshots": [
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/PSXeven-PSX-Emulator-Pic-01.jpg"
             ],
-            "versions": []
+            "versions": {
+                "0.19": {
+                    "id": "psxeven_download_windows",
+                    "url": "https://consolo.is.cc/emuking/psxeven/PSXeven_v0.19.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "ssspsx": {
             "id": "ssspsx",
@@ -3380,7 +3565,13 @@
             "screenshots": [
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/SSSPSX-PSX-Emulator-Pic-01.png"
             ],
-            "versions": []
+            "versions": {
+                "0.0.34e": {
+                    "id": "ssspsx_download_windows",
+                    "url": "https://consolo.is.cc/emuking/ssspsx/SSSPSX-0.0.34e.ZIP",
+                    "os": "Windows"
+                }
+            }
         },
         "andripsx": {
             "id": "andripsx",
@@ -3403,7 +3594,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/AndriPSX-PSX-Emulator-Pic-05.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/AndriPSX-PSX-Emulator-Pic-06.jpg"
             ],
-            "versions": []
+            "versions": {
+                "1.0.5": {
+                    "id": "andripsx_download_windows",
+                    "url": "https://consolo.is.cc/emuking/andripsx/AdriPSX_ILE_Edition_1-0-5.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "bleem": {
             "id": "bleem",
@@ -3421,7 +3618,13 @@
             "screenshots": [
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/Bleem-PSX-Emulator-Pic-01.png"
             ],
-            "versions": []
+            "versions": {
+                "1.4": {
+                    "id": "bleem_download_windows",
+                    "url": "https://consolo.is.cc/emuking/bleem/bleem-demo-v1_4.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "reicast": {
             "id": "reicast",
@@ -3444,6 +3647,11 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/reicast-SEGA-Dreamcast-Emulator-Pic-05.png"
             ],
             "versions": {
+                "r20.04": {
+                    "id": "reicast_download_android",
+                    "url": "https://consolo.is.cc/emuking/reicast/Reicast.r20.04.apk",
+                    "os": "Android"
+                },
                 "2020-01-27": {
                     "id": "reicast_archive_download_android_27_01_2020",
                     "url": "https://consolo.is.cc/emuking/reicast/reicast-android-27-01-2020.apk",
@@ -3501,7 +3709,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/Demul-SEGA-Dreamcast-Emulator-Pic-04.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/Demul-SEGA-Dreamcast-Emulator-Pic-05.jpg"
             ],
-            "versions": []
+            "versions": {
+                "0.7 ALPHA BUILD 18081": {
+                    "id": "demul_download_windows",
+                    "url": "https://consolo.is.cc/emuking/demul/demul07_111117.7z",
+                    "os": "Windows"
+                }
+            }
         },
         "chankast": {
             "id": "chankast",
@@ -3523,6 +3737,11 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/Chankast-SEGA-Dreamcast-Emulator-Pic-04.jpg"
             ],
             "versions": {
+                "0.25 Alpha": {
+                    "id": "chankast_download_windows",
+                    "url": "https://consolo.is.cc/emuking/chankast/ChankastAlpha025.rar",
+                    "os": "Windows"
+                },
                 "4.0b": {
                     "id": "chankast_download_input_plugin",
                     "url": "https://consolo.is.cc/emuking/chankast/darkman_dinput40b.zip",
@@ -3552,15 +3771,15 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/yabause-SEGA-Saturn-Emulator-Pic-04.png"
             ],
             "versions": {
-                "0.9.15": {
-                    "id": "yabause_download_windows_64",
-                    "url": "https://consolo.is.cc/emuking/yabause/yabause-0.9.15-win64.zip",
-                    "os": "Windows"
-                },
                 "0.9.14": {
                     "id": "yabause_download_dreamcast",
                     "url": "https://consolo.is.cc/emuking/yabause/yabause-0.9.14-dc.tar.bz2",
                     "os": "Download"
+                },
+                "0.9.15": {
+                    "id": "yabause_download_windows_64",
+                    "url": "https://consolo.is.cc/emuking/yabause/yabause-0.9.15-win64.zip",
+                    "os": "Windows"
                 }
             }
         },
@@ -3587,7 +3806,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/SSF-SEGA-Saturn-Emulator-Pic-07.png",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/SSF-SEGA-Saturn-Emulator-Pic-08.png"
             ],
-            "versions": []
+            "versions": {
+                "0.9.14": {
+                    "id": "ssf_download_windows",
+                    "url": "https://consolo.is.cc/emuking/ssf/SSF_012_beta_R4.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "satourne": {
             "id": "satourne",
@@ -3607,7 +3832,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/Satourne-SEGA-Saturn-Emulator-Pic-02.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/Satourne-SEGA-Saturn-Emulator-Pic-03.jpg"
             ],
-            "versions": []
+            "versions": {
+                "2.0 BETA 3": {
+                    "id": "satourne_download_windows",
+                    "url": "https://consolo.is.cc/emuking/satourne/satourne_beta_3_update.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "kega-fusion": {
             "id": "kega-fusion",
@@ -3631,6 +3862,11 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/Kega-fusion-SG-1000-Emulator-SEGA-Master-Sytstem-Emulator-SEGA-Genesis-Emulator-Pic-03.jpg"
             ],
             "versions": {
+                "3.6.4": {
+                    "id": "kega-fusion_download_windows",
+                    "url": "https://consolo.is.cc/emuking/kega-fusion/Fusion364.zip",
+                    "os": "Windows"
+                },
                 "KEGA Fusion": {
                     "id": "kega-fusion_download_linux_plugins",
                     "url": "https://consolo.is.cc/emuking/kega-fusion/KEGA_Fusion_PluginsLinux.tar.gz",
@@ -3691,6 +3927,11 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/GenesisPlus-SEGA-Genesis-Emulator-Pic-01.png"
             ],
             "versions": {
+                "1.2a": {
+                    "id": "genesis-plus_download_windows",
+                    "url": "https://consolo.is.cc/emuking/genesis-plus/Gp-062203-win.zip",
+                    "os": "Windows"
+                },
                 "1.3.2": {
                     "id": "genesis-plus_download_macos",
                     "url": "https://consolo.is.cc/emuking/genesis-plus/gplus-macos-132.zip",
@@ -3714,7 +3955,13 @@
             "screenshots": [
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/Gens32-Surreal-SEGA-Genesis-Emulator-Pic-01.png"
             ],
-            "versions": []
+            "versions": {
+                "1.86": {
+                    "id": "gens32_download_windows",
+                    "url": "https://consolo.is.cc/emuking/gens32/Gens32_Surreal_v1_86_HD.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "exodus": {
             "id": "exodus",
@@ -3738,7 +3985,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/Exodus-SEGA-Genesis-Emulator-Pic-04.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/Exodus-SEGA-Genesis-Emulator-Pic-05.jpg"
             ],
-            "versions": []
+            "versions": {
+                "2.1": {
+                    "id": "exodus_download_windows",
+                    "url": "https://consolo.is.cc/emuking/exodus/Exodus_2.1.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "gearsystem": {
             "id": "gearsystem",
@@ -3812,6 +4065,12 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/Xenia-Xbox-360-Emulator-Pic-01.jpg"
             ],
             "versions": {
+                "2022-07-25": {
+                    "id": "xenia_download_windows",
+                    "url": "https://consolo.is.cc/emuking/xenia/xenia_master_25_07_2022.zip",
+                    "date": "2022/07/25",
+                    "os": "Windows"
+                },
                 "2022-07-24": {
                     "id": "xenia_archive_download_windows_24_07_2022",
                     "url": "https://consolo.is.cc/emuking/xenia/xenia_master_24_07_2022.zip",
@@ -3870,7 +4129,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/CXBX-Microsoft-Xbox-Emulator-Pic-05.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/CXBX-Microsoft-Xbox-Emulator-Pic-06.jpg"
             ],
-            "versions": []
+            "versions": {
+                "0.7.8.c": {
+                    "id": "cxbx_download_windows",
+                    "url": "https://consolo.is.cc/emuking/cxbx/Cxbx-0.7.8c.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "dxbx": {
             "id": "dxbx",
@@ -3893,7 +4158,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/DXBX-Microsoft-Xbox-Emulator-Pic-05.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/DXBX-Microsoft-Xbox-Emulator-Pic-06.jpg"
             ],
-            "versions": []
+            "versions": {
+                "0.5": {
+                    "id": "dxbx_download_windows",
+                    "url": "https://consolo.is.cc/emuking/dxbx/Dxbx_0.5_Release_setup.exe",
+                    "os": "Windows"
+                }
+            }
         },
         "xeon": {
             "id": "xeon",
@@ -3911,7 +4182,13 @@
             "screenshots": [
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/Xeon-Microsoft-Xbox-Emulator-Pic01.jpg"
             ],
-            "versions": []
+            "versions": {
+                "0.10": {
+                    "id": "xeon_download_windows",
+                    "url": "https://consolo.is.cc/emuking/xeon/Xeon_10.rar",
+                    "os": "Windows"
+                }
+            }
         },
         "virtualjaguar": {
             "id": "virtualjaguar",
@@ -3973,7 +4250,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/09/Project-Tempest-Atari-Jaguar-Emulator-Pic-05.jpg",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/09/Project-Tempest-Atari-Jaguar-Emulator-Pic-06.jpg"
             ],
-            "versions": []
+            "versions": {
+                "0.95": {
+                    "id": "project-tempest_download_windows",
+                    "url": "https://consolo.is.cc/emuking/project-tempest/PTv0.95.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "jagulator": {
             "id": "jagulator",
@@ -3996,7 +4279,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/09/Jagulator-Atari-Jaguar-Emulator-Pic-05.png",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/09/Jagulator-Atari-Jaguar-Emulator-Pic-06.png"
             ],
-            "versions": []
+            "versions": {
+                "2.0.2": {
+                    "id": "jagulator_download_windows",
+                    "url": "https://consolo.is.cc/emuking/jagulator/jagulator-2.0.2.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "handy": {
             "id": "handy",
@@ -4024,15 +4313,15 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/09/Handy-Atari-LYNX-Emulator-Pic-09.gif"
             ],
             "versions": {
-                "0.97": {
-                    "id": "handy_download_macos",
-                    "url": "https://consolo.is.cc/emuking/handy/handy-097.dmg",
-                    "os": "Apple"
-                },
                 "0.95": {
                     "id": "handy_download_source",
                     "url": "https://consolo.is.cc/emuking/handy/Handy-win32src-0.95.zip",
                     "os": "File-code"
+                },
+                "0.97": {
+                    "id": "handy_download_macos",
+                    "url": "https://consolo.is.cc/emuking/handy/handy-097.dmg",
+                    "os": "Apple"
                 }
             }
         },
@@ -4183,6 +4472,11 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/09/Rainbow-Atari-5200-Emulator-Pic-06.png"
             ],
             "versions": {
+                "2.1": {
+                    "id": "rainbow_download_windows",
+                    "url": "https://consolo.is.cc/emuking/rainbow/rainbow220.zip",
+                    "os": "Windows"
+                },
                 "1.57": {
                     "id": "rainbow_download_macos",
                     "url": "https://consolo.is.cc/emuking/rainbow/rainbow-157.dmg",
@@ -4235,7 +4529,13 @@
             "screenshots": [
                 "https://cdn.emulationking.com/wp-content/uploads/2016/09/Atari-Atari-5200-Emulator-Pic-01.png"
             ],
-            "versions": []
+            "versions": {
+                "1.80": {
+                    "id": "atariplusplus_download_windows",
+                    "url": "https://consolo.is.cc/emuking/atariplusplus/atariplusplus_win_1.80.zip",
+                    "os": "Windows"
+                }
+            }
         },
         "kat5200": {
             "id": "kat5200",
@@ -4360,7 +4660,13 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/09/PC-Atari-Emulator-Atari-2600-Emulator-Pic-05.gif",
                 "https://cdn.emulationking.com/wp-content/uploads/2016/09/PC-Atari-Emulator-Atari-2600-Emulator-Pic-06.gif"
             ],
-            "versions": []
+            "versions": {
+                "2.6": {
+                    "id": "pc-atari-emulator_download_windows",
+                    "url": "https://consolo.is.cc/emuking/pc-atari-emulator/pcaewin.zip",
+                    "os": "Windows"
+                }
+            }
         }
     }
 }
