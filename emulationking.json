@@ -944,49 +944,49 @@
             "versions": {
                 "2022-08-18": {
                     "id": "yuzu-emulator_download_windows",
-                    "url": "https://files.emulationking.com/switch/emulators/yuzu/yuzu-windows-msvc-20220818-5fcb5e4c3_mainline.zip",
+                    "url": "https://consolo.is.cc/emuking/yuzu-emulator/yuzu-windows-msvc-20220818-5fcb5e4c3_mainline.zip",
                     "date": "2022/08/18",
                     "os": "Windows",
                     "branch": "Mainline"
                 },
                 "2022-08-17": {
                     "id": "yuzu-emulator_archive_download_windows_17_08_2022",
-                    "url": "https://files.emulationking.com/switch/emulators/yuzu/yuzu-windows-msvc-20220817-90366a461_mainline.zip",
+                    "url": "https://consolo.is.cc/emuking/yuzu-emulator/yuzu-windows-msvc-20220817-90366a461_mainline.zip",
                     "date": "2022/08/17",
                     "os": "Windows",
                     "branch": "Mainline"
                 },
                 "2022-08-16": {
                     "id": "yuzu-emulator_archive_download_windows_16_08_2022",
-                    "url": "https://files.emulationking.com/switch/emulators/yuzu/yuzu-windows-msvc-20220816-248f82ac6_mainline.zip",
+                    "url": "https://consolo.is.cc/emuking/yuzu-emulator/yuzu-windows-msvc-20220816-248f82ac6_mainline.zip",
                     "date": "2022/08/16",
                     "os": "Windows",
                     "branch": "Mainline"
                 },
                 "2022-08-15": {
                     "id": "yuzu-emulator_archive_download_windows_15_08_2022",
-                    "url": "https://files.emulationking.com/switch/emulators/yuzu/yuzu-windows-msvc-20220815-0d3ccfbd2_mainline.zip",
+                    "url": "https://consolo.is.cc/emuking/yuzu-emulator/yuzu-windows-msvc-20220815-0d3ccfbd2_mainline.zip",
                     "date": "2022/08/15",
                     "os": "Windows",
                     "branch": "Mainline"
                 },
                 "2022-08-14": {
                     "id": "yuzu-emulator_archive_download_windows_14_08_2022",
-                    "url": "https://files.emulationking.com/switch/emulators/yuzu/yuzu-windows-msvc-20220814-60db504e7_mainline.zip",
+                    "url": "https://consolo.is.cc/emuking/yuzu-emulator/yuzu-windows-msvc-20220814-60db504e7_mainline.zip",
                     "date": "2022/08/14",
                     "os": "Windows",
                     "branch": "Mainline"
                 },
                 "2022-08-13": {
                     "id": "yuzu-emulator_archive_download_windows_13_08_2022",
-                    "url": "https://files.emulationking.com/switch/emulators/yuzu/yuzu-windows-msvc-20220813-9f7e98c05_mainline.zip",
+                    "url": "https://consolo.is.cc/emuking/yuzu-emulator/yuzu-windows-msvc-20220813-9f7e98c05_mainline.zip",
                     "date": "2022/08/13",
                     "os": "Windows",
                     "branch": "Mainline"
                 },
                 "2022-08-12": {
                     "id": "yuzu-emulator_archive_download_windows_12_08_2022",
-                    "url": "https://files.emulationking.com/switch/emulators/yuzu/yuzu-windows-msvc-20220812-91c58b56a_mainline.zip",
+                    "url": "https://consolo.is.cc/emuking/yuzu-emulator/yuzu-windows-msvc-20220812-91c58b56a_mainline.zip",
                     "date": "2022/08/12",
                     "os": "Windows",
                     "branch": "Mainline"
@@ -1017,45 +1017,33 @@
             "versions": {
                 "1.26.1": {
                     "id": "cemu_archive_download_windows_1_26_1",
-                    "url": "https://files.emulationking.com/wiiu/emulators/cemu/cemu_1.26.1.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/cemu/cemu_1.26.1.zip",
+                    "os": "Windows"
                 },
                 "1.26.0": {
                     "id": "cemu_archive_download_windows_1_26_0",
-                    "url": "https://files.emulationking.com/wiiu/emulators/cemu/cemu_1.26.0.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/cemu/cemu_1.26.0.zip",
+                    "os": "Windows"
                 },
                 "1.25.6": {
                     "id": "cemu_archive_download_windows_1_25_6",
-                    "url": "https://files.emulationking.com/wiiu/emulators/cemu/cemu_1.25.6.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/cemu/cemu_1.25.6.zip",
+                    "os": "Windows"
                 },
                 "1.25.5": {
                     "id": "cemu_archive_download_windows_1_25_5",
-                    "url": "https://files.emulationking.com/wiiu/emulators/cemu/cemu_1.25.5.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/cemu/cemu_1.25.5.zip",
+                    "os": "Windows"
                 },
                 "1.25.4": {
                     "id": "cemu_archive_download_windows_1_25_4",
-                    "url": "https://files.emulationking.com/wiiu/emulators/cemu/cemu_1.25.4.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/cemu/cemu_1.25.4.zip",
+                    "os": "Windows"
                 },
                 "1.25.3": {
                     "id": "cemu_archive_download_windows_1_25_3",
-                    "url": "https://files.emulationking.com/wiiu/emulators/cemu/cemu_1.25.3.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/cemu/cemu_1.25.3.zip",
+                    "os": "Windows"
                 }
             }
         },
@@ -1107,129 +1095,127 @@
             "versions": {
                 "nightly-1779 2022-08-15": {
                     "id": "citra_download_windows_nightly",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra-windows-mingw-20220814-58d0705_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-windows-mingw-20220814-58d0705_nightly.7z",
                     "date": "2022/08/15",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "nightly-1778 2022-08-05": {
                     "id": "citra_archive_download_windows_nightly_nightly_1778_05_08_2022",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra-windows-mingw-20220804-a51b1cd_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-windows-mingw-20220804-a51b1cd_nightly.7z",
                     "date": "2022/08/05",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "nightly-1777 2022-08-02": {
                     "id": "citra_archive_download_windows_nightly_nightly_1777_02_08_2022",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra-windows-mingw-20220801-bf6e4a4_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-windows-mingw-20220801-bf6e4a4_nightly.7z",
                     "date": "2022/08/02",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "nightly-1776 2022-07-29": {
                     "id": "citra_archive_download_windows_nightly_nightly_1776_29_07_2022",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra-windows-mingw-20220728-6764264_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-windows-mingw-20220728-6764264_nightly.7z",
                     "date": "2022/07/29",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "nightly-1775 2022-07-24": {
                     "id": "citra_archive_download_windows_nightly_nightly_1775_24_07_2022",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra-windows-mingw-20220723-357025d_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-windows-mingw-20220723-357025d_nightly.7z",
                     "date": "2022/07/24",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "nightly-1774 2022-07-18": {
                     "id": "citra_archive_download_windows_nightly_nightly_1774_18_07_2022",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra-windows-mingw-20220717-2d95b99_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-windows-mingw-20220717-2d95b99_nightly.7z",
                     "date": "2022/07/18",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "nightly-1773 2022-07-08": {
                     "id": "citra_archive_download_windows_nightly_nightly_1773_08_07_2022",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra-windows-mingw-20220706-353aaaf_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-windows-mingw-20220706-353aaaf_nightly.7z",
                     "date": "2022/07/08",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "canary-2239 2022-08-19": {
                     "id": "citra_download_windows_canary",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra-windows-mingw-20220819-82179e1_canary.7z",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-windows-mingw-20220819-82179e1_canary.7z",
                     "date": "2022/08/19",
                     "os": "Windows",
                     "branch": "Canary"
                 },
                 "canary-2238 2022-08-18": {
                     "id": "citra_archive_download_windows_canary_canary_2238_18_08_2022",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra-windows-mingw-20220818-6d388d0_canary.7z",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-windows-mingw-20220818-6d388d0_canary.7z",
                     "date": "2022/08/18",
                     "os": "Windows",
                     "branch": "Canary"
                 },
                 "canary-2237 2022-08-17": {
                     "id": "citra_archive_download_windows_canary_canary_2237_17_08_2022",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra-windows-mingw-20220817-cde88be_canary.7z",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-windows-mingw-20220817-cde88be_canary.7z",
                     "date": "2022/08/17",
                     "os": "Windows",
                     "branch": "Canary"
                 },
                 "canary-2236 2022-08-16": {
                     "id": "citra_archive_download_windows_canary_canary_2236_16_08_2022",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra-windows-mingw-20220816-976fa35_canary.7z",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-windows-mingw-20220816-976fa35_canary.7z",
                     "date": "2022/08/16",
                     "os": "Windows",
                     "branch": "Canary"
                 },
                 "canary-2235 2022-08-15": {
                     "id": "citra_archive_download_windows_canary_canary_2235_15_08_2022",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra-windows-mingw-20220815-159f734_canary.7z",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-windows-mingw-20220815-159f734_canary.7z",
                     "date": "2022/08/15",
                     "os": "Windows",
                     "branch": "Canary"
                 },
                 "canary-2234 2022-08-14": {
                     "id": "citra_archive_download_windows_canary_canary_2234_14_08_2022",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra-windows-mingw-20220814-4e39a8d_canary.7z",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-windows-mingw-20220814-4e39a8d_canary.7z",
                     "date": "2022/08/14",
                     "os": "Windows",
                     "branch": "Canary"
                 },
                 "canary-2233 2022-08-13": {
                     "id": "citra_archive_download_windows_canary_canary_2233_13_08_2022",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra-windows-mingw-20220813-0e4bdbf_canary.7z",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-windows-mingw-20220813-0e4bdbf_canary.7z",
                     "date": "2022/08/13",
                     "os": "Windows",
                     "branch": "Canary"
                 },
                 "beta-15 2021-05-08": {
                     "id": "citra_download_android",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra_app-release-bed6a4f_android.apk",
+                    "url": "https://consolo.is.cc/emuking/citra/citra_app-release-bed6a4f_android.apk",
                     "date": "2021/05/08",
                     "os": "Android",
                     "branch": "Android"
                 },
                 "beta-14 2021-02-28": {
                     "id": "citra_archive_download_android_beta_14_28_02_2021",
-                    "url": "https://files.emulationking.com/n3ds/emulators/citra/citra_app-release-a6860a9_android.apk",
+                    "url": "https://consolo.is.cc/emuking/citra/citra_app-release-a6860a9_android.apk",
                     "date": "2021/02/28",
                     "os": "Android",
                     "branch": "Android"
                 },
                 "2020-01-21": {
                     "id": "citra_archive_download_windows",
-                    "url": "https://files.emulationking.com/n3ds/citra/citra-windows-mingw-20200121-bad0439.tar.gz",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-windows-mingw-20200121-bad0439.tar.gz",
                     "date": "2020/01/21",
-                    "os": "Windows",
-                    "branch": null
+                    "os": "Windows"
                 },
                 "2019-06-09": {
                     "id": "citra_archive_download_macosx_09_06_2019",
-                    "url": "https://files.emulationking.com/n3ds/citra/citra-osx-20190609-318095f.tar.gz",
+                    "url": "https://consolo.is.cc/emuking/citra/citra-osx-20190609-318095f.tar.gz",
                     "date": "2019/06/09",
-                    "os": "Apple",
-                    "branch": null
+                    "os": "Apple"
                 }
             }
         },
@@ -1281,129 +1267,124 @@
             "versions": {
                 "5.0": {
                     "id": "dolphin_download_windows",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-x64-5.0_stable.exe",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-x64-5.0_stable.exe",
                     "os": "Windows",
                     "branch": "Stable"
                 },
                 "5.0-17210 2022-08-18": {
                     "id": "dolphin_download_windows_dev",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-17210-x64_development.7z",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-17210-x64_development.7z",
                     "date": "2022/08/18",
                     "os": "Windows",
                     "branch": "Development"
                 },
                 "5.0-17199 2022-08-17": {
                     "id": "dolphin_archive_download_windows_dev_5_0_17199_17_08_2022",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-17199-x64_development.7z",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-17199-x64_development.7z",
                     "date": "2022/08/17",
                     "os": "Windows",
                     "branch": "Development"
                 },
                 "5.0-17197 2022-08-14": {
                     "id": "dolphin_archive_download_windows_dev_5_0_17197_14_08_2022",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-17197-x64_development.7z",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-17197-x64_development.7z",
                     "date": "2022/08/14",
                     "os": "Windows",
                     "branch": "Development"
                 },
                 "5.0-17195 2022-08-12": {
                     "id": "dolphin_archive_download_windows_dev_5_0_17195_12_08_2022",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-17195-x64_development.7z",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-17195-x64_development.7z",
                     "date": "2022/08/12",
                     "os": "Windows",
                     "branch": "Development"
                 },
                 "5.0-17193 2022-08-11": {
                     "id": "dolphin_archive_download_windows_dev_5_0_17193_11_08_2022",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-17193-x64_development.7z",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-17193-x64_development.7z",
                     "date": "2022/08/11",
                     "os": "Windows",
                     "branch": "Development"
                 },
                 "5.0-17186 2022-08-10": {
                     "id": "dolphin_archive_download_windows_dev_5_0_17186_10_08_2022",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-17186-x64_development.7z",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-17186-x64_development.7z",
                     "date": "2022/08/10",
                     "os": "Windows",
                     "branch": "Development"
                 },
                 "5.0-17178 2022-08-10": {
                     "id": "dolphin_archive_download_windows_dev_5_0_17178_10_08_2022",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-17178-x64_development.7z",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-17178-x64_development.7z",
                     "date": "2022/08/10",
                     "os": "Windows",
                     "branch": "Development"
                 },
                 "5.0-16793 2022-07-06": {
                     "id": "dolphin_download_windows_beta",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-16793-x64_beta.7z",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-16793-x64_beta.7z",
                     "date": "2022/07/06",
                     "os": "Windows",
                     "branch": "Beta"
                 },
                 "5.0-16380 2022-05-06": {
                     "id": "dolphin_archive_download_windows_beta_5_0_16380_06_05_2022",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-16380-x64_beta.7z",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-16380-x64_beta.7z",
                     "date": "2022/05/06",
                     "os": "Windows",
                     "branch": "Beta"
                 },
                 "5.0-16101 2022-03-02": {
                     "id": "dolphin_archive_download_windows_beta_5_0_16101_02_03_2022",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-16101-x64_beta.7z",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-16101-x64_beta.7z",
                     "date": "2022/03/02",
                     "os": "Windows",
                     "branch": "Beta"
                 },
                 "5.0-15993 2022-02-01": {
                     "id": "dolphin_archive_download_windows_beta_5_0_15993_01_02_2022",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-15993-x64_beta.7z",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-15993-x64_beta.7z",
                     "date": "2022/02/01",
                     "os": "Windows",
                     "branch": "Beta"
                 },
                 "5.0-15445 2021-11-01": {
                     "id": "dolphin_archive_download_windows_beta_5_0_15445_01_11_2021",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-15445-x64_beta.7z",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-15445-x64_beta.7z",
                     "date": "2021/11/01",
                     "os": "Windows",
                     "branch": "Beta"
                 },
                 "5.0-15260 2021-10-03": {
                     "id": "dolphin_archive_download_windows_beta_5_0_15260_03_10_2021",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-15260-x64_beta.7z",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-15260-x64_beta.7z",
                     "date": "2021/10/03",
                     "os": "Windows",
                     "branch": "Beta"
                 },
                 "5.0-15105 2021-09-03": {
                     "id": "dolphin_archive_download_windows_beta_5_0_15105_03_09_2021",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-15105-x64_beta.7z",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-15105-x64_beta.7z",
                     "date": "2021/09/03",
                     "os": "Windows",
                     "branch": "Beta"
                 },
                 "2020-01-21": {
                     "id": "dolphin_archive_download_macosx_21_01_2020",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-11526.dmg",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-11526.dmg",
                     "date": "2020/01/21",
-                    "os": "Apple",
-                    "branch": null
+                    "os": "Apple"
                 },
                 "5.0 Stable": {
                     "id": "dolphin_archive_download_windows_5_0",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-64-5.0.exe",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-64-5.0.exe",
+                    "os": "Windows"
                 },
                 "2019-06-20": {
                     "id": "dolphin_archive_download_windows_20_06_2019",
-                    "url": "https://files.emulationking.com/wii/emulators/dolphin/dolphin-master-5.0-10549-x64.zip",
+                    "url": "https://consolo.is.cc/emuking/dolphin/dolphin-master-5.0-10549-x64.zip",
                     "date": "2019/06/20",
-                    "os": "Windows",
-                    "branch": null
+                    "os": "Windows"
                 }
             }
         },
@@ -1431,45 +1412,38 @@
             "versions": {
                 "2022-07-30": {
                     "id": "desmume_archive_download_windows64_30_07_2022",
-                    "url": "https://files.emulationking.com/nds/emulators/desmume/DeSmuME-VS2019-x64-Release_30_07_2022.exe",
+                    "url": "https://consolo.is.cc/emuking/desmume/DeSmuME-VS2019-x64-Release_30_07_2022.exe",
                     "date": "2022/07/30",
-                    "os": "Windows",
-                    "branch": null
+                    "os": "Windows"
                 },
                 "2022-07-21": {
                     "id": "desmume_archive_download_windows64_21_07_2022",
-                    "url": "https://files.emulationking.com/nds/emulators/desmume/DeSmuME-VS2019-x64-Release_21_07_2022.exe",
+                    "url": "https://consolo.is.cc/emuking/desmume/DeSmuME-VS2019-x64-Release_21_07_2022.exe",
                     "date": "2022/07/21",
-                    "os": "Windows",
-                    "branch": null
+                    "os": "Windows"
                 },
                 "2022-06-28": {
                     "id": "desmume_archive_download_windows64_28_06_2022",
-                    "url": "https://files.emulationking.com/nds/emulators/desmume/DeSmuME-VS2019-x64-Release_28_06_2022.exe",
+                    "url": "https://consolo.is.cc/emuking/desmume/DeSmuME-VS2019-x64-Release_28_06_2022.exe",
                     "date": "2022/06/28",
-                    "os": "Windows",
-                    "branch": null
+                    "os": "Windows"
                 },
                 "2022-06-20": {
                     "id": "desmume_archive_download_windows64_20_06_2022",
-                    "url": "https://files.emulationking.com/nds/emulators/desmume/DeSmuME-VS2019-x64-Release_20_06_2022.exe",
+                    "url": "https://consolo.is.cc/emuking/desmume/DeSmuME-VS2019-x64-Release_20_06_2022.exe",
                     "date": "2022/06/20",
-                    "os": "Windows",
-                    "branch": null
+                    "os": "Windows"
                 },
                 "2022-06-05": {
                     "id": "desmume_archive_download_windows64_05_06_2022",
-                    "url": "https://files.emulationking.com/nds/emulators/desmume/DeSmuME-VS2019-x64-Release_05_06_2022.exe",
+                    "url": "https://consolo.is.cc/emuking/desmume/DeSmuME-VS2019-x64-Release_05_06_2022.exe",
                     "date": "2022/06/05",
-                    "os": "Windows",
-                    "branch": null
+                    "os": "Windows"
                 },
                 "0.9.11": {
                     "id": "desmume_archive_download_windows64_0_9_11",
-                    "url": "https://files.emulationking.com/nds/emulators/desmume/desmume-0.9.11-win64.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/desmume/desmume-0.9.11-win64.zip",
+                    "os": "Windows"
                 }
             }
         },
@@ -1497,24 +1471,18 @@
             "versions": {
                 "3.05": {
                     "id": "nogba_download_windows",
-                    "url": "https://files.emulationking.com/nds/emulators/no$gba/no$gba-w_3_05.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/nogba/no$gba-w_3_05.zip",
+                    "os": "Windows"
                 },
                 "3.04": {
                     "id": "nogba_archive_download_windows_3_04",
-                    "url": "https://files.emulationking.com/nds/emulators/no$gba/no$gba-w_3_04.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/nogba/no$gba-w_3_04.zip",
+                    "os": "Windows"
                 },
                 "3.0": {
                     "id": "nogba_archive_download_windows_3_0",
-                    "url": "https://files.emulationking.com/nds/emulators/no$gba/no$gba-3-00-gaming.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/nogba/no$gba-3-00-gaming.zip",
+                    "os": "Windows"
                 }
             }
         },
@@ -1541,59 +1509,43 @@
             "versions": {
                 "1.0.3.9": {
                     "id": "ideas-emulator_download_windows",
-                    "url": "https://files.emulationking.com/nds/emulators/ideas/ideas1040.7z",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/ideas-emulator/ideas1040.7z",
+                    "os": "Windows"
                 },
                 "Audio": {
                     "id": "ideas-emulator_download_audioplugin",
-                    "url": "https://files.emulationking.com/nds/emulators/ideas/syncro%20audio%20plugin%20win-linux.zip",
-                    "date": null,
-                    "os": "Download",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/ideas-emulator/syncro%20audio%20plugin%20win-linux.zip",
+                    "os": "Download"
                 },
                 "Mic": {
                     "id": "ideas-emulator_download_micplugin",
-                    "url": "https://files.emulationking.com/nds/emulators/ideas/mic%20plugin%20win.zip",
-                    "date": null,
-                    "os": "Download",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/ideas-emulator/mic%20plugin%20win.zip",
+                    "os": "Download"
                 },
                 "WiFi": {
                     "id": "ideas-emulator_download_wifiplugin",
-                    "url": "https://files.emulationking.com/nds/emulators/ideas/wifiplugin%20win-linux.zip",
-                    "date": null,
-                    "os": "Download",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/ideas-emulator/wifiplugin%20win-linux.zip",
+                    "os": "Download"
                 },
                 "DsPad": {
                     "id": "ideas-emulator_download_dspadplugin",
-                    "url": "https://files.emulationking.com/nds/emulators/ideas/DsPad1.6.1%20win-linux.zip",
-                    "date": null,
-                    "os": "Download",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/ideas-emulator/DsPad1.6.1%20win-linux.zip",
+                    "os": "Download"
                 },
                 "Direct Input": {
                     "id": "ideas-emulator_download_directinputplugin",
-                    "url": "https://files.emulationking.com/nds/emulators/ideas/dinputplugin%20win.zip",
-                    "date": null,
-                    "os": "Download",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/ideas-emulator/dinputplugin%20win.zip",
+                    "os": "Download"
                 },
                 "AVI Capture": {
                     "id": "ideas-emulator_download_avicaptureplugin",
-                    "url": "https://files.emulationking.com/nds/emulators/ideas/avicapplugin%20win.zip",
-                    "date": null,
-                    "os": "Download",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/ideas-emulator/avicapplugin%20win.zip",
+                    "os": "Download"
                 },
                 "AceKard": {
                     "id": "ideas-emulator_download_acekardplugin",
-                    "url": "https://files.emulationking.com/nds/emulators/ideas/acekardplugin%20win-linux.zip",
-                    "date": null,
-                    "os": "Download",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/ideas-emulator/acekardplugin%20win-linux.zip",
+                    "os": "Download"
                 }
             }
         },
@@ -1660,10 +1612,8 @@
             "versions": {
                 "0.3": {
                     "id": "gcube_download_mac",
-                    "url": "https://files.emulationking.com/gamecube/emulators/gcube/gcube-0.3-mac.tar.bz2",
-                    "date": null,
-                    "os": "Apple",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/gcube/gcube-0.3-mac.tar.bz2",
+                    "os": "Apple"
                 }
             }
         },
@@ -1742,10 +1692,8 @@
             "versions": {
                 "r8": {
                     "id": "whinecube_download_source",
-                    "url": "https://files.emulationking.com/gamecube/emulators/whinecube/whinecube_r8_src.zip",
-                    "date": null,
-                    "os": "File-code",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/whinecube/whinecube_r8_src.zip",
+                    "os": "File-code"
                 }
             }
         },
@@ -1793,31 +1741,23 @@
             "versions": {
                 "v2.1.4": {
                     "id": "visual-boy-advance_download_windows_32",
-                    "url": "https://files.emulationking.com/gba/emulators/visualboyadvance/visualboyadvance-m-Win-32bit_v2_1_4.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/visual-boy-advance/visualboyadvance-m-Win-32bit_v2_1_4.zip",
+                    "os": "Windows"
                 },
                 "1.7.1": {
                     "id": "visual-boy-advance_download_linux",
-                    "url": "https://files.emulationking.com/gba/emulators/visualboyadvance/VisualBoyAdvance-1.7.1-SDL-linux-glibc22.tar.gz",
-                    "date": null,
-                    "os": "Linux",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/visual-boy-advance/VisualBoyAdvance-1.7.1-SDL-linux-glibc22.tar.gz",
+                    "os": "Linux"
                 },
                 "2.1.4": {
                     "id": "visual-boy-advance_archive_download_macosx_32_2_1_4",
-                    "url": "https://files.emulationking.com/gba/emulators/visualboyadvance/visualboyadvance-m-2.1.4-Mac-32bit.zip",
-                    "date": null,
-                    "os": "Apple",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/visual-boy-advance/visualboyadvance-m-2.1.4-Mac-32bit.zip",
+                    "os": "Apple"
                 },
                 "2.1.3": {
                     "id": "visual-boy-advance_archive_download_macosx_2_1_3_32",
-                    "url": "https://files.emulationking.com/gba/emulators/visualboyadvance/visualboyadvance-m-2.1.3-Mac-32bit.zip",
-                    "date": null,
-                    "os": "Apple",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/visual-boy-advance/visualboyadvance-m-2.1.3-Mac-32bit.zip",
+                    "os": "Apple"
                 }
             }
         },
@@ -1846,45 +1786,33 @@
             "versions": {
                 "0.9.3": {
                     "id": "mgba_download_windows_32",
-                    "url": "https://files.emulationking.com/gba/emulators/mgba/mGBA-0.9.3-win32.7z",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/mgba/mGBA-0.9.3-win32.7z",
+                    "os": "Windows"
                 },
                 "0.9.2": {
                     "id": "mgba_archive_download_windows_32_0_9_2",
-                    "url": "https://files.emulationking.com/gba/emulators/mgba/mGBA-0.9.2-win32.7z",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/mgba/mGBA-0.9.2-win32.7z",
+                    "os": "Windows"
                 },
                 "0.9.1": {
                     "id": "mgba_archive_download_windows_32_0_9_1",
-                    "url": "https://files.emulationking.com/gba/emulators/mgba/mGBA-0.9.1-win32.7z",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/mgba/mGBA-0.9.1-win32.7z",
+                    "os": "Windows"
                 },
                 "0.9.0": {
                     "id": "mgba_archive_download_windows_32_0_9_0",
-                    "url": "https://files.emulationking.com/gba/emulators/mgba/mGBA-0.9.0-win32.7z",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/mgba/mGBA-0.9.0-win32.7z",
+                    "os": "Windows"
                 },
                 "0.8.0": {
                     "id": "mgba_archive_download_windows_32_0_8_0",
-                    "url": "https://files.emulationking.com/gba/emulators/mgba/mGBA-0.8.0-win32.7z",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/mgba/mGBA-0.8.0-win32.7z",
+                    "os": "Windows"
                 },
                 "0.7.2": {
                     "id": "mgba_archive_download_windows_0_7_2",
-                    "url": "https://files.emulationking.com/gba/emulators/mgba/mGBA-0.7.2-win64.7z",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/mgba/mGBA-0.7.2-win64.7z",
+                    "os": "Windows"
                 }
             }
         },
@@ -1916,73 +1844,70 @@
             "versions": {
                 "v107": {
                     "id": "higan_download_windows",
-                    "url": "https://files.emulationking.com/multisystem/higan/higan_v107-windows.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/higan/higan_v107-windows.zip",
                     "os": "Windows",
                     "branch": "Stable"
                 },
                 "2021-08-18": {
                     "id": "higan_download_windows_nightly",
-                    "url": "https://files.emulationking.com/multisystem/higan/higan_windows_18_08_2021_nightly.zip",
+                    "url": "https://consolo.is.cc/emuking/higan/higan_windows_18_08_2021_nightly.zip",
                     "date": "2021/08/18",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2021-07-12": {
                     "id": "higan_archive_download_windows_nightly_12_07_2021",
-                    "url": "https://files.emulationking.com/multisystem/higan/higan_windows_12_07_2021_nightly.zip",
+                    "url": "https://consolo.is.cc/emuking/higan/higan_windows_12_07_2021_nightly.zip",
                     "date": "2021/07/12",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2021-07-05": {
                     "id": "higan_archive_download_macosx_nightly_05_07_2021",
-                    "url": "https://files.emulationking.com/multisystem/higan/higan_macosx_05_07_2021_nightly.zip",
+                    "url": "https://consolo.is.cc/emuking/higan/higan_macosx_05_07_2021_nightly.zip",
                     "date": "2021/07/05",
                     "os": "Apple",
                     "branch": "Nightly"
                 },
                 "2021-05-11": {
                     "id": "higan_archive_download_windows_nightly_11_05_2021",
-                    "url": "https://files.emulationking.com/multisystem/higan/higan_windows_11_05_2021_nightly.zip",
+                    "url": "https://consolo.is.cc/emuking/higan/higan_windows_11_05_2021_nightly.zip",
                     "date": "2021/05/11",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2021-05-04": {
                     "id": "higan_archive_download_windows_nightly_04_05_2021",
-                    "url": "https://files.emulationking.com/multisystem/higan/higan_windows_04_05_2021_nightly.zip",
+                    "url": "https://consolo.is.cc/emuking/higan/higan_windows_04_05_2021_nightly.zip",
                     "date": "2021/05/04",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2021-05-02": {
                     "id": "higan_archive_download_windows_nightly_02_05_2021",
-                    "url": "https://files.emulationking.com/multisystem/higan/higan_windows_02_05_2021_nightly.zip",
+                    "url": "https://consolo.is.cc/emuking/higan/higan_windows_02_05_2021_nightly.zip",
                     "date": "2021/05/02",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2021-04-14": {
                     "id": "higan_archive_download_windows_nightly_14_04_2021",
-                    "url": "https://files.emulationking.com/multisystem/higan/higan_windows_14_04_2021_nightly.zip",
+                    "url": "https://consolo.is.cc/emuking/higan/higan_windows_14_04_2021_nightly.zip",
                     "date": "2021/04/14",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2021-04-08": {
                     "id": "higan_archive_download_windows_nightly_08_04_2021",
-                    "url": "https://files.emulationking.com/multisystem/higan/higan_windows_08_04_2021_nightly.zip",
+                    "url": "https://consolo.is.cc/emuking/higan/higan_windows_08_04_2021_nightly.zip",
                     "date": "2021/04/08",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "v106": {
                     "id": "higan_archive_download_windows_v106",
-                    "url": "https://files.emulationking.com/multisystem/higan/higan_v106-windows.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/higan/higan_v106-windows.zip",
+                    "os": "Windows"
                 }
             }
         },
@@ -2011,17 +1936,13 @@
             "versions": {
                 "1.5": {
                     "id": "gbeplus_archive_download_windows_1_5",
-                    "url": "https://files.emulationking.com/gba/emulators/gbeplus/gbe_plus_1.5.7z",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/gbeplus/gbe_plus_1.5.7z",
+                    "os": "Windows"
                 },
                 "1.3": {
                     "id": "gbeplus_archive_download_windows_1_3",
-                    "url": "https://files.emulationking.com/gba/emulators/gbeplus/gbe_plus_1.3.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/gbeplus/gbe_plus_1.3.zip",
+                    "os": "Windows"
                 }
             }
         },
@@ -2049,17 +1970,13 @@
             "versions": {
                 "0.4.0": {
                     "id": "boycottadvance_download_macosx",
-                    "url": "https://files.emulationking.com/gba/emulators/boycottadvance/ba-040.dmg",
-                    "date": null,
-                    "os": "Apple",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/boycottadvance/ba-040.dmg",
+                    "os": "Apple"
                 },
                 "0.2.8": {
                     "id": "boycottadvance_download_linux",
-                    "url": "https://files.emulationking.com/gba/emulators/boycottadvance/BoyCottAdvance-SDL-0.2.8R1.i386.linux.tar.gz",
-                    "date": null,
-                    "os": "Linux",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/boycottadvance/BoyCottAdvance-SDL-0.2.8R1.i386.linux.tar.gz",
+                    "os": "Linux"
                 }
             }
         },
@@ -2084,10 +2001,8 @@
             "versions": {
                 "1.0.0.0": {
                     "id": "rascalboy-advance_download_multiplayerplugin",
-                    "url": "https://files.emulationking.com/gba/emulators/rascalboy/rbamulti_1000.zip",
-                    "date": null,
-                    "os": "Download",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/rascalboy-advance/rbamulti_1000.zip",
+                    "os": "Download"
                 }
             }
         },
@@ -2157,10 +2072,8 @@
             "versions": {
                 "2.05": {
                     "id": "kigb_download_linux",
-                    "url": "https://files.emulationking.com/gb/emulators/kigb/kigb_lin.tar.gz",
-                    "date": null,
-                    "os": "Linux",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/kigb/kigb_lin.tar.gz",
+                    "os": "Linux"
                 }
             }
         },
@@ -2190,10 +2103,8 @@
             "versions": {
                 "2.7.0": {
                     "id": "gearboy_download_linux",
-                    "url": "https://files.emulationking.com/gb/emulators/gearboy/Gearboy-2.7.0-Linux.tar.xz",
-                    "date": null,
-                    "os": "Linux",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/gearboy/Gearboy-2.7.0-Linux.tar.xz",
+                    "os": "Linux"
                 }
             }
         },
@@ -2220,10 +2131,8 @@
             "versions": {
                 "r571": {
                     "id": "gambatte_download_macosx",
-                    "url": "https://files.emulationking.com/gb/emulators/gambatte/gambatte_qt_macx_intel-r571.dmg",
-                    "date": null,
-                    "os": "Apple",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/gambatte/gambatte_qt_macx_intel-r571.dmg",
+                    "os": "Apple"
                 }
             }
         },
@@ -2269,24 +2178,18 @@
             "versions": {
                 "1.5.9": {
                     "id": "bgb_download_windows",
-                    "url": "https://files.emulationking.com/gb/emulators/bgbbgb_1_5_9.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/bgb/bgbbgb_1_5_9.zip",
+                    "os": "Windows"
                 },
                 "1.5.8": {
                     "id": "bgb_archive_download_windows_1_5_8",
-                    "url": "https://files.emulationking.com/gb/emulators/bgbbgb_1_5_8.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/bgb/bgbbgb_1_5_8.zip",
+                    "os": "Windows"
                 },
                 "1.5.7": {
                     "id": "bgb_archive_download_windows64_1_5_7",
-                    "url": "https://files.emulationking.com/gb/emulators/bgb/bgbw64-1.5.7.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/bgb/bgbw64-1.5.7.zip",
+                    "os": "Windows"
                 }
             }
         },
@@ -2387,10 +2290,8 @@
             "versions": {
                 "0.96": {
                     "id": "tgb-dual_download_windows-english",
-                    "url": "https://files.emulationking.com/gb/emulators/tgbdual/tgb_dual_8_3-1023.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/tgb-dual/tgb_dual_8_3-1023.zip",
+                    "os": "Windows"
                 }
             }
         },
@@ -2418,10 +2319,8 @@
             "versions": {
                 "2.3.2": {
                     "id": "project-64_archive_download_windows_2_3_2",
-                    "url": "https://files.emulationking.com/n64/emulators/project64/pj64-v2.3.2-setup.exe",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/project-64/pj64-v2.3.2-setup.exe",
+                    "os": "Windows"
                 }
             }
         },
@@ -2449,10 +2348,8 @@
             "versions": {
                 "2.5.9": {
                     "id": "mupen64_download_macosx",
-                    "url": "https://files.emulationking.com/n64/emulators/mupen64plus/mupen64plus-bundle-osx-2.5.9.zip",
-                    "date": null,
-                    "os": "Apple",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/mupen64/mupen64plus-bundle-osx-2.5.9.zip",
+                    "os": "Apple"
                 }
             }
         },
@@ -2477,10 +2374,8 @@
             "versions": {
                 "1.01": {
                     "id": "1964-emulator_download_source",
-                    "url": "https://files.emulationking.com/n64/emulators/1964/1964_101-source.zip",
-                    "date": null,
-                    "os": "File-code",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/1964-emulator/1964_101-source.zip",
+                    "os": "File-code"
                 }
             }
         },
@@ -2530,141 +2425,121 @@
             "versions": {
                 "1.61": {
                     "id": "snes9x_download_windows",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x-1.61-win32_stable.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x-1.61-win32_stable.zip",
                     "os": "Windows",
                     "branch": "Stable"
                 },
                 "1.60": {
                     "id": "snes9x_archive_download_windows_1_60",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x-1.60-win32.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x-1.60-win32.zip",
                     "os": "Windows",
                     "branch": "Stable"
                 },
                 "1.53": {
                     "id": "snes9x_download_linux64",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x-1.53-gtk-81-x86_64.tar.bz2",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x-1.53-gtk-81-x86_64.tar.bz2",
                     "os": "Linux",
                     "branch": "Stable"
                 },
                 "1.5.38": {
                     "id": "snes9x_download_android",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/Snes9xEXPlus-9-1.5.38.apk",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/Snes9xEXPlus-9-1.5.38.apk",
                     "os": "Android",
                     "branch": "Stable"
                 },
                 "1.61-1073": {
                     "id": "snes9x_download_windows_nightly",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x-1.61-1073-8c0a4a4-win32_30_04_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x-1.61-1073-8c0a4a4-win32_30_04_2022_nightly.zip",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "1.61-1072": {
                     "id": "snes9x_archive_download_windows_nightly_1_61_1072",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x-1.61-1072-f3fafab-win32_25_04_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x-1.61-1072-f3fafab-win32_25_04_2022_nightly.zip",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "3c729a9763263bc3a69f48370e43ae05e672970a": {
                     "id": "snes9x_download_macosx_nightly",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x_macos_19_04_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x_macos_19_04_2022_nightly.zip",
                     "os": "Apple",
                     "branch": "Nightly"
                 },
                 "1.61-1071": {
                     "id": "snes9x_archive_download_windows_nightly_1_61_1071",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x-1.61-1071-3c729a9-win32_19_04_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x-1.61-1071-3c729a9-win32_19_04_2022_nightly.zip",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "1085ed6fad46eee3335db6f8e732399e513a95d8": {
                     "id": "snes9x_archive_download_macosx_nightly_1085ed6fad46eee3335db6f8e732399e513a95d8",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x_macos_13_04_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x_macos_13_04_2022_nightly.zip",
                     "os": "Apple",
                     "branch": "Nightly"
                 },
                 "1.61-1070": {
                     "id": "snes9x_archive_download_windows_nightly_1_61_1070",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x-1.61-1070-1085ed6-win32_13_04_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x-1.61-1070-1085ed6-win32_13_04_2022_nightly.zip",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "7cbe92afa0aec329116af42ea296532a3ed44faa": {
                     "id": "snes9x_archive_download_macosx_nightly_7cbe92afa0aec329116af42ea296532a3ed44faa",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x_macos_12_04_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x_macos_12_04_2022_nightly.zip",
                     "os": "Apple",
                     "branch": "Nightly"
                 },
                 "1.61-1069": {
                     "id": "snes9x_archive_download_windows_nightly_1_61_1069",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x-1.61-1069-7cbe92a-win32_12_04_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x-1.61-1069-7cbe92a-win32_12_04_2022_nightly.zip",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "6628042fe386197648334063f70e6a94350b9bf7": {
                     "id": "snes9x_archive_download_macosx_nightly_6628042fe386197648334063f70e6a94350b9bf7",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x_macos_11_04_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x_macos_11_04_2022_nightly.zip",
                     "os": "Apple",
                     "branch": "Nightly"
                 },
                 "1.61-1066": {
                     "id": "snes9x_archive_download_windows_nightly_1_61_1066",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x-1.61-1066-6628042-win32_11_04_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x-1.61-1066-6628042-win32_11_04_2022_nightly.zip",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "ba472fe3ef236028ab898a8c4059306faad8206b": {
                     "id": "snes9x_archive_download_macosx_nightly_ba472fe3ef236028ab898a8c4059306faad8206b",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x_macos_11_04_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x_macos_11_04_2022_nightly.zip",
                     "os": "Apple",
                     "branch": "Nightly"
                 },
                 "1.61-1065": {
                     "id": "snes9x_archive_download_windows_nightly_1_61_1065",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x-1.61-1065-ba472fe-win32_11_04_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x-1.61-1065-ba472fe-win32_11_04_2022_nightly.zip",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "78d006ffdbb5cb6944177db52c3640152948d928": {
                     "id": "snes9x_archive_download_macosx_nightly_78d006ffdbb5cb6944177db52c3640152948d928",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x_macos_24_03_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x_macos_24_03_2022_nightly.zip",
                     "os": "Apple",
                     "branch": "Nightly"
                 },
                 "1.61-1059": {
                     "id": "snes9x_archive_download_windows64_nightly_1_61_1059",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x-1.61-1059-78d006f-win32-x64_24_03_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x-1.61-1059-78d006f-win32-x64_24_03_2022_nightly.zip",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "0a20681778aa7f5b12b61810917fc31855808181": {
                     "id": "snes9x_archive_download_macosx_nightly_0a20681778aa7f5b12b61810917fc31855808181",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x_macos_21_03_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x_macos_21_03_2022_nightly.zip",
                     "os": "Apple",
                     "branch": "Nightly"
                 },
                 "93d538dfafbe88976ccdbc7a09c4f71a4d34ad1a": {
                     "id": "snes9x_archive_download_linux64_nightly_93d538dfafbe88976ccdbc7a09c4f71a4d34ad1a",
-                    "url": "https://files.emulationking.com/snes/emulators/snes9x/snes9x_linux64_18_03_2022_nightly.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/snes9x/snes9x_linux64_18_03_2022_nightly.zip",
                     "os": "Linux",
                     "branch": "Nightly"
                 }
@@ -2696,10 +2571,8 @@
             "versions": {
                 "1.51": {
                     "id": "zsnes_download_sourcecode",
-                    "url": "https://files.emulationking.com/snes/emulators/zsnes/zsnes151src.tar.bz2",
-                    "date": null,
-                    "os": "File-code",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/zsnes/zsnes151src.tar.bz2",
+                    "os": "File-code"
                 }
             }
         },
@@ -2729,31 +2602,23 @@
             "versions": {
                 "1.41": {
                     "id": "nestopia_download_macosx",
-                    "url": "https://files.emulationking.com/nes/emulators/nestopia/nestopia-141%20MAC.dmg",
-                    "date": null,
-                    "os": "Apple",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/nestopia/nestopia-141%20MAC.dmg",
+                    "os": "Apple"
                 },
                 "1.50": {
                     "id": "nestopia_download_source",
-                    "url": "https://files.emulationking.com/nes/emulators/nestopia/nestopia-1.50-source.tar.gz",
-                    "date": null,
-                    "os": "File-code",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/nestopia/nestopia-1.50-source.tar.gz",
+                    "os": "File-code"
                 },
                 "1.45": {
                     "id": "nestopia_archive_download_source_1_45",
-                    "url": "https://files.emulationking.com/nes/emulators/nestopia/nestopia-1.45source.tgz",
-                    "date": null,
-                    "os": "File-code",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/nestopia/nestopia-1.45source.tgz",
+                    "os": "File-code"
                 },
                 "1.40": {
                     "id": "nestopia_archive_download_source_1_40",
-                    "url": "https://files.emulationking.com/nes/emulators/nestopia/Nestopia140src.zip",
-                    "date": null,
-                    "os": "File-code",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/nestopia/Nestopia140src.zip",
+                    "os": "File-code"
                 }
             }
         },
@@ -2782,10 +2647,8 @@
             "versions": {
                 "1.2.1": {
                     "id": "jnes_download_windows64",
-                    "url": "https://files.emulationking.com/emulators/nes/jsnes/jnes_1_2_1_x64.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/jnes/jnes_1_2_1_x64.zip",
+                    "os": "Windows"
                 }
             }
         },
@@ -2814,17 +2677,13 @@
             "versions": {
                 "4.3.1": {
                     "id": "nemulator_archive_download_windows_4_3_1",
-                    "url": "https://files.emulationking.com/nes/emulators/nemulator/nemulator4.3.1.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/nemulator/nemulator4.3.1.zip",
+                    "os": "Windows"
                 },
                 "4.2": {
                     "id": "nemulator_archive_download_windows_4_2",
-                    "url": "https://files.emulationking.com/nes/emulators/nemulator/nemulator4.2.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/nemulator/nemulator4.2.zip",
+                    "os": "Windows"
                 }
             }
         },
@@ -2852,10 +2711,8 @@
             "versions": {
                 "2.2.3": {
                     "id": "fceux_download_source",
-                    "url": "https://files.emulationking.com/nes/emulators/fceux/fceux-2.2.3.src.tar.gz",
-                    "date": null,
-                    "os": "File-code",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/fceux/fceux-2.2.3.src.tar.gz",
+                    "os": "File-code"
                 }
             }
         },
@@ -2878,10 +2735,8 @@
             "versions": {
                 "0.985 Beta": {
                     "id": "nintendulator_download_windows-64bit",
-                    "url": "https://files.emulationking.com/nes/emulators/nintendulator/nintendulator0985bin_amd64.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/nintendulator/nintendulator0985bin_amd64.zip",
+                    "os": "Windows"
                 }
             }
         },
@@ -2910,63 +2765,63 @@
             "versions": {
                 "0.0.18-12817 2021-09-24": {
                     "id": "rpcs3_download_windows_nightly",
-                    "url": "https://files.emulationking.com/ps3/emulators/rpsc3/rpcs3-v0.0.18-12817-fff0c96b_win64_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/rpcs3/rpcs3-v0.0.18-12817-fff0c96b_win64_nightly.7z",
                     "date": "2021/09/24",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "0.0.21-13331 2022-03-03": {
                     "id": "rpcs3_archive_download_windows_nightly_0_0_21_13331_03_03_2022",
-                    "url": "https://files.emulationking.com/ps3/emulators/rpsc3/rpcs3-v0.0.21-13331-e33b1306_win64_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/rpcs3/rpcs3-v0.0.21-13331-e33b1306_win64_nightly.7z",
                     "date": "2022/03/03",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "0.0.21-13329 2022-03-01": {
                     "id": "rpcs3_archive_download_windows_nightly_0_0_21_13329_01_03_2022",
-                    "url": "https://files.emulationking.com/ps3/emulators/rpsc3/rpcs3-v0.0.21-13329-0dbfe314_win64_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/rpcs3/rpcs3-v0.0.21-13329-0dbfe314_win64_nightly.7z",
                     "date": "2022/03/01",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "0.0.21-13326 2022-02-28": {
                     "id": "rpcs3_archive_download_linux_nightly_0_0_21_13326_28_02_2022",
-                    "url": "https://files.emulationking.com/ps3/emulators/rpsc3/rpcs3-v0.0.21-13326-a8e62e1b_linux64_nightly.AppImage",
+                    "url": "https://consolo.is.cc/emuking/rpcs3/rpcs3-v0.0.21-13326-a8e62e1b_linux64_nightly.AppImage",
                     "date": "2022/02/28",
                     "os": "Linux",
                     "branch": "Nightly"
                 },
                 "0.0.20-13325 2022-02-28": {
                     "id": "rpcs3_archive_download_windows_nightly_0_0_20_13325_28_02_2022",
-                    "url": "https://files.emulationking.com/ps3/emulators/rpsc3/rpcs3-v0.0.20-13325-42aa8f26_win64_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/rpcs3/rpcs3-v0.0.20-13325-42aa8f26_win64_nightly.7z",
                     "date": "2022/02/28",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "0.0.20-13324 2022-02-27": {
                     "id": "rpcs3_archive_download_windows_nightly_0_0_20_13324_27_02_2022",
-                    "url": "https://files.emulationking.com/ps3/emulators/rpsc3/rpcs3-v0.0.20-13324-af95ff5f_win64_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/rpcs3/rpcs3-v0.0.20-13324-af95ff5f_win64_nightly.7z",
                     "date": "2022/02/27",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "0.0.20-13322 2022-02-26": {
                     "id": "rpcs3_archive_download_windows_nightly_0_0_20_13322_26_02_2022",
-                    "url": "https://files.emulationking.com/ps3/emulators/rpsc3/rpcs3-v0.0.20-13322-7d26e61d_win64_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/rpcs3/rpcs3-v0.0.20-13322-7d26e61d_win64_nightly.7z",
                     "date": "2022/02/26",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "0.0.20-13320 2022-02-25": {
                     "id": "rpcs3_archive_download_windows_nightly_0_0_20_13320_25_02_2022",
-                    "url": "https://files.emulationking.com/ps3/emulators/rpsc3/rpcs3-v0.0.20-13320-6db5d836_win64_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/rpcs3/rpcs3-v0.0.20-13320-6db5d836_win64_nightly.7z",
                     "date": "2022/02/25",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "0.0.8 2020-01-27": {
                     "id": "rpcs3_archive_download_windows",
-                    "url": "https://files.emulationking.com/ps3/emulators/rpsc3/rpcs3-v0.0.8-9451-7f07b79c_win64.7z",
+                    "url": "https://consolo.is.cc/emuking/rpcs3/rpcs3-v0.0.8-9451-7f07b79c_win64.7z",
                     "date": "2020/01/27",
                     "os": "Windows",
                     "branch": "Nightly"
@@ -3000,115 +2855,104 @@
             "versions": {
                 "1.13.1": {
                     "id": "ppsspp_download_windows",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp_win_1_13_1_stable.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp_win_1_13_1_stable.zip",
                     "os": "Windows",
                     "branch": "Stable"
                 },
                 "1.13": {
                     "id": "ppsspp_archive_download_windows_1_13",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp_win_1_13_stable.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp_win_1_13_stable.zip",
                     "os": "Windows",
                     "branch": "Stable"
                 },
                 "1.12.3": {
                     "id": "ppsspp_archive_download_windows_1_12_3",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp_win_1_12_3_stable.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp_win_1_12_3_stable.zip",
                     "os": "Windows",
                     "branch": "Stable"
                 },
                 "1.12.2": {
                     "id": "ppsspp_archive_download_windows_1_12_2",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp_win_1_12_2_stable.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp_win_1_12_2_stable.zip",
                     "os": "Windows",
                     "branch": "Stable"
                 },
                 "1.12.1": {
                     "id": "ppsspp_archive_download_windows_1_12_1",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp_win_1_12_1_stable.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp_win_1_12_1_stable.zip",
                     "os": "Windows",
                     "branch": "Stable"
                 },
                 "1.12": {
                     "id": "ppsspp_archive_download_windows_1_12",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp_win_1_12_stable.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp_win_1_12_stable.zip",
                     "os": "Windows",
                     "branch": "Stable"
                 },
                 "1.11.3": {
                     "id": "ppsspp_archive_download_windows_1_11_3",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp_win_1_11_3_stable.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp_win_1_11_3_stable.zip",
                     "os": "Windows",
                     "branch": "Stable"
                 },
                 "1.6.3": {
                     "id": "ppsspp_download_macos",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp_1.9.4_MacOS.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp_1.9.4_MacOS.zip",
                     "os": "Apple",
                     "branch": "Stable"
                 },
                 "1.7.5": {
                     "id": "ppsspp_download_linux",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp_1.9.4_Linux.zip",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp_1.9.4_Linux.zip",
                     "os": "Linux",
                     "branch": "Stable"
                 },
                 "2022-08-18": {
                     "id": "ppsspp_archive_download_windows_nightly_18_08_2022",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp-v1.13.1-355-g0749f1465-windows-amd64_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp-v1.13.1-355-g0749f1465-windows-amd64_nightly.7z",
                     "date": "2022/08/18",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-08-17": {
                     "id": "ppsspp_archive_download_windows_nightly_17_08_2022",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp-v1.13.1-335-g2eed8c9f1-windows-amd64_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp-v1.13.1-335-g2eed8c9f1-windows-amd64_nightly.7z",
                     "date": "2022/08/17",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-08-16": {
                     "id": "ppsspp_archive_download_windows_nightly_16_08_2022",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp-v1.13.1-296-g5f9718ef9-windows-amd64_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp-v1.13.1-296-g5f9718ef9-windows-amd64_nightly.7z",
                     "date": "2022/08/16",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-08-14": {
                     "id": "ppsspp_archive_download_windows_nightly_14_08_2022",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp-v1.13.1-289-ga35d26190-windows-amd64_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp-v1.13.1-289-ga35d26190-windows-amd64_nightly.7z",
                     "date": "2022/08/14",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-08-13": {
                     "id": "ppsspp_archive_download_windows_nightly_13_08_2022",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp-v1.13.1-270-g4d096925f-windows-amd64_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp-v1.13.1-270-g4d096925f-windows-amd64_nightly.7z",
                     "date": "2022/08/13",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-08-12": {
                     "id": "ppsspp_archive_download_windows_nightly_12_08_2022",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp-v1.13.1-259-gade8b8876-windows-amd64_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp-v1.13.1-259-gade8b8876-windows-amd64_nightly.7z",
                     "date": "2022/08/12",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "1.9.4": {
                     "id": "ppsspp_archive_download_android_1_9_4",
-                    "url": "https://files.emulationking.com/psp/emulators/ppsspp/ppsspp_1.9.4_Android.apk",
-                    "date": null,
-                    "os": "Android",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/ppsspp/ppsspp_1.9.4_Android.apk",
+                    "os": "Android"
                 }
             }
         },
@@ -3135,10 +2979,9 @@
             "versions": {
                 "2019-11-07": {
                     "id": "jpcsp_download_macos",
-                    "url": "https://files.emulationking.com/psp/emulators/jpcsp/jpcsp-ra6266b67-27-01-2020-macosx.7z",
+                    "url": "https://consolo.is.cc/emuking/jpcsp/jpcsp-ra6266b67-27-01-2020-macosx.7z",
                     "date": "2019/11/07",
-                    "os": "Apple",
-                    "branch": null
+                    "os": "Apple"
                 }
             }
         },
@@ -3165,10 +3008,8 @@
             "versions": {
                 "r525": {
                     "id": "soywiz-psp-emu_download_source",
-                    "url": "https://files.emulationking.com/psp/emulators/sonywizpspemu/cspspemu%20r525.zip",
-                    "date": null,
-                    "os": "File-code",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/soywiz-psp-emu/cspspemu%20r525.zip",
+                    "os": "File-code"
                 }
             }
         },
@@ -3218,49 +3059,48 @@
             "versions": {
                 "1.4.0": {
                     "id": "pcsx2_download_macos",
-                    "url": "https://files.emulationking.com/ps2/emulators/pcsx2/pcsx2_0.9.7.dmg",
-                    "date": null,
+                    "url": "https://consolo.is.cc/emuking/pcsx2/pcsx2_0.9.7.dmg",
                     "os": "Apple",
                     "branch": "Stable"
                 },
                 "2022-08-16": {
                     "id": "pcsx2_download_windows_nightly",
-                    "url": "https://files.emulationking.com/ps2/emulators/pcsx2/pcsx2-v1.7.3224-windows-x86_16_08_2022_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/pcsx2/pcsx2-v1.7.3224-windows-x86_16_08_2022_nightly.7z",
                     "date": "2022/08/16",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-08-17": {
                     "id": "pcsx2_archive_download_windows_nightly_17_08_2022",
-                    "url": "https://files.emulationking.com/ps2/emulators/pcsx2/pcsx2-v1.7.3218-windows-x86_17_08_2022_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/pcsx2/pcsx2-v1.7.3218-windows-x86_17_08_2022_nightly.7z",
                     "date": "2022/08/17",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-08-15": {
                     "id": "pcsx2_archive_download_windows_nightly_15_08_2022",
-                    "url": "https://files.emulationking.com/ps2/emulators/pcsx2/pcsx2-v1.7.3212-windows-x86_15_08_2022_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/pcsx2/pcsx2-v1.7.3212-windows-x86_15_08_2022_nightly.7z",
                     "date": "2022/08/15",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-08-14": {
                     "id": "pcsx2_archive_download_windows_nightly_14_08_2022",
-                    "url": "https://files.emulationking.com/ps2/emulators/pcsx2/pcsx2-v1.7.3208-windows-x86_14_08_2022_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/pcsx2/pcsx2-v1.7.3208-windows-x86_14_08_2022_nightly.7z",
                     "date": "2022/08/14",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-08-13": {
                     "id": "pcsx2_archive_download_windows_nightly_13_08_2022",
-                    "url": "https://files.emulationking.com/ps2/emulators/pcsx2/pcsx2-v1.7.3205-windows-x86_13_08_2022_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/pcsx2/pcsx2-v1.7.3205-windows-x86_13_08_2022_nightly.7z",
                     "date": "2022/08/13",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-08-09": {
                     "id": "pcsx2_archive_download_windows_nightly_09_08_2022",
-                    "url": "https://files.emulationking.com/ps2/emulators/pcsx2/pcsx2-v1.7.3198-windows-x86_09_08_2022_nightly.7z",
+                    "url": "https://consolo.is.cc/emuking/pcsx2/pcsx2-v1.7.3198-windows-x86_09_08_2022_nightly.7z",
                     "date": "2022/08/09",
                     "os": "Windows",
                     "branch": "Nightly"
@@ -3293,59 +3133,58 @@
             "versions": {
                 "2022-08-10": {
                     "id": "play-ps2_download_windows_32_nightly",
-                    "url": "https://files.emulationking.com/ps2/emulators/play/Play-x86-32_10_08_2022_nightly.exe",
+                    "url": "https://consolo.is.cc/emuking/play-ps2/Play-x86-32_10_08_2022_nightly.exe",
                     "date": "2022/08/10",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-08-02": {
                     "id": "play-ps2_archive_download_windows_32_nightly_02_08_2022",
-                    "url": "https://files.emulationking.com/ps2/emulators/play/Play-x86-32_02_08_2022_nightly.exe",
+                    "url": "https://consolo.is.cc/emuking/play-ps2/Play-x86-32_02_08_2022_nightly.exe",
                     "date": "2022/08/02",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-07-30": {
                     "id": "play-ps2_archive_download_windows_32_nightly_30_07_2022",
-                    "url": "https://files.emulationking.com/ps2/emulators/play/Play-x86-32_30_07_2022_nightly.exe",
+                    "url": "https://consolo.is.cc/emuking/play-ps2/Play-x86-32_30_07_2022_nightly.exe",
                     "date": "2022/07/30",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-07-29": {
                     "id": "play-ps2_archive_download_windows_32_nightly_29_07_2022",
-                    "url": "https://files.emulationking.com/ps2/emulators/play/Play-x86-32_29_07_2022_nightly.exe",
+                    "url": "https://consolo.is.cc/emuking/play-ps2/Play-x86-32_29_07_2022_nightly.exe",
                     "date": "2022/07/29",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-07-28": {
                     "id": "play-ps2_archive_download_windows_32_nightly_28_07_2022",
-                    "url": "https://files.emulationking.com/ps2/emulators/play/Play-x86-32_28_07_2022_nightly.exe",
+                    "url": "https://consolo.is.cc/emuking/play-ps2/Play-x86-32_28_07_2022_nightly.exe",
                     "date": "2022/07/28",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-07-26": {
                     "id": "play-ps2_archive_download_windows_32_nightly_26_07_2022",
-                    "url": "https://files.emulationking.com/ps2/emulators/play/Play-x86-32_26_07_2022_nightly.exe",
+                    "url": "https://consolo.is.cc/emuking/play-ps2/Play-x86-32_26_07_2022_nightly.exe",
                     "date": "2022/07/26",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2022-07-21": {
                     "id": "play-ps2_archive_download_windows_32_nightly_21_07_2022",
-                    "url": "https://files.emulationking.com/ps2/emulators/play/Play-x86-32_21_07_2022_nightly.exe",
+                    "url": "https://consolo.is.cc/emuking/play-ps2/Play-x86-32_21_07_2022_nightly.exe",
                     "date": "2022/07/21",
                     "os": "Windows",
                     "branch": "Nightly"
                 },
                 "2020-01-27": {
                     "id": "play-ps2_archive_download_windows_64",
-                    "url": "https://files.emulationking.com/ps2/emulators/play/Play-26-01-2020-windows-64.exe",
+                    "url": "https://consolo.is.cc/emuking/play-ps2/Play-26-01-2020-windows-64.exe",
                     "date": "2020/01/27",
-                    "os": "Windows",
-                    "branch": null
+                    "os": "Windows"
                 }
             }
         },
@@ -3419,10 +3258,8 @@
             "versions": {
                 "2.0.5": {
                     "id": "epsxe_download_macos",
-                    "url": "https://files.emulationking.com/ps1/emulators/epsxe/ePSXe205.app.zip",
-                    "date": null,
-                    "os": "Apple",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/epsxe/ePSXe205.app.zip",
+                    "os": "Apple"
                 }
             }
         },
@@ -3451,10 +3288,8 @@
             "versions": {
                 "1.9.93": {
                     "id": "pcsx-reloaded_download_linux",
-                    "url": "https://files.emulationking.com/ps1/emulators/pcsx-reloaded/pcsxr-1.9.93.tar.bz2",
-                    "date": null,
-                    "os": "Linux",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/pcsx-reloaded/pcsxr-1.9.93.tar.bz2",
+                    "os": "Linux"
                 }
             }
         },
@@ -3481,10 +3316,8 @@
             "versions": {
                 "2.0 Gaming Build": {
                     "id": "nopsx_download_windows_gaming",
-                    "url": "https://files.emulationking.com/ps1/emulators/no$psx/no$psx_2_0_gaming.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/nopsx/no$psx_2_0_gaming.zip",
+                    "os": "Windows"
                 }
             }
         },
@@ -3613,10 +3446,9 @@
             "versions": {
                 "2020-01-27": {
                     "id": "reicast_archive_download_android_27_01_2020",
-                    "url": "https://files.emulationking.com/dreamcast/emulators/Reicast/reicast-android-27-01-2020.apk",
+                    "url": "https://consolo.is.cc/emuking/reicast/reicast-android-27-01-2020.apk",
                     "date": "2020/01/27",
-                    "os": "Android",
-                    "branch": null
+                    "os": "Android"
                 }
             }
         },
@@ -3644,10 +3476,8 @@
             "versions": {
                 "1.04 r136": {
                     "id": "nulldc_download_linux",
-                    "url": "https://files.emulationking.com/dreamcast/emulators/nulldc/nullDC_Linux_104_r136.7z",
-                    "date": null,
-                    "os": "Linux",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/nulldc/nullDC_Linux_104_r136.7z",
+                    "os": "Linux"
                 }
             }
         },
@@ -3695,10 +3525,8 @@
             "versions": {
                 "4.0b": {
                     "id": "chankast_download_input_plugin",
-                    "url": "https://files.emulationking.com/dreamcast/emulators/chankast/darkman_dinput40b.zip",
-                    "date": null,
-                    "os": "Download",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/chankast/darkman_dinput40b.zip",
+                    "os": "Download"
                 }
             }
         },
@@ -3726,17 +3554,13 @@
             "versions": {
                 "0.9.15": {
                     "id": "yabause_download_windows_64",
-                    "url": "https://files.emulationking.com/saturn/yabause/yabause-0.9.15-win64.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/yabause/yabause-0.9.15-win64.zip",
+                    "os": "Windows"
                 },
                 "0.9.14": {
                     "id": "yabause_download_dreamcast",
-                    "url": "https://files.emulationking.com/saturn/yabause/yabause-0.9.14-dc.tar.bz2",
-                    "date": null,
-                    "os": "Download",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/yabause/yabause-0.9.14-dc.tar.bz2",
+                    "os": "Download"
                 }
             }
         },
@@ -3809,17 +3633,13 @@
             "versions": {
                 "KEGA Fusion": {
                     "id": "kega-fusion_download_linux_plugins",
-                    "url": "https://files.emulationking.com/multisystem/kegafusion/KEGA_Fusion_PluginsLinux.tar.gz",
-                    "date": null,
-                    "os": "Linux",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/kega-fusion/KEGA_Fusion_PluginsLinux.tar.gz",
+                    "os": "Linux"
                 },
                 "3.6.3": {
                     "id": "kega-fusion_download_linux",
-                    "url": "https://files.emulationking.com/multisystem/kegafusion/Fusion363x.tar.gz",
-                    "date": null,
-                    "os": "Linux",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/kega-fusion/Fusion363x.tar.gz",
+                    "os": "Linux"
                 }
             }
         },
@@ -3848,10 +3668,8 @@
             "versions": {
                 "0.6.2": {
                     "id": "blastem_download_linux_64",
-                    "url": "https://files.emulationking.com/genesis/emulators/blastem/blastem64-0.6.2.tar.gz",
-                    "date": null,
-                    "os": "Linux",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/blastem/blastem64-0.6.2.tar.gz",
+                    "os": "Linux"
                 }
             }
         },
@@ -3875,10 +3693,8 @@
             "versions": {
                 "1.3.2": {
                     "id": "genesis-plus_download_macos",
-                    "url": "https://files.emulationking.com/genesis/emulators/genesisplus/gplus-macos-132.zip",
-                    "date": null,
-                    "os": "Apple",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/genesis-plus/gplus-macos-132.zip",
+                    "os": "Apple"
                 }
             }
         },
@@ -3945,10 +3761,8 @@
             "versions": {
                 "2.5.1": {
                     "id": "gearsystem_download_linux",
-                    "url": "https://files.emulationking.com/mastersystem/gearsystem/Gearsystem-2.5.1-Linux.tar.xz",
-                    "date": null,
-                    "os": "Linux",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/gearsystem/Gearsystem-2.5.1-Linux.tar.xz",
+                    "os": "Linux"
                 }
             }
         },
@@ -3976,10 +3790,8 @@
             "versions": {
                 "0.2.0": {
                     "id": "crabemu_download_bios",
-                    "url": "https://files.emulationking.com/multisystem/crabemu/CrabEmu-BIOS-0.2.0.tar.bz2",
-                    "date": null,
-                    "os": "Download",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/crabemu/CrabEmu-BIOS-0.2.0.tar.bz2",
+                    "os": "Download"
                 }
             }
         },
@@ -4002,45 +3814,39 @@
             "versions": {
                 "2022-07-24": {
                     "id": "xenia_archive_download_windows_24_07_2022",
-                    "url": "https://files.emulationking.com/xbox360/emulators/xenia/xenia_master_24_07_2022.zip",
+                    "url": "https://consolo.is.cc/emuking/xenia/xenia_master_24_07_2022.zip",
                     "date": "2022/07/24",
-                    "os": "Windows",
-                    "branch": null
+                    "os": "Windows"
                 },
                 "2022-07-22": {
                     "id": "xenia_archive_download_windows_22_07_2022",
-                    "url": "https://files.emulationking.com/xbox360/emulators/xenia/xenia_master_22_07_2022.zip",
+                    "url": "https://consolo.is.cc/emuking/xenia/xenia_master_22_07_2022.zip",
                     "date": "2022/07/22",
-                    "os": "Windows",
-                    "branch": null
+                    "os": "Windows"
                 },
                 "2022-07-18": {
                     "id": "xenia_archive_download_windows_18_07_2022",
-                    "url": "https://files.emulationking.com/xbox360/emulators/xenia/xenia_master_18_07_2022.zip",
+                    "url": "https://consolo.is.cc/emuking/xenia/xenia_master_18_07_2022.zip",
                     "date": "2022/07/18",
-                    "os": "Windows",
-                    "branch": null
+                    "os": "Windows"
                 },
                 "2022-07-16": {
                     "id": "xenia_archive_download_windows_16_07_2022",
-                    "url": "https://files.emulationking.com/xbox360/emulators/xenia/xenia_master_16_07_2022.zip",
+                    "url": "https://consolo.is.cc/emuking/xenia/xenia_master_16_07_2022.zip",
                     "date": "2022/07/16",
-                    "os": "Windows",
-                    "branch": null
+                    "os": "Windows"
                 },
                 "2022-07-14": {
                     "id": "xenia_archive_download_windows_14_07_2022",
-                    "url": "https://files.emulationking.com/xbox360/emulators/xenia/xenia_master_14_07_2022.zip",
+                    "url": "https://consolo.is.cc/emuking/xenia/xenia_master_14_07_2022.zip",
                     "date": "2022/07/14",
-                    "os": "Windows",
-                    "branch": null
+                    "os": "Windows"
                 },
                 "2022-07-09": {
                     "id": "xenia_archive_download_windows_09_07_2022",
-                    "url": "https://files.emulationking.com/xbox360/emulators/xenia/xenia_master_09_07_2022.zip",
+                    "url": "https://consolo.is.cc/emuking/xenia/xenia_master_09_07_2022.zip",
                     "date": "2022/07/09",
-                    "os": "Windows",
-                    "branch": null
+                    "os": "Windows"
                 }
             }
         },
@@ -4136,17 +3942,13 @@
             "versions": {
                 "2.1.2": {
                     "id": "virtualjaguar_download_linux",
-                    "url": "https://files.emulationking.com/atarijaguar/virtualjaguar/virtualjaguar-2.1.2.tar.bz2",
-                    "date": null,
-                    "os": "Linux",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/virtualjaguar/virtualjaguar-2.1.2.tar.bz2",
+                    "os": "Linux"
                 },
                 "2.1.0": {
                     "id": "virtualjaguar_download_macos",
-                    "url": "https://files.emulationking.com/atarijaguar/virtualjaguar/virtualjaguar-2.1.0-mac.tar.bz2",
-                    "date": null,
-                    "os": "Apple",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/virtualjaguar/virtualjaguar-2.1.0-mac.tar.bz2",
+                    "os": "Apple"
                 }
             }
         },
@@ -4224,17 +4026,13 @@
             "versions": {
                 "0.97": {
                     "id": "handy_download_macos",
-                    "url": "https://files.emulationking.com/atarilynx/handy/handy-097.dmg",
-                    "date": null,
-                    "os": "Apple",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/handy/handy-097.dmg",
+                    "os": "Apple"
                 },
                 "0.95": {
                     "id": "handy_download_source",
-                    "url": "https://files.emulationking.com/atarilynx/handy/Handy-win32src-0.95.zip",
-                    "date": null,
-                    "os": "File-code",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/handy/Handy-win32src-0.95.zip",
+                    "os": "File-code"
                 }
             }
         },
@@ -4267,10 +4065,8 @@
             "versions": {
                 "1.8": {
                     "id": "emu7800_download_android",
-                    "url": "https://files.emulationking.com/atari7800/emu7800/EMU7800.MonoDroid.apk",
-                    "date": null,
-                    "os": "Android",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/emu7800/EMU7800.MonoDroid.apk",
+                    "os": "Android"
                 }
             }
         },
@@ -4294,10 +4090,8 @@
             "versions": {
                 "1.3": {
                     "id": "prosystem-emulator_download_sourcecode",
-                    "url": "https://files.emulationking.com/atari7800/prosystem/ProSystem_1_3_Src.zip",
-                    "date": null,
-                    "os": "File-code",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/prosystem-emulator/ProSystem_1_3_Src.zip",
+                    "os": "File-code"
                 }
             }
         },
@@ -4326,24 +4120,18 @@
             "versions": {
                 "5.0.0": {
                     "id": "atari800_download_windows",
-                    "url": "https://files.emulationking.com/atari5200/emulators/atari800/atari800-5.0.0-win32-sdl.zip",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/atari800/atari800-5.0.0-win32-sdl.zip",
+                    "os": "Windows"
                 },
                 "4.2.0": {
                     "id": "atari800_archive_download_raspberrypi_4_4_2_0",
-                    "url": "https://files.emulationking.com/atari5200/emulators/atari800/atari800_4.2.0_rpi4_buster.deb",
-                    "date": null,
-                    "os": "Raspberry-pi",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/atari800/atari800_4.2.0_rpi4_buster.deb",
+                    "os": "Raspberry-pi"
                 },
                 "4.1.0": {
                     "id": "atari800_download_macos",
-                    "url": "https://files.emulationking.com/atari5200/emulators/atari800/atari800-4.1.0-macos.zip",
-                    "date": null,
-                    "os": "Apple",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/atari800/atari800-4.1.0-macos.zip",
+                    "os": "Apple"
                 }
             }
         },
@@ -4367,10 +4155,8 @@
             "versions": {
                 "1.1.0": {
                     "id": "jum52_download_psp",
-                    "url": "https://files.emulationking.com/atari5200/emulators/jumsa5200emulator/jum52_11_PSP.zip",
-                    "date": null,
-                    "os": "Download",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/jum52/jum52_11_PSP.zip",
+                    "os": "Download"
                 }
             }
         },
@@ -4399,10 +4185,8 @@
             "versions": {
                 "1.57": {
                     "id": "rainbow_download_macos",
-                    "url": "https://files.emulationking.com/atari5200/emulators/rainbow/rainbow-157.dmg",
-                    "date": null,
-                    "os": "Apple",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/rainbow/rainbow-157.dmg",
+                    "os": "Apple"
                 }
             }
         },
@@ -4430,10 +4214,8 @@
             "versions": {
                 "3.2": {
                     "id": "altirra_download_source",
-                    "url": "https://files.emulationking.com/atari5200/emulators/altirra/Altirra-3.20-src.zip",
-                    "date": null,
-                    "os": "File-code",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/altirra/Altirra-3.20-src.zip",
+                    "os": "File-code"
                 }
             }
         },
@@ -4477,10 +4259,8 @@
             "versions": {
                 "0.8.1": {
                     "id": "kat5200_download_linux",
-                    "url": "https://files.emulationking.com/atari5200/emulators/kat5200/kat5200-linux-0.8.1.tar.gz",
-                    "date": null,
-                    "os": "Linux",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/kat5200/kat5200-linux-0.8.1.tar.gz",
+                    "os": "Linux"
                 }
             }
         },
@@ -4508,38 +4288,28 @@
             "versions": {
                 "6.7": {
                     "id": "stella_download_windows_32",
-                    "url": "https://files.emulationking.com/atari2600/emulators/stella/Stella-6.7-win32.exe",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/stella/Stella-6.7-win32.exe",
+                    "os": "Windows"
                 },
                 "6.6": {
                     "id": "stella_archive_download_windows_32_6_6",
-                    "url": "https://files.emulationking.com/atari2600/emulators/stella/Stella-6.6-win32.exe",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/stella/Stella-6.6-win32.exe",
+                    "os": "Windows"
                 },
                 "6.5.3": {
                     "id": "stella_archive_download_windows_32_6_5_3",
-                    "url": "https://files.emulationking.com/atari2600/emulators/stella/Stella-6.5.3-win32.exe",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/stella/Stella-6.5.3-win32.exe",
+                    "os": "Windows"
                 },
                 "6.5.2": {
                     "id": "stella_archive_download_windows_32_6_5_2",
-                    "url": "https://files.emulationking.com/atari2600/emulators/stella/Stella-6.5.2-win32.exe",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/stella/Stella-6.5.2-win32.exe",
+                    "os": "Windows"
                 },
                 "6.0.2": {
                     "id": "stella_archive_download_windows_64_6_0_2",
-                    "url": "https://files.emulationking.com/atari2600/stella/Stella-6.0.2-x64.exe",
-                    "date": null,
-                    "os": "Windows",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/stella/Stella-6.0.2-x64.exe",
+                    "os": "Windows"
                 }
             }
         },
@@ -4564,10 +4334,8 @@
             "versions": {
                 "4.07": {
                     "id": "z26_download_source",
-                    "url": "https://files.emulationking.com/atari2600/z26/z26_407_src.zip",
-                    "date": null,
-                    "os": "File-code",
-                    "branch": null
+                    "url": "https://consolo.is.cc/emuking/z26/z26_407_src.zip",
+                    "os": "File-code"
                 }
             }
         },
