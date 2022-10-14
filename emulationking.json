@@ -1185,16 +1185,6 @@
                     "os": "Android",
                     "date": "2021/02/28",
                     "branch": "Android"
-                },
-                "2020-01-21": {
-                    "url": "https://consolo.is.cc/emulationking/citra/citra-windows-mingw-20200121-bad0439.tar.gz",
-                    "os": "Windows",
-                    "date": "2020/01/21"
-                },
-                "2019-06-09": {
-                    "url": "https://consolo.is.cc/emulationking/citra/citra-osx-20190609-318095f.tar.gz",
-                    "os": "Apple",
-                    "date": "2019/06/09"
                 }
             }
         },
@@ -1344,8 +1334,8 @@
                     "date": "2020/01/21"
                 },
                 "5.0 Stable": {
-                    "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-64-5.0.exe",
-                    "os": "Windows"
+                    "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-5.0.dmg",
+                    "os": "Apple"
                 },
                 "2019-06-20": {
                     "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-10549-x64.zip",
@@ -1823,11 +1813,6 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2014/05/higan-NES-Emulator-SNES-Emulator-Pic-06.png"
             ],
             "versions": {
-                "v093": {
-                    "url": "https://consolo.is.cc/emulationking/higan/Higan+v093.dmg",
-                    "os": "Apple",
-                    "branch": "Stable"
-                },
                 "v107": {
                     "url": "https://consolo.is.cc/emulationking/higan/higan_v107-windows.zip",
                     "os": "Windows",
@@ -2638,7 +2623,7 @@
             ],
             "versions": {
                 "1.2.1": {
-                    "url": "https://consolo.is.cc/emulationking/jnes/jnes_1_2_1_x64.zip",
+                    "url": "https://consolo.is.cc/emulationking/jnes/jnes_1_2_1.exe",
                     "os": "Windows"
                 }
             }
@@ -2754,12 +2739,6 @@
                 "https://cdn.emulationking.com/wp-content/uploads/2016/08/RPCS3-PS3-Emulator-Pic-05.jpg"
             ],
             "versions": {
-                "0.0.18-12817 2021-09-24": {
-                    "url": "https://consolo.is.cc/emulationking/rpcs3/rpcs3-v0.0.18-12817-fff0c96b_win64_nightly.7z",
-                    "os": "Windows",
-                    "date": "2021/09/24",
-                    "branch": "Nightly"
-                },
                 "0.0.21-13331 2022-03-03": {
                     "url": "https://consolo.is.cc/emulationking/rpcs3/rpcs3-v0.0.21-13331-e33b1306_win64_nightly.7z",
                     "os": "Windows",
