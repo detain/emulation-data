@@ -1048,9 +1048,10 @@
             "license": "Unknown",
             "url": "https://github.com/tom-seddon/b2/releases/download/b2-20220803-132314-6a7ed04/b2-windows-20220803-132314-6a7ed04.zip",
             "hash": "98b32c01f592c96f2a36d2f9d9c6ce6029e2f0b5e8f211f7abcd740d588e4bee",
-            "bin": "b2.exe",
+            "bin": [
+                "b2.exe"
+            ],
             "checkver": {
-                "type": "github",
                 "regex": "/releases/tag/b2-(\\d{8}-\\d+-[\\da-f]{7})"
             },
             "autoupdate": {
@@ -1377,6 +1378,37 @@
             "bin": [
                 "blueMSX.exe"
             ]
+        },
+        "bochs": {
+            "version": "2.7",
+            "description": "IA-32 (x86) PC emulator",
+            "homepage": "http://bochs.sourceforge.net/",
+            "license": "LGPL-2.1-only",
+            "architecture": {
+                "64bit": {
+                    "url": "https://downloads.sourceforge.net/project/bochs/bochs/2.7/Bochs-win64-2.7.exe#/dl.7z",
+                    "hash": "sha1:a8e4e96716f90a892d23ca4873a7240eea6840bd"
+                }
+            },
+            "bin": [
+                "bochs.exe",
+                "bochsdbg.exe",
+                "bxhub.exe",
+                "bximage.exe",
+                "niclist.exe",
+                "sb16ctrl.exe"
+            ],
+            "checkver": {
+                "url": "http://bochs.sourceforge.net/getcurrent.html",
+                "regex": "<b>Latest release:<\\/b> Bochs ([\\d.]+)"
+            },
+            "autoupdate": {
+                "architecture": {
+                    "64bit": {
+                        "url": "https://downloads.sourceforge.net/project/bochs/bochs/$version/Bochs-win64-$version.exe#/dl.7z"
+                    }
+                }
+            }
         },
         "boycottadv": {
             "##": [
@@ -4517,14 +4549,14 @@
             ]
         },
         "flycast-dev": {
-            "version": "1177-20221031-c15f446",
+            "version": "1180-20221104-605dc59",
             "description": "Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast.",
             "homepage": "https://github.com/flyinghead/flycast",
             "license": "GPL-2.0",
             "architecture": {
                 "64bit": {
-                    "url": "https://flycast-builds.s3.amazonaws.com/win/heads/master-c15f446ffc9120310a698faddec755a9a0e9ea29/flycast.zip",
-                    "hash": "c5f73f18dd39443f22a8a43a575af055dce4fd21ae2a41a6920b9e1c5ba56a2a"
+                    "url": "https://flycast-builds.s3.amazonaws.com/win/heads/master-605dc59f8dfaabd460c609dd48ac12fd96d55239/flycast.zip",
+                    "hash": "607352633f41ff1a29399f0bee14257946aea76118ece155e863ca1727cb0d75"
                 }
             },
             "pre_install": "if (!(Test-Path \"$persist_dir\\emu.cfg\")) { New-Item -ItemType File \"$dir\\emu.cfg\" | Out-Null }",
@@ -8264,13 +8296,14 @@
             ],
             "version": "2.1",
             "description": "No$PSX is a no thrills PSX emulator that doesn’t require a copy of the bios. It can run almost every PS1 game. The only downside to No$PSX is that if offers no enhancement features.",
-            "homepage": "http://problemkaputt.de/index.htm",
-            "license": "Freeware",
+            "homepage": "http://problemkaputt.de/psx.htm",
+            "license": "Unknown",
             "url": "http://problemkaputt.de/no$psx.zip",
             "hash": "461f1391b42ae810d6c1167ed69ba5590b63090b57cfba30c39644dcf381da65",
-            "bin": "NO$PSX.exe",
+            "bin": [
+                "NO$PSX.exe"
+            ],
             "checkver": {
-                "url": "http://problemkaputt.de/psx.htm",
                 "regex": "HREF=\"(?<zip>[^\"]+)\">no\\$psx v(?<ver>[\\d\\.]+) Windows",
                 "replace": "${ver}"
             },
@@ -8433,15 +8466,15 @@
             }
         },
         "openmsx-dev": {
-            "version": "18.0-352-g4c50dbb8b6",
+            "version": "18.0-363-g4d8ed49956",
             "description": "Cycle-accurate MSX emulator (Development builds)",
             "homepage": "https://openmsx.fixato.net/",
             "license": "GPL-2.0",
             "notes": "User data are stored in C:\\Users\\[USERNAME]\\Documents\\openMSX",
             "architecture": {
                 "64bit": {
-                    "url": "https://openmsx.fixato.net/builds/windows/x64/openmsx-18.0-352-g4c50dbb8b6-windows-vc-x64-bin.zip",
-                    "hash": "d9a8c73879c96e8f2f38cca895d9fb78c6b2a4d44b4a8c2935a7039ec87351b6"
+                    "url": "https://openmsx.fixato.net/builds/windows/x64/openmsx-18.0-363-g4d8ed49956-windows-vc-x64-bin.zip",
+                    "hash": "766ce6419b58c5542cec120293f01666e29ae4c2f4b0382d1fcffcff042d3a0c"
                 }
             },
             "bin": [
@@ -8812,7 +8845,7 @@
             ]
         },
         "pcsx2-dev": {
-            "version": "1.7.3521",
+            "version": "1.7.3524",
             "description": "A feature rich FOSS PlayStation 2 emulator (development version)",
             "homepage": "https://pcsx2.net/",
             "license": "GPL-3.0",
@@ -8824,8 +8857,8 @@
             "suggest": {
                 "Microsoft Visual C++ Runtime 2022": "extras/vcredist2022"
             },
-            "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.3521/pcsx2-v1.7.3521-windows-64bit-AVX2-Qt.7z",
-            "hash": "0b08c50fbf481c129275ec44db6af07e7c3c1a94c61fca240ce06eea758fb370",
+            "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.3524/pcsx2-v1.7.3524-windows-64bit-AVX2-Qt.7z",
+            "hash": "205c81ab409e4f315a6a8c323600b51d3a5dd827efac82ad658b891076fe14c4",
             "pre_install": [
                 "if (!(Test-Path \"$persist_dir\")) {",
                 "   New-Item \"$persist_dir\" -ItemType Directory | Out-Null",
@@ -10920,20 +10953,20 @@
             ]
         },
         "scummvm-nightly": {
-            "version": "fa66f887",
+            "version": "e1ab4109",
             "description": "ScummVM is a program which allows you to run certain classic graphical adventure and role-playing games",
             "homepage": "https://www.scummvm.org/",
             "license": "GPL-3.0",
             "architecture": {
                 "32bit": {
-                    "url": "https://buildbot.scummvm.org/dailybuilds/master/windows-x86-master-fa66f887.zip",
-                    "hash": "3930052656e176d9d790207444bdeb61998a27348d2b650ae1c51b96ae09de11",
-                    "extract_dir": "windows-x86-master-fa66f887"
+                    "url": "https://buildbot.scummvm.org/dailybuilds/master/windows-x86-master-e1ab4109.zip",
+                    "hash": "c10f935ab879e85854414a181a9431010ed1287f4607a645bae6ebdf4f756683",
+                    "extract_dir": "windows-x86-master-e1ab4109"
                 },
                 "64bit": {
-                    "url": "https://buildbot.scummvm.org/dailybuilds/master/windows-x86-64-master-fa66f887.zip",
-                    "hash": "8280fd5c0352a6f7ac1b8b2408b2342a499ae22133cfa09d3cdad0338ae961b1",
-                    "extract_dir": "windows-x86-64-master-fa66f887"
+                    "url": "https://buildbot.scummvm.org/dailybuilds/master/windows-x86-64-master-e1ab4109.zip",
+                    "hash": "68582262117a078b115aa39aab876e7d163e63218d3ab0c545f7dc31d62ae25b",
+                    "extract_dir": "windows-x86-64-master-e1ab4109"
                 }
             },
             "bin": "win32dist-mingw/scummvm.exe",
@@ -11416,6 +11449,7 @@
                 "snesgt.exe"
             ]
         },
+        "softmac": null,
         "softvms": {
             "##": [
                 "name:SoftVMS",
@@ -14126,14 +14160,14 @@
             ]
         },
         "yuzu-pineapple": {
-            "version": "EA-3079",
+            "version": "EA-3081",
             "description": "A Yuzu Early Access fork with Linux-specific patches",
             "homepage": "https://github.com/pineappleEA/pineapple-src",
             "license": "GPL-2.0",
             "architecture": {
                 "64bit": {
-                    "url": "https://github.com/pineappleEA/pineapple-src/releases/download/EA-3079/Windows-Yuzu-EA-3079.7z",
-                    "hash": "6032d915216d457242fe298412c95dd3b29f1ce7a566eec13cf039bafff9d858"
+                    "url": "https://github.com/pineappleEA/pineapple-src/releases/download/EA-3081/Windows-Yuzu-EA-3081.7z",
+                    "hash": "9ab282bd79266063916b6ede2cc261a40828a2e69409a82e2cf916d26a0287da"
                 }
             },
             "extract_dir": "yuzu-windows-msvc-early-access",
@@ -14181,14 +14215,14 @@
             }
         },
         "yuzu": {
-            "version": "0-1222",
+            "version": "0-1223",
             "description": "Experimental emulator for the Nintendo Switch",
             "homepage": "https://yuzu-emu.org/",
             "license": "GPL-2.0",
             "architecture": {
                 "64bit": {
-                    "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1222/yuzu-windows-msvc-20221103-8b1216ff6.tar.xz",
-                    "hash": "aca5f39f2a14642fe427fb8b69e723b0836710dcada7a34df27ba0c3fa4b35c9"
+                    "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1223/yuzu-windows-msvc-20221104-08b042737.tar.xz",
+                    "hash": "f39d475662af6937cbe8d28b91989c4f298c2892655144a250946ca1fe0f258e"
                 }
             },
             "extract_dir": "yuzu-windows-msvc",
