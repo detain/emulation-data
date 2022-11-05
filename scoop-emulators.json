@@ -200,27 +200,6 @@
                 "ACE32XP.exe"
             ]
         },
-        "acme": {
-            "version": "0.97",
-            "description": "multi-platform cross assembler for 6502/6510/65816 cpu",
-            "homepage": "https://sourceforge.net/projects/acme-crossass/",
-            "license": "GPLv2",
-            "url": "https://sourceforge.net/projects/acme-crossass/files/win32/acme0.97win.zip/download#/acme.zip",
-            "hash": "68f7c80c23806eced6ab96622d8e22b500ed76b4d34a01af33461dee04edc359",
-            "extract_dir": "acme0.97win\\acme",
-            "bin": "acme.exe",
-            "env_set": {
-                "ACME": "$dir\\ACME_LIB"
-            },
-            "checkver": {
-                "url": "https://sourceforge.net/projects/acme-crossass/rss?path=/win32",
-                "re": "acme(.*)win\\.zip"
-            },
-            "autoupdate": {
-                "url": "https://sourceforge.net/projects/acme-crossass/files/win32/acme$versionwin.zip/download#/acme.zip",
-                "extract_dir": "acme$versionwin\\acme"
-            }
-        },
         "activegs": {
             "##": [
                 "name:ActiveGS",
@@ -1207,12 +1186,12 @@
             }
         },
         "bizhawk-dev": {
-            "version": "3224-20221103-c891cc2c",
+            "version": "3225-20221104-f1f0f169",
             "description": "BizHawk is a multi-platform emulator with full rerecording support and Lua scripting. BizHawk focuses on core accuracy and power user tools while still being an easy-to-use emulator for casual gaming",
             "homepage": "http://tasvideos.org/BizHawk.html",
             "license": "MIT",
-            "url": "https://gitlab.com/TASVideos/BizHawk/-/jobs/3266650118/artifacts/download?file_type=archive#dl.zip",
-            "hash": "91ba901d76569d115cfde1140b42a8b82634b7aa3f5c3840be6de813247ef373",
+            "url": "https://gitlab.com/TASVideos/BizHawk/-/jobs/3278449229/artifacts/download?file_type=archive#dl.zip",
+            "hash": "aca3b225055ab5c629dfff509e24cec6a15915615d69d3e68da4c5b711c16ebb",
             "bin": "EmuHawk.exe",
             "shortcuts": [
                 [
@@ -2069,14 +2048,14 @@
             }
         },
         "citra-nightly": {
-            "version": "1802-20221028",
+            "version": "1803-20221104",
             "description": "Nintendo 3DS emulator",
             "homepage": "https://citra-emu.org/",
             "license": "GPL-2.0",
             "architecture": {
                 "64bit": {
-                    "url": "https://github.com/citra-emu/citra-nightly/releases/download/nightly-1802/citra-windows-mingw-20221028-a93d7a8.7z",
-                    "hash": "e64062efb962baf70cbec47193d0357898c2c4e279960adb9dab898fd5925428"
+                    "url": "https://github.com/citra-emu/citra-nightly/releases/download/nightly-1803/citra-windows-mingw-20221104-1ddea27.7z",
+                    "hash": "738ebfe47d2456dd07a4b39baf3df7da070bf221208da1bd90b329e4feb1e8dc"
                 }
             },
             "extract_dir": "nightly-mingw",
@@ -2117,12 +2096,12 @@
             }
         },
         "citra": {
-            "version": "1802-20221028",
+            "version": "1803-20221104",
             "description": "Emulator for Nintendo 3DS, capable of playing many of your favorite games",
             "homepage": "https://citra-emu.org/",
             "license": "GPL-2.0",
-            "url": "https://github.com/citra-emu/citra-nightly/releases/download/nightly-1802/citra-windows-mingw-20221028-a93d7a8.7z",
-            "hash": "e64062efb962baf70cbec47193d0357898c2c4e279960adb9dab898fd5925428",
+            "url": "https://github.com/citra-emu/citra-nightly/releases/download/nightly-1803/citra-windows-mingw-20221104-1ddea27.7z",
+            "hash": "738ebfe47d2456dd07a4b39baf3df7da070bf221208da1bd90b329e4feb1e8dc",
             "extract_dir": "nightly-mingw",
             "pre_install": [
                 "if (!(Test-Path \"$persist_dir\\user\")) {",
@@ -3228,15 +3207,15 @@
             }
         },
         "dolphin-dev": {
-            "version": "5.0-17790",
+            "version": "5.0-17805",
             "description": "A Nintendo GameCube and Wii emulator, with enhancements and Netplay. (development version)",
             "homepage": "https://dolphin-emu.org/",
             "license": "GPL-2.0-or-later",
             "suggest": {
                 "Microsoft Visual C++ Runtime 2022": "extras/vcredist2022"
             },
-            "url": "https://dl.dolphin-emu.org/builds/01/4a/dolphin-master-5.0-17790-x64.7z",
-            "hash": "02b502a0386892b6cc1d530e871f10c6c430a1df739694c1043e05d71da916dd",
+            "url": "https://dl.dolphin-emu.org/builds/c6/72/dolphin-master-5.0-17805-x64.7z",
+            "hash": "5bf5a1895839fda7121bf085bf0a9e595ff6bb7413b7fd5c2b7c4ce7be367a8b",
             "extract_dir": "Dolphin-x64",
             "pre_install": [
                 "if (!(Test-Path \"$persist_dir\")) {",
@@ -8845,7 +8824,7 @@
             ]
         },
         "pcsx2-dev": {
-            "version": "1.7.3524",
+            "version": "1.7.3527",
             "description": "A feature rich FOSS PlayStation 2 emulator (development version)",
             "homepage": "https://pcsx2.net/",
             "license": "GPL-3.0",
@@ -8857,8 +8836,8 @@
             "suggest": {
                 "Microsoft Visual C++ Runtime 2022": "extras/vcredist2022"
             },
-            "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.3524/pcsx2-v1.7.3524-windows-64bit-AVX2-Qt.7z",
-            "hash": "205c81ab409e4f315a6a8c323600b51d3a5dd827efac82ad658b891076fe14c4",
+            "url": "https://github.com/PCSX2/pcsx2/releases/download/v1.7.3527/pcsx2-v1.7.3527-windows-64bit-AVX2-Qt.7z",
+            "hash": "1f46eb8236a4e9a99ea2f95080ee42df2172baacd6cb5e686a63905252eb876f",
             "pre_install": [
                 "if (!(Test-Path \"$persist_dir\")) {",
                 "   New-Item \"$persist_dir\" -ItemType Directory | Out-Null",
@@ -9236,7 +9215,7 @@
             ]
         },
         "play-dev": {
-            "version": "20221104-094bce99",
+            "version": "20221105-094bce99",
             "description": "A newer experimental ps2 emulator.",
             "homepage": "https://purei.org",
             "license": "BSD-2-Clause",
@@ -13126,14 +13105,14 @@
             ]
         },
         "vita3k": {
-            "version": "771e829",
+            "version": "2e10cf9",
             "description": "PlayStation Vita emulator (Development)",
             "homepage": "https://vita3k.org",
             "license": "GPL-2.0",
             "architecture": {
                 "64bit": {
                     "url": "https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip",
-                    "hash": "a5a12c4505c9742431de33b685323293fbbbd458de2acf07cf1cff6f08982150"
+                    "hash": "5e736c2def76d755fa1426dd9057aa4f603db0b2173a4d104d091dc7ce65ce0a"
                 }
             },
             "pre_install": [
@@ -14226,14 +14205,14 @@
             }
         },
         "yuzu": {
-            "version": "0-1223",
+            "version": "0-1224",
             "description": "Experimental emulator for the Nintendo Switch",
             "homepage": "https://yuzu-emu.org/",
             "license": "GPL-2.0",
             "architecture": {
                 "64bit": {
-                    "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1223/yuzu-windows-msvc-20221104-08b042737.tar.xz",
-                    "hash": "f39d475662af6937cbe8d28b91989c4f298c2892655144a250946ca1fe0f258e"
+                    "url": "https://github.com/yuzu-emu/yuzu-mainline/releases/download/mainline-0-1224/yuzu-windows-msvc-20221104-32d8ebcb5.tar.xz",
+                    "hash": "0df063ab5172dd3822dc728fcfa1077d365f4ce2f8be7e028acd509599ed101f"
                 }
             },
             "extract_dir": "yuzu-windows-msvc",
