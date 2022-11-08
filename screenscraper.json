@@ -236,6 +236,9 @@
                 "Genesis",
                 "Super Aladdin Boy"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -978,9 +981,6 @@
                 "bin",
                 "sg"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1988",
             "date_end": "1998"
         },
@@ -994,6 +994,9 @@
                 "Master System",
                 "SMS"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -1391,9 +1394,6 @@
                 "sms",
                 "bin"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1985",
             "date_end": "1996"
         },
@@ -1408,6 +1408,9 @@
                 "Nintendo Famicom",
                 "Nintendo Family Computer"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -2508,9 +2511,6 @@
                 "bin",
                 "unf"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1983",
             "date_end": "1995"
         },
@@ -2524,6 +2524,9 @@
                 "Super Famicom",
                 "Nintendo super Famicom"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -3097,9 +3100,6 @@
                 "mgd",
                 "swc"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1990",
             "date_end": "2003"
         },
@@ -3113,6 +3113,9 @@
                 "CPS 1",
                 "CPS I"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Capcom",
             "matches": {
                 "launchbox": [
@@ -3407,9 +3410,6 @@
             "ext": [
                 "chd"
             ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb",
             "date_start": "1988",
             "date_end": "1995"
         },
@@ -3422,6 +3422,9 @@
                 "CPS 2",
                 "CPS II"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Capcom",
             "matches": {
                 "launchbox": [
@@ -3716,9 +3719,6 @@
             "ext": [
                 "chd"
             ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb",
             "date_start": "1993",
             "date_end": "2004"
         },
@@ -3731,6 +3731,9 @@
                 "CPS 3",
                 "CPS III"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Capcom",
             "matches": {
                 "launchbox": [
@@ -4022,9 +4025,6 @@
                 "img",
                 "sub"
             ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb",
             "date_start": "1996",
             "date_end": "1999"
         },
@@ -4037,6 +4037,9 @@
                 "Nintendo GB",
                 "GB"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -4413,9 +4416,6 @@
                 "gb",
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1989",
             "date_end": "2003"
         },
@@ -4430,6 +4430,9 @@
                 "GB Color",
                 "GBC"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -4748,9 +4751,6 @@
                 "gbc",
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1998",
             "date_end": "2003"
         },
@@ -4763,6 +4763,9 @@
                 "Nintendo vboy",
                 "vboy"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -4962,9 +4965,6 @@
                 "vboy",
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1995",
             "date_end": "1996"
         },
@@ -4979,6 +4979,9 @@
                 "GB Advance",
                 "GBA"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -5321,9 +5324,6 @@
                 "gba",
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "2001",
             "date_end": "2008"
         },
@@ -5337,6 +5337,9 @@
                 "NGC",
                 "GC"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -5668,9 +5671,6 @@
                 "iso",
                 "gcz"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "2001",
             "date_end": "2007"
         },
@@ -5681,6 +5681,9 @@
                 "Nintendo 64",
                 "n64"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -6227,9 +6230,6 @@
                 "v64",
                 "z64"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1996",
             "date_end": "2002"
         },
@@ -6244,6 +6244,9 @@
                 "NDSi",
                 "DSi"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -6473,9 +6476,6 @@
                 "nds",
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "2004",
             "date_end": "2013"
         },
@@ -6486,6 +6486,9 @@
                 "Nintendo WII",
                 "WII"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -6784,9 +6787,6 @@
                 "wad",
                 "wbfs"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "2006",
             "date_end": "2013"
         },
@@ -6798,6 +6798,9 @@
                 "3DS",
                 "2DS"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -7017,9 +7020,6 @@
             "ext": [
                 "3ds"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "2011",
             "date_end": "2020"
         },
@@ -7030,6 +7030,9 @@
                 "Nintendo WII-U",
                 "WII-U"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -7398,9 +7401,6 @@
                 "ciso",
                 "wbfs"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "2012",
             "date_end": "2017"
         },
@@ -7418,6 +7418,9 @@
                 "32x",
                 "Megadrive 32X"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -7773,9 +7776,6 @@
                 "sub",
                 "wav"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1994",
             "date_end": "1996"
         },
@@ -7786,6 +7786,9 @@
                 "Mega-CD",
                 "Sega CD"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -8259,9 +8262,6 @@
                 "sub",
                 "wav"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "1991",
             "date_end": "1996"
         },
@@ -8274,6 +8274,9 @@
                 "Sega GG",
                 "GG"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -9002,9 +9005,6 @@
                 "sms",
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1990",
             "date_end": "1997"
         },
@@ -9015,6 +9015,9 @@
                 "Sega Saturn",
                 "Saturn"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -9380,9 +9383,6 @@
                 "iso",
                 "m3u"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "1994",
             "date_end": "2000"
         },
@@ -9395,6 +9395,9 @@
                 "Sega DC",
                 "DC"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -9990,9 +9993,6 @@
                 "m3u",
                 "chd"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "1998",
             "date_end": "2004"
         },
@@ -10005,6 +10005,9 @@
                 "SNK NGP",
                 "GP"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "SNK",
             "matches": {
                 "launchbox": [
@@ -10251,9 +10254,6 @@
                 "ngc",
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1998",
             "date_end": "2001"
         },
@@ -10265,6 +10265,9 @@
                 "A2600",
                 "2600"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Atari",
             "matches": {
                 "launchbox": [
@@ -10648,9 +10651,6 @@
                 "bin",
                 "rom"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1977",
             "date_end": "1992"
         },
@@ -10661,6 +10661,9 @@
                 "Atari Jaguar",
                 "Jaguar"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Atari",
             "matches": {
                 "launchbox": [
@@ -10901,9 +10904,6 @@
                 "rom",
                 "abs"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1993",
             "date_end": "1996"
         },
@@ -10914,6 +10914,9 @@
                 "Atari Lynx",
                 "Lynx"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Atari",
             "matches": {
                 "launchbox": [
@@ -11170,9 +11173,6 @@
                 "bin",
                 "lnx"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1989",
             "date_end": "1995"
         },
@@ -11185,6 +11185,9 @@
                 "3DO Interactive Multiplayer",
                 "3DO"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Panasonic",
             "matches": {
                 "launchbox": [
@@ -11640,9 +11643,6 @@
                 "wav",
                 "chd"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "1993",
             "date_end": "1995"
         },
@@ -11653,6 +11653,9 @@
                 "Nokia N-Gage",
                 "N-Gage"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Nokia",
             "matches": {
                 "launchbox": [
@@ -11844,9 +11847,6 @@
             "ext": [
                 "id"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "2003",
             "date_end": "?"
         },
@@ -11859,6 +11859,9 @@
                 "PC Engine",
                 "TurboGrafx-16"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "launchbox": [
                     "NEC TurboGrafx-16"
@@ -12310,9 +12313,6 @@
                 "pce",
                 "sgx"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1987",
             "date_end": "1994"
         },
@@ -12323,6 +12323,9 @@
                 "Microsoft XBOX",
                 "XBOX"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Microsoft",
             "matches": {
                 "launchbox": [
@@ -12534,9 +12537,6 @@
             "ext": [
                 "iso"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "2001",
             "date_end": "2008"
         },
@@ -12547,6 +12547,9 @@
                 "Microsoft XBOX 360",
                 "XBOX 360"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Microsoft",
             "matches": {
                 "launchbox": [
@@ -12849,9 +12852,6 @@
             "ext": [
                 "iso"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "2005",
             "date_end": "2016"
         },
@@ -12862,6 +12862,9 @@
                 "Microsoft XBOX One",
                 "XBOX One"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Microsoft",
             "matches": {
                 "launchbox": [
@@ -13071,9 +13074,6 @@
             "ext": [
                 "iso"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "2013"
         },
         "36": {
@@ -13083,6 +13083,9 @@
                 "Acorn ATOM",
                 "ATOM"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7-floppy",
             "matches": {
                 "launchbox": [
                     "Acorn Atom"
@@ -13161,9 +13164,6 @@
                 "uef",
                 "wav"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7-floppy",
             "date_start": "1980",
             "date_end": "1983"
         },
@@ -13176,6 +13176,9 @@
                 "Acorn BBC Micro",
                 "BBC Micro"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7-floppy",
             "matches": {
                 "launchbox": [
                     "BBC Microcomputer System"
@@ -13348,9 +13351,6 @@
                 "zip",
                 "m3u"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7-floppy",
             "date_start": "1981",
             "date_end": "1994"
         },
@@ -13365,6 +13365,9 @@
                 "A2600 SC",
                 "2600 SC"
             ],
+            "type": "Accessory",
+            "romtype": "rom",
+            "supporttype": "k7",
             "company": "Atari",
             "media": {
                 "logo-monochrome": [
@@ -13524,9 +13527,6 @@
                     }
                 ]
             },
-            "type": "Accessory",
-            "romtype": "rom",
-            "supporttype": "k7",
             "date_start": "1982"
         },
         "40": {
@@ -13537,6 +13537,9 @@
                 "A5200",
                 "5200"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Atari",
             "matches": {
                 "launchbox": [
@@ -13807,9 +13810,6 @@
                 "bin",
                 "rom"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1982",
             "date_end": "1984"
         },
@@ -13821,6 +13821,9 @@
                 "A7800",
                 "7800"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Atari",
             "matches": {
                 "launchbox": [
@@ -14124,9 +14127,6 @@
                 "bin",
                 "rom"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1986",
             "date_end": "1992"
         },
@@ -14141,6 +14141,9 @@
                 "520 ST",
                 "1040 ST"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Atari",
             "matches": {
                 "launchbox": [
@@ -14353,9 +14356,6 @@
                 "msa",
                 "dim"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1985",
             "date_end": "1993"
         },
@@ -14382,6 +14382,9 @@
                 "A800",
                 "A400"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Atari",
             "matches": {
                 "launchbox": [
@@ -14633,9 +14636,6 @@
                 "xfd.gz",
                 "zip"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1985",
             "date_end": "1992"
         },
@@ -14646,6 +14646,9 @@
                 "Bally Astrocade",
                 "Astrocade"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "launchbox": [
                     "Bally Astrocade"
@@ -14885,9 +14888,6 @@
                 "prg",
                 "wav"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1977",
             "date_end": "1985"
         },
@@ -14900,6 +14900,9 @@
                 "Bandai WSwan",
                 " WSwan"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "launchbox": [
                     "WonderSwan"
@@ -15129,9 +15132,6 @@
                 "wsc",
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1999",
             "date_end": "2003"
         },
@@ -15144,6 +15144,9 @@
                 "Bandai WSwan Color",
                 " WSwan Color"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "launchbox": [
                     "WonderSwan Color"
@@ -15366,9 +15369,6 @@
                 "wsc",
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "2000",
             "date_end": "2003"
         },
@@ -15378,6 +15378,9 @@
             "altNames": [
                 "Cave"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "arcade"
@@ -15664,9 +15667,6 @@
             "ext": [
                 "chd"
             ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb",
             "date_start": "1994",
             "date_end": "2012"
         },
@@ -15676,6 +15676,9 @@
             "altNames": [
                 "Colecovision"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "launchbox": [
                     "ColecoVision"
@@ -16030,9 +16033,6 @@
                 "rom",
                 "bin"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1982",
             "date_end": "1985"
         },
@@ -16042,6 +16042,9 @@
             "altNames": [
                 "Daphne"
             ],
+            "type": "Arcade Emulation",
+            "romtype": "folder",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "arcade"
@@ -16336,10 +16339,7 @@
             },
             "ext": [
                 "daphne(m2v|ogg)"
-            ],
-            "type": "Arcade Emulation",
-            "romtype": "folder",
-            "supporttype": "pcb"
+            ]
         },
         "50": {
             "id": 50,
@@ -16350,6 +16350,9 @@
                 "PC-Engine DUO",
                 "PCE DUO"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "retropie": [
                     "pcengine",
@@ -16465,9 +16468,6 @@
                 "pce",
                 "sgx"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1987",
             "date_end": "1994"
         },
@@ -16484,6 +16484,9 @@
                 "G&amp;W",
                 "GW"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "hardware",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -16670,9 +16673,6 @@
             "ext": [
                 "mgw"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "hardware",
             "date_start": "1980",
             "date_end": "1991"
         },
@@ -16683,6 +16683,9 @@
                 "Sammy Atomiswave",
                 "Atomiswave"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "Sammy Atomiswave"
@@ -16994,9 +16997,6 @@
             "ext": [
                 "chd"
             ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb",
             "date_start": "2003",
             "date_end": "?"
         },
@@ -17009,6 +17009,9 @@
                 "Model 2",
                 "Model II"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -17296,9 +17299,6 @@
             "ext": [
                 "chd"
             ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb",
             "date_start": "1993",
             "date_end": "?"
         },
@@ -17311,6 +17311,9 @@
                 "Model 3",
                 "Model III"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -17599,9 +17602,6 @@
             "ext": [
                 "chd"
             ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb",
             "date_start": "1996",
             "date_end": "?"
         },
@@ -17612,6 +17612,9 @@
                 "Sega Naomi",
                 "Naomi"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -17904,9 +17907,6 @@
                 "gdi",
                 "raw"
             ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb",
             "date_start": "1998",
             "date_end": "?"
         },
@@ -17921,6 +17921,9 @@
                 "Sony PS One",
                 "PS One"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Sony",
             "matches": {
                 "launchbox": [
@@ -18755,9 +18758,6 @@
                 "znx",
                 "chd"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "1994",
             "date_end": "2006"
         },
@@ -18772,6 +18772,9 @@
                 "Sony Playstation II",
                 "Playstation II"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Sony",
             "matches": {
                 "launchbox": [
@@ -19134,9 +19137,6 @@
                 "cue",
                 "gz"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "2000",
             "date_end": "2013"
         },
@@ -19151,6 +19151,9 @@
                 "Sony Playstation III",
                 "Playstation III"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Sony",
             "matches": {
                 "launchbox": [
@@ -19610,9 +19613,6 @@
             "ext": [
                 "iso"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "2006",
             "date_end": "2017"
         },
@@ -19627,6 +19627,9 @@
                 "Sony Playstation IV",
                 "Playstation IV"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Sony",
             "matches": {
                 "launchbox": [
@@ -19835,9 +19838,6 @@
             "ext": [
                 "iso"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "2013"
         },
         "61": {
@@ -19851,6 +19851,9 @@
                 "Sony PS Portable",
                 "PS Portable"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Sony",
             "matches": {
                 "launchbox": [
@@ -20140,9 +20143,6 @@
                 "cue",
                 "cso"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "2004",
             "date_end": "2014"
         },
@@ -20157,6 +20157,9 @@
                 "Sony Vita",
                 "Vita"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche-download",
             "company": "Sony",
             "matches": {
                 "launchbox": [
@@ -20450,9 +20453,6 @@
                 "iso",
                 "vpk"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche-download",
             "date_start": "2011",
             "date_end": "2019"
         },
@@ -20462,6 +20462,9 @@
             "altNames": [
                 "Android"
             ],
+            "type": "Smartphone",
+            "romtype": "rom",
+            "supporttype": "download",
             "matches": {
                 "launchbox": [
                     "Android"
@@ -20554,9 +20557,6 @@
             "ext": [
                 "apk"
             ],
-            "type": "Smartphone",
-            "romtype": "rom",
-            "supporttype": "download",
             "date_start": "2007"
         },
         "64": {
@@ -20598,6 +20598,9 @@
                 "A500+",
                 "A1000"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Commodore",
             "matches": {
                 "launchbox": [
@@ -20884,9 +20887,6 @@
                 "m3u",
                 "zip"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1985",
             "date_end": "1994"
         },
@@ -20919,6 +20919,9 @@
                 "464+",
                 "6128+"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7-floppy",
             "company": "Amstrad",
             "matches": {
                 "launchbox": [
@@ -21267,9 +21270,6 @@
                 "dsk",
                 "cpc"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7-floppy",
             "date_start": "1983",
             "date_end": "1990"
         },
@@ -21280,6 +21280,9 @@
                 "Commodore 64",
                 "C64"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7-floppy",
             "company": "Commodore",
             "matches": {
                 "launchbox": [
@@ -21516,9 +21519,6 @@
                 "tap",
                 "z64"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7-floppy",
             "date_start": "1984",
             "date_end": "1994"
         },
@@ -21530,6 +21530,9 @@
                 "Epoch Super Cassette Vision",
                 "Super Cassette Vision"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Epoch",
             "matches": {
                 "launchbox": [
@@ -21874,9 +21877,6 @@
                 "bin",
                 "cart"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1984",
             "date_end": "?"
         },
@@ -21887,6 +21887,9 @@
                 "SNK Neo-Geo MVS",
                 "Neo-Geo MVS"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "SNK",
             "matches": {
                 "launchbox": [
@@ -22128,9 +22131,6 @@
             "ext": [
                 "chd"
             ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1990",
             "date_end": "2004"
         },
@@ -22141,6 +22141,9 @@
                 "Sega ST-V",
                 "ST-V"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -22417,9 +22420,6 @@
             "ext": [
                 "chd"
             ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1994",
             "date_end": "2001"
         },
@@ -22432,6 +22432,9 @@
                 "SNK Neo-geo CD",
                 "Neo-geo CD"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "SNK",
             "matches": {
                 "launchbox": [
@@ -22658,9 +22661,6 @@
                 "img",
                 "iso"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "1994",
             "date_end": "?"
         },
@@ -22671,6 +22671,9 @@
                 "NEC PC-FX",
                 "PC-FX"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "matches": {
                 "launchbox": [
                     "NEC PC-FX"
@@ -22928,9 +22931,6 @@
                 "sub",
                 "cue"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "1994",
             "date_end": "?"
         },
@@ -22941,6 +22941,9 @@
                 "Commodore Vic-20",
                 "Vic-20"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "cartouche-k7",
             "company": "Commodore",
             "matches": {
                 "launchbox": [
@@ -23142,9 +23145,6 @@
                 "tap",
                 "d81"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "cartouche-k7",
             "date_start": "1980",
             "date_end": "1985"
         },
@@ -23155,6 +23155,9 @@
                 "Casio PV-1000",
                 "PV-1000"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Casio",
             "matches": {
                 "launchbox": [
@@ -23326,9 +23329,6 @@
             "ext": [
                 "bin"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1983",
             "date_end": "1983"
         },
@@ -23348,6 +23348,9 @@
                 "MAME-ADVMAME",
                 "FBA-LibRetro"
             ],
+            "type": "Arcade Emulation",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "arcade"
@@ -23761,10 +23764,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade Emulation",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "76": {
             "id": 76,
@@ -23773,6 +23773,9 @@
                 "Sinclair ZX-Spectrum",
                 "ZX-Spectrum"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7",
             "company": "Sinclair",
             "matches": {
                 "launchbox": [
@@ -24003,9 +24006,6 @@
                 "udi",
                 "z80"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7",
             "date_start": "1982",
             "date_end": "?"
         },
@@ -24016,6 +24016,9 @@
                 "Sinclair ZX-81",
                 "ZX-81"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7",
             "company": "Sinclair",
             "matches": {
                 "launchbox": [
@@ -24180,9 +24183,6 @@
                 "p",
                 "tzx"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7",
             "date_start": "1981",
             "date_end": "?"
         },
@@ -24193,6 +24193,9 @@
                 "Entex Adventure Vision",
                 "Adventure Vision"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Entex Industries, Inc",
             "matches": {
                 "launchbox": [
@@ -24344,9 +24347,6 @@
             "ext": [
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1982",
             "date_end": "1983"
         },
@@ -24359,6 +24359,9 @@
                 "Sharp X68k",
                 "X68k"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Sharp",
             "matches": {
                 "launchbox": [
@@ -24698,9 +24701,6 @@
                 "zip",
                 "7z"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1987",
             "date_end": "?"
         },
@@ -24715,6 +24715,9 @@
                 "Video Entertainment System",
                 "VES"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "launchbox": [
                     "Fairchild Channel F"
@@ -24943,9 +24946,6 @@
             "ext": [
                 "bin"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1976",
             "date_end": "?"
         },
@@ -24957,6 +24957,9 @@
                 "WoW Action Max",
                 "Action Max"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "videotape",
             "matches": {
                 "launchbox": [
                     "WoW Action Max"
@@ -25065,9 +25068,6 @@
             "ext": [
                 "singe"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "videotape",
             "date_start": "1987",
             "date_end": "?"
         },
@@ -25082,6 +25082,9 @@
                 "SNK NGPC",
                 "NGPC"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "SNK",
             "matches": {
                 "launchbox": [
@@ -25353,9 +25356,6 @@
                 "ngc",
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1999",
             "date_end": "2000"
         },
@@ -25365,6 +25365,9 @@
             "altNames": [
                 "Aamber Pegasus"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7",
             "matches": {
                 "launchbox": [
                     "Aamber Pegasus"
@@ -25473,9 +25476,6 @@
             "ext": [
                 "bin"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7",
             "date_start": "1981",
             "date_end": "?"
         },
@@ -25486,6 +25486,9 @@
                 "Acorn Archimedes",
                 "Archimedes"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "matches": {
                 "launchbox": [
                     "Acorn Archimedes"
@@ -25641,9 +25644,6 @@
                 "adf",
                 "jfd"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1987",
             "date_end": "?"
         },
@@ -25654,6 +25654,9 @@
                 "Acorn Electron",
                 "Electron"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7",
             "matches": {
                 "launchbox": [
                     "Acorn Electron"
@@ -25808,9 +25811,6 @@
                 "sdd",
                 "uef"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7",
             "date_start": "1983"
         },
         "86": {
@@ -25836,6 +25836,9 @@
                 "Apple I",
                 "Apple 1"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7-floppy",
             "company": "Apple",
             "matches": {
                 "launchbox": [
@@ -26092,9 +26095,6 @@
                 "po",
                 "nib"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7-floppy",
             "date_start": "1977",
             "date_end": "1981"
         },
@@ -26105,6 +26105,9 @@
                 "Amstrad GX-4000",
                 "GX-4000"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Amstrad",
             "matches": {
                 "launchbox": [
@@ -26306,9 +26309,6 @@
                 "dsk",
                 "cpc"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1990",
             "date_end": "1991"
         },
@@ -26324,6 +26324,9 @@
                 "Lynx 96",
                 "Lynx 128"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "matches": {
                 "launchbox": [
                     "Camputers Lynx"
@@ -26683,9 +26686,6 @@
                 "ldf",
                 "tap"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1983",
             "date_end": "1984"
         },
@@ -26696,6 +26696,9 @@
                 "Coleco Adam",
                 "Adam"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "cartouche-k7",
             "matches": {
                 "launchbox": [
                     "Coleco ADAM"
@@ -26781,9 +26784,6 @@
                 "img",
                 "lbr"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "cartouche-k7",
             "date_start": "1983",
             "date_end": "1985"
         },
@@ -26794,6 +26794,9 @@
                 "Mega Duck",
                 "Cougar Boy"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "launchbox": [
                     "Mega Duck"
@@ -26885,9 +26888,6 @@
             "ext": [
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1993",
             "date_end": "?"
         },
@@ -26899,6 +26899,9 @@
                 "Dragon 32",
                 "Dragon 64"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7",
             "matches": {
                 "launchbox": [
                     "Dragon 32-64"
@@ -27068,9 +27071,6 @@
                 "vdk",
                 "wav"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7",
             "date_start": "1982",
             "date_end": "1984"
         },
@@ -27084,6 +27084,9 @@
                 "Colour Genie",
                 "EG-2000"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7-floppy",
             "matches": {
                 "launchbox": [
                     "EACA EG2000 Colour Genie"
@@ -27668,9 +27671,6 @@
             "ext": [
                 "cas"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7-floppy",
             "date_start": "1982"
         },
         "93": {
@@ -27689,6 +27689,9 @@
                 "BK-0011",
                 "BK-0011M"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Elektronika",
             "matches": {
                 "launchbox": [
@@ -27780,9 +27783,6 @@
                 "bkd",
                 "img"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1984",
             "date_end": "1993"
         },
@@ -27827,6 +27827,9 @@
                 "Polybrain Video Computer Game",
                 "Trakton Computer Video Game"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "launchbox": [
                     "Emerson Arcadia 2001"
@@ -28077,9 +28080,6 @@
             "ext": [
                 "bin"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1982",
             "date_end": "?"
         },
@@ -28090,6 +28090,9 @@
                 "Epoch Game Pocket Computer",
                 "Game Pocket Computer"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Epoch",
             "matches": {
                 "launchbox": [
@@ -28170,9 +28173,6 @@
             "ext": [
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1984",
             "date_end": "?"
         },
@@ -28183,6 +28183,9 @@
                 "Exelvision EXL 100",
                 "EXL 100"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "cartouche-k7-floppy",
             "matches": {
                 "launchbox": [
                     "Exelvision EXL 100"
@@ -28263,9 +28266,6 @@
                 "td0",
                 "wav"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "cartouche-k7-floppy",
             "date_start": "1984",
             "date_end": "?"
         },
@@ -28281,6 +28281,9 @@
                 "FM-77AV",
                 "FM-8"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Fujitsu",
             "matches": {
                 "launchbox": [
@@ -28445,9 +28448,6 @@
                 "d77",
                 "t77"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1982",
             "date_end": "?"
         },
@@ -28458,6 +28458,9 @@
                 "Casio Loopy",
                 "Loopy"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Casio",
             "matches": {
                 "launchbox": [
@@ -28581,9 +28584,6 @@
             "ext": [
                 "bin"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1995",
             "date_end": "?"
         },
@@ -28597,6 +28597,9 @@
                 "Commodore Minus/60",
                 "Minus/60"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7-floppy",
             "company": "Commodore",
             "matches": {
                 "launchbox": [
@@ -28735,9 +28738,6 @@
                 "tap",
                 "z64"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7-floppy",
             "date_start": "1984",
             "date_end": "?"
         },
@@ -28748,6 +28748,9 @@
                 "Funtech Super A&apos;Can",
                 "Super A&apos;Can"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "launchbox": [
                     "Funtech Super Acan"
@@ -28883,9 +28886,6 @@
             "ext": [
                 "bin"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1995",
             "date_end": "?"
         },
@@ -28896,6 +28896,9 @@
                 "Game Park 32",
                 "GP32"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "smc",
             "matches": {
                 "hyperspin": [
                     "GamePark 32"
@@ -29041,9 +29044,6 @@
                 "fpk",
                 "smc"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "smc",
             "date_start": "2001",
             "date_end": "?"
         },
@@ -29054,6 +29054,9 @@
                 "GCE Vectrex",
                 "Vectrex"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "launchbox": [
                     "GCE Vectrex"
@@ -29404,9 +29407,6 @@
                 "bin",
                 "gam"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1982",
             "date_end": "1984"
         },
@@ -29420,6 +29420,9 @@
                 "Super Game",
                 "Game Tronic"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "launchbox": [
                     "Hartung Game Master"
@@ -29564,9 +29567,6 @@
             "ext": [
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1990",
             "date_end": "?"
         },
@@ -29642,6 +29642,9 @@
                 "C7420",
                 "G7401"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Philips",
             "matches": {
                 "launchbox": [
@@ -29997,9 +30000,6 @@
             "ext": [
                 "bin"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1978",
             "date_end": "?"
         },
@@ -30012,6 +30012,9 @@
                 "NEC SuperGrafx",
                 "SuperGrafx"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "launchbox": [
                     "PC Engine SuperGrafx"
@@ -30211,9 +30214,6 @@
                 "ccd",
                 "sgx"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1989",
             "date_end": "?"
         },
@@ -30238,6 +30238,9 @@
                 "FCD",
                 "FKDS"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -30666,9 +30669,6 @@
                 "nes",
                 "bin"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1986",
             "date_end": "2003"
         },
@@ -30681,6 +30681,9 @@
                 "Nintendo BS-X",
                 "BS-X"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "download",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -30927,9 +30930,6 @@
             "ext": [
                 "sfc"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "download",
             "date_start": "1995",
             "date_end": "2000"
         },
@@ -30940,6 +30940,9 @@
                 "Bandai Sufami Turbo",
                 "Sufami Turbo"
             ],
+            "type": "Accessory",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "retropie": [
                     "snes"
@@ -31094,9 +31097,6 @@
                 "st",
                 "smc"
             ],
-            "type": "Accessory",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1996"
         },
         "109": {
@@ -31111,6 +31111,9 @@
                 "SC 3000",
                 "Othello Multivisio"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -31320,9 +31323,6 @@
                 "sg",
                 "bin"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1983",
             "date_end": "1985"
         },
@@ -31330,6 +31330,9 @@
             "id": 110,
             "name": "Nintendo Power",
             "altNames": [],
+            "type": "Others",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "media": {
                 "logo-monochrome": [
                     {
@@ -31468,9 +31471,6 @@
                     }
                 ]
             },
-            "type": "Others",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1997",
             "date_end": "2007"
         },
@@ -31481,6 +31481,9 @@
                 "Amiga AGA",
                 "Amiga (AGA)"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Commodore",
             "matches": {
                 "launchbox": [
@@ -31738,9 +31741,6 @@
                 "m3u",
                 "zip"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1992",
             "date_end": "1994"
         },
@@ -31756,6 +31756,9 @@
                 "Taito Type XZero",
                 "Taito Type X³"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Taito",
             "matches": {
                 "launchbox": [
@@ -32026,9 +32029,6 @@
             "ext": [
                 "chd"
             ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb",
             "date_start": "2004"
         },
         "113": {
@@ -32040,6 +32040,9 @@
                 "MSX",
                 "MSX1"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Microsoft",
             "matches": {
                 "launchbox": [
@@ -32711,9 +32714,6 @@
                 "col",
                 "cas"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1980"
         },
         "114": {
@@ -32725,6 +32725,9 @@
                 "PC Engine CD-Rom",
                 "PC Engine CD"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "matches": {
                 "launchbox": [
                     "NEC PC Engine-CD"
@@ -32981,9 +32984,6 @@
                 "iso",
                 "sgx"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "1988",
             "date_end": "1994"
         },
@@ -33004,6 +33004,9 @@
                 "INTV Super Pro System",
                 "Super Pro System"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "launchbox": [
                     "Mattel Intellivision"
@@ -33210,9 +33213,6 @@
                 "int",
                 "rom"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1979",
             "date_end": "1984"
         },
@@ -33223,6 +33223,9 @@
                 "Microsoft MSX2",
                 "MSX2"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Microsoft",
             "matches": {
                 "launchbox": [
@@ -34000,9 +34003,6 @@
                 "cas",
                 "dsk"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1985"
         },
         "117": {
@@ -34014,6 +34014,9 @@
                 "MSX2Plus",
                 "MSX2+"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Microsoft",
             "matches": {
                 "launchbox": [
@@ -34624,9 +34627,6 @@
                 "cas",
                 "dsk"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1988"
         },
         "118": {
@@ -34636,6 +34636,9 @@
                 "Microsoft MSX R Turbo",
                 "MSX-R Turbo"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Microsoft",
             "matches": {
                 "launchbox": [
@@ -35239,9 +35242,6 @@
                 "dsk",
                 "col"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1990"
         },
         "119": {
@@ -35256,6 +35256,9 @@
                 "GB Advance e-Reader",
                 "GBA e-Reader"
             ],
+            "type": "Accessory",
+            "romtype": "rom",
+            "supporttype": "card",
             "company": "Nintendo",
             "media": {
                 "logo-monochrome": [
@@ -35412,9 +35415,6 @@
                     }
                 ]
             },
-            "type": "Accessory",
-            "romtype": "rom",
-            "supporttype": "card",
             "date_start": "2001",
             "date_end": "2002"
         },
@@ -35425,6 +35425,9 @@
                 "VTech V.Smile",
                 "V.Smile"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "VTech",
             "media": {
                 "logo-monochrome": [
@@ -35608,9 +35611,6 @@
             "ext": [
                 "bin"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "2004",
             "date_end": "2010"
         },
@@ -35621,6 +35621,9 @@
                 "Tiger Game.com",
                 "Game.com"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "hyperspin": [
                     "Tiger Game.com"
@@ -35765,9 +35768,6 @@
             "ext": [
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1997",
             "date_end": "2000"
         },
@@ -35779,6 +35779,9 @@
                 "N64 DD",
                 "64 DD"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -36104,9 +36107,6 @@
             "ext": [
                 "ndd"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1999",
             "date_end": "2001"
         },
@@ -36117,6 +36117,9 @@
                 "ScummVM",
                 "ResidualVM"
             ],
+            "type": "Virtual Machine",
+            "romtype": "folder",
+            "supporttype": "cd-floppy",
             "matches": {
                 "launchbox": [
                     "ScummVM"
@@ -36339,10 +36342,7 @@
                 "svm",
                 "scummvm(scummvm)",
                 "residualvm(residualvm)"
-            ],
-            "type": "Virtual Machine",
-            "romtype": "folder",
-            "supporttype": "cd-floppy"
+            ]
         },
         "124": {
             "id": 124,
@@ -36351,6 +36351,9 @@
                 "Mikrosha Computer",
                 "Mikrosha"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "matches": {
                 "launchbox": [
                     "Radio-86RK Mikrosha"
@@ -36418,9 +36421,6 @@
             "ext": [
                 "rkm"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1986"
         },
         "125": {
@@ -36429,6 +36429,9 @@
             "altNames": [
                 "Pecom 64"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7",
             "media": {
                 "logo-monochrome": [
                     {
@@ -36501,9 +36504,6 @@
             "ext": [
                 "wav"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7",
             "date_start": "1985"
         },
         "126": {
@@ -36514,6 +36514,9 @@
                 "Jupiter Ace 4000",
                 "Ace 4000"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7",
             "matches": {
                 "launchbox": [
                     "Jupiter Ace"
@@ -36600,9 +36603,6 @@
                 "tap",
                 "wav"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7",
             "date_start": "1982",
             "date_end": "1984"
         },
@@ -36615,6 +36615,9 @@
                 "Nintendo Super GG",
                 "Super GB"
             ],
+            "type": "Accessory",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Nintendo",
             "matches": {
                 "recalbox": [
@@ -36808,9 +36811,6 @@
                     }
                 ]
             },
-            "type": "Accessory",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1994",
             "date_end": "2003"
         },
@@ -36823,6 +36823,9 @@
                 "Nintendo Super GG 2",
                 "Super GB 2"
             ],
+            "type": "Accessory",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Nintendo",
             "matches": {
                 "recalbox": [
@@ -36892,9 +36895,6 @@
                 "gb",
                 "gbc"
             ],
-            "type": "Accessory",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": " 1998",
             "date_end": "2003"
         },
@@ -36906,6 +36906,9 @@
                 " Amliga CDTV",
                 "CDTV"
             ],
+            "type": "Computer",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Commodore",
             "matches": {
                 "launchbox": [
@@ -37080,9 +37083,6 @@
                 "iso",
                 "wav"
             ],
-            "type": "Computer",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "1991",
             "date_end": "1994"
         },
@@ -37093,6 +37093,9 @@
                 "Commodore Amiga CD32",
                 " Amiga CD32"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Commodore",
             "matches": {
                 "launchbox": [
@@ -37282,9 +37285,6 @@
                 "nrg",
                 "sub"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "1993",
             "date_end": "1994"
         },
@@ -37306,6 +37306,9 @@
                 "Eurêka Nova 64",
                 "Eurêka Adresstal"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "matches": {
                 "launchbox": [
                     "Oric Atmos"
@@ -37447,9 +37450,6 @@
                 "dsk",
                 "tap"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1982",
             "date_end": "1988"
         },
@@ -37460,6 +37460,9 @@
                 "Philips CD-I",
                 "CD-I"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "matches": {
                 "launchbox": [
                     "Philips CD-i"
@@ -37749,9 +37752,6 @@
                 "nrg",
                 "wav"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "1991",
             "date_end": "1997"
         },
@@ -37762,6 +37762,9 @@
                 "Commodore Amiga CD",
                 "Amiga CD"
             ],
+            "type": "Accessory",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Commodore",
             "matches": {
                 "retropie": [
@@ -37834,10 +37837,7 @@
                 "cue",
                 "iso",
                 "wav"
-            ],
-            "type": "Accessory",
-            "romtype": "iso",
-            "supporttype": "cd"
+            ]
         },
         "135": {
             "id": 135,
@@ -37855,6 +37855,9 @@
                 "Total DOS",
                 "PrBoom"
             ],
+            "type": "Computer",
+            "romtype": "folder",
+            "supporttype": "cd-floppy",
             "company": "Microsoft",
             "matches": {
                 "launchbox": [
@@ -38632,9 +38635,6 @@
                 "game",
                 "zip"
             ],
-            "type": "Computer",
-            "romtype": "folder",
-            "supporttype": "cd-floppy",
             "date_start": "1981"
         },
         "136": {
@@ -38650,6 +38650,9 @@
                 "Win 3.0",
                 "W3.0"
             ],
+            "type": "Computer",
+            "romtype": "folder",
+            "supporttype": "cd-floppy",
             "company": "Microsoft",
             "matches": {
                 "launchbox": [
@@ -39490,9 +39493,6 @@
                 "pc(exe|dll|com|iso|bin|mdf|img)",
                 "dos(exe|dll|com|iso|bin|mdf|img)"
             ],
-            "type": "Computer",
-            "romtype": "folder",
-            "supporttype": "cd-floppy",
             "date_start": "1990"
         },
         "137": {
@@ -39519,6 +39519,9 @@
                 "W98SE",
                 "W98SE2"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Microsoft",
             "media": {
                 "logo-monochrome": [
@@ -40141,9 +40144,6 @@
                     }
                 ]
             },
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1995",
             "date_end": "1998"
         },
@@ -40181,6 +40181,9 @@
                 "W8.1",
                 "W10"
             ],
+            "type": "Computer",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Microsoft",
             "matches": {
                 "launchbox": [
@@ -40904,9 +40907,6 @@
                     }
                 ]
             },
-            "type": "Computer",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "2000"
         },
         "139": {
@@ -40915,6 +40915,9 @@
             "altNames": [
                 "Amiga CD32 (hack)"
             ],
+            "type": "Console",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Commodore",
             "matches": {
                 "launchbox": [
@@ -41097,9 +41100,6 @@
                 "nrg",
                 "sub"
             ],
-            "type": "Console",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "1993",
             "date_end": "1994"
         },
@@ -41133,6 +41133,9 @@
                 "MO6",
                 "Thomson MO"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7",
             "matches": {
                 "launchbox": [
                     "Thomson TO7",
@@ -41350,9 +41353,6 @@
                 "m5",
                 "wav"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7",
             "date_start": "1982",
             "date_end": "1986"
         },
@@ -41367,6 +41367,9 @@
                 "SNK Neo-Geo MVS",
                 "Neo-Geo MVS"
             ],
+            "type": "Console & Arcade",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "SNK",
             "matches": {
                 "launchbox": [
@@ -41731,9 +41734,6 @@
             "ext": [
                 "chd"
             ],
-            "type": "Console & Arcade",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1990",
             "date_end": "2004"
         },
@@ -41741,6 +41741,9 @@
             "id": 143,
             "name": "Pinball FX2",
             "altNames": [],
+            "type": "Pinball",
+            "romtype": "file",
+            "supporttype": "non-applicable",
             "company": "Zen Studios",
             "matches": {
                 "hyperspin": [
@@ -41813,9 +41816,6 @@
             "ext": [
                 " "
             ],
-            "type": "Pinball",
-            "romtype": "file",
-            "supporttype": "non-applicable",
             "date_start": "2010",
             "date_end": "2017"
         },
@@ -41830,6 +41830,9 @@
                 "TRS-80 CoCo",
                 "CoCo"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Tandy",
             "matches": {
                 "launchbox": [
@@ -41979,9 +41982,6 @@
                 "ccc",
                 "sna"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1980",
             "date_end": "1991"
         },
@@ -41991,6 +41991,9 @@
             "altNames": [
                 "Linux"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "cd-floppy",
             "company": "Public Domain",
             "media": {
                 "logo-monochrome": [
@@ -42150,9 +42153,6 @@
                     }
                 ]
             },
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "cd-floppy",
             "date_start": "1991"
         },
         "146": {
@@ -42167,6 +42167,9 @@
                 "Mac-OS",
                 "OSX"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Apple",
             "matches": {
                 "launchbox": [
@@ -42271,9 +42274,6 @@
                 "img",
                 "rom"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1984",
             "date_end": "2001"
         },
@@ -42283,6 +42283,9 @@
             "altNames": [
                 "Sega Classics"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -42558,10 +42561,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "148": {
             "id": 148,
@@ -42569,6 +42569,9 @@
             "altNames": [
                 "Irem Classics"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Irem",
             "matches": {
                 "launchbox": [
@@ -42838,10 +42841,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "149": {
             "id": 149,
@@ -42849,6 +42849,9 @@
             "altNames": [
                 "SETA"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "arcade"
@@ -43114,10 +43117,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "150": {
             "id": 150,
@@ -43125,6 +43125,9 @@
             "altNames": [
                 "Midway Classics"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Midway",
             "matches": {
                 "launchbox": [
@@ -43395,10 +43398,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "151": {
             "id": 151,
@@ -43406,6 +43406,9 @@
             "altNames": [
                 "Capcom Classics"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Capcom",
             "matches": {
                 "launchbox": [
@@ -43681,10 +43684,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "152": {
             "id": 152,
@@ -43697,6 +43697,9 @@
                 "Raizing",
                 "R8zing"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "arcade"
@@ -43962,10 +43965,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "153": {
             "id": 153,
@@ -43973,6 +43973,9 @@
             "altNames": [
                 "TECMO"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Tecmo",
             "matches": {
                 "launchbox": [
@@ -44239,10 +44242,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "154": {
             "id": 154,
@@ -44250,6 +44250,9 @@
             "altNames": [
                 "SNK Classics"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "SNK",
             "matches": {
                 "launchbox": [
@@ -44519,10 +44522,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "155": {
             "id": 155,
@@ -44530,6 +44530,9 @@
             "altNames": [
                 "Namco Classics"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Namco",
             "matches": {
                 "launchbox": [
@@ -44799,10 +44802,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "156": {
             "id": 156,
@@ -44811,6 +44811,9 @@
                 "Namco System 22",
                 "System 22"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Namco",
             "matches": {
                 "launchbox": [
@@ -45080,10 +45083,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "157": {
             "id": 157,
@@ -45091,6 +45091,9 @@
             "altNames": [
                 "Taito Classics"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Taito",
             "matches": {
                 "launchbox": [
@@ -45360,10 +45363,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "158": {
             "id": 158,
@@ -45371,6 +45371,9 @@
             "altNames": [
                 "Konami Classics"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Konami",
             "matches": {
                 "launchbox": [
@@ -45656,10 +45659,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "159": {
             "id": 159,
@@ -45667,6 +45667,9 @@
             "altNames": [
                 "Jaleco"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Jaleco",
             "matches": {
                 "launchbox": [
@@ -45933,10 +45936,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "160": {
             "id": 160,
@@ -45944,6 +45944,9 @@
             "altNames": [
                 "Atari Classics"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Atari",
             "matches": {
                 "launchbox": [
@@ -46219,10 +46222,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "161": {
             "id": 161,
@@ -46230,6 +46230,9 @@
             "altNames": [
                 "Nintendo Classics"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -46492,10 +46495,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "162": {
             "id": 162,
@@ -46503,6 +46503,9 @@
             "altNames": [
                 "Data East Classics"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Data East",
             "matches": {
                 "launchbox": [
@@ -46772,10 +46775,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "163": {
             "id": 163,
@@ -46783,6 +46783,9 @@
             "altNames": [
                 "NMK"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "NMK",
             "matches": {
                 "launchbox": [
@@ -47049,10 +47052,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "164": {
             "id": 164,
@@ -47060,6 +47060,9 @@
             "altNames": [
                 "Sammy Classics"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "arcade"
@@ -47318,10 +47321,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "165": {
             "id": 165,
@@ -47329,6 +47329,9 @@
             "altNames": [
                 "Exidy"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "arcade"
@@ -47590,10 +47593,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "166": {
             "id": 166,
@@ -47601,6 +47601,9 @@
             "altNames": [
                 "Acclaim"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Acclaim",
             "matches": {
                 "launchbox": [
@@ -47871,10 +47874,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "167": {
             "id": 167,
@@ -47882,6 +47882,9 @@
             "altNames": [
                 "Psikyo"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Psikyo",
             "matches": {
                 "launchbox": [
@@ -48141,15 +48144,15 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "168": {
             "id": 168,
             "name": "non Jeu",
             "altNames": [],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "arcade"
@@ -48240,10 +48243,7 @@
             },
             "ext": [
                 " "
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "169": {
             "id": 169,
@@ -48251,6 +48251,9 @@
             "altNames": [
                 "Technos"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "arcade"
@@ -48516,10 +48519,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "170": {
             "id": 170,
@@ -48527,6 +48527,9 @@
             "altNames": [
                 "American Laser Games"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "American Laser Games",
             "matches": {
                 "launchbox": [
@@ -48808,10 +48811,7 @@
                 "chd",
                 "cue",
                 "iso"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "171": {
             "id": 171,
@@ -48822,6 +48822,9 @@
                 "Jaguar CD-Rom",
                 "Jaguar CD"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cd",
             "company": "Atari",
             "matches": {
                 "launchbox": [
@@ -49007,9 +49010,6 @@
                 "nrg",
                 "sub"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cd",
             "date_start": "1995",
             "date_end": "1996"
         },
@@ -49022,6 +49022,9 @@
                 "Sony PS Minis",
                 "PS Minis"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "download",
             "company": "Sony",
             "matches": {
                 "launchbox": [
@@ -49157,10 +49160,7 @@
                 "iso",
                 "pbp",
                 "cso"
-            ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "download"
+            ]
         },
         "173": {
             "id": 173,
@@ -49168,6 +49168,9 @@
             "altNames": [
                 "Dynax"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Dynax",
             "matches": {
                 "launchbox": [
@@ -49427,10 +49430,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "174": {
             "id": 174,
@@ -49438,6 +49438,9 @@
             "altNames": [
                 "Kaneko"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Kaneko",
             "matches": {
                 "launchbox": [
@@ -49697,10 +49700,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "175": {
             "id": 175,
@@ -49708,6 +49708,9 @@
             "altNames": [
                 "Video System Co."
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "arcade"
@@ -49973,10 +49976,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "176": {
             "id": 176,
@@ -49984,6 +49984,9 @@
             "altNames": [
                 "IGS"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "IGS",
             "matches": {
                 "launchbox": [
@@ -50243,10 +50246,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "177": {
             "id": 177,
@@ -50254,6 +50254,9 @@
             "altNames": [
                 "Comad"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Comad",
             "matches": {
                 "launchbox": [
@@ -50520,10 +50523,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "178": {
             "id": 178,
@@ -50531,6 +50531,9 @@
             "altNames": [
                 "Amcoe"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Amcoe",
             "matches": {
                 "launchbox": [
@@ -50784,10 +50787,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "179": {
             "id": 179,
@@ -50795,6 +50795,9 @@
             "altNames": [
                 "Century Electronics"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Century Electronics",
             "matches": {
                 "launchbox": [
@@ -51054,10 +51057,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "180": {
             "id": 180,
@@ -51065,6 +51065,9 @@
             "altNames": [
                 "Nichibutsu"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Nichibutsu",
             "matches": {
                 "launchbox": [
@@ -51331,10 +51334,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "181": {
             "id": 181,
@@ -51342,6 +51342,9 @@
             "altNames": [
                 "Visco"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Visco",
             "matches": {
                 "launchbox": [
@@ -51601,10 +51604,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "182": {
             "id": 182,
@@ -51612,6 +51612,9 @@
             "altNames": [
                 "Alpha Denshi Co."
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "arcade"
@@ -51870,10 +51873,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "183": {
             "id": 183,
@@ -51881,6 +51881,9 @@
             "altNames": [
                 "Coleco"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "arcade"
@@ -52133,10 +52136,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "184": {
             "id": 184,
@@ -52144,6 +52144,9 @@
             "altNames": [
                 "Playchoice"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "arcade"
@@ -52402,10 +52405,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "185": {
             "id": 185,
@@ -52413,6 +52413,9 @@
             "altNames": [
                 "Altus"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Atlus",
             "matches": {
                 "launchbox": [
@@ -52679,10 +52682,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "186": {
             "id": 186,
@@ -52690,6 +52690,9 @@
             "altNames": [
                 "Banpresto"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Banpresto",
             "matches": {
                 "launchbox": [
@@ -52956,10 +52959,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "187": {
             "id": 187,
@@ -52967,6 +52967,9 @@
             "altNames": [
                 "SemiCom"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "SemiCom",
             "matches": {
                 "launchbox": [
@@ -53226,10 +53229,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "188": {
             "id": 188,
@@ -53237,6 +53237,9 @@
             "altNames": [
                 "Universal"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "arcade"
@@ -53495,10 +53498,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "189": {
             "id": 189,
@@ -53506,6 +53506,9 @@
             "altNames": [
                 "Mitchell"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Mitchell",
             "matches": {
                 "launchbox": [
@@ -53765,10 +53768,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "190": {
             "id": 190,
@@ -53776,6 +53776,9 @@
             "altNames": [
                 "Seibu Kaihatsu"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Seibu Kaihatsu",
             "matches": {
                 "launchbox": [
@@ -54042,10 +54045,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "191": {
             "id": 191,
@@ -54053,6 +54053,9 @@
             "altNames": [
                 "Toaplan"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Toaplan",
             "matches": {
                 "launchbox": [
@@ -54319,10 +54322,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "192": {
             "id": 192,
@@ -54330,6 +54330,9 @@
             "altNames": [
                 "Cinematronics"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Cinematronics",
             "matches": {
                 "launchbox": [
@@ -54589,10 +54592,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "193": {
             "id": 193,
@@ -54600,6 +54600,9 @@
             "altNames": [
                 "Incredible Technologies"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "matches": {
                 "launchbox": [
                     "arcade"
@@ -54858,10 +54861,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "194": {
             "id": 194,
@@ -54869,6 +54869,9 @@
             "altNames": [
                 "Gaelco"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Gaelco",
             "matches": {
                 "launchbox": [
@@ -55138,10 +55141,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "195": {
             "id": 195,
@@ -55149,6 +55149,9 @@
             "altNames": [
                 "Mega-Tech"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -55415,10 +55418,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "196": {
             "id": 196,
@@ -55426,6 +55426,9 @@
             "altNames": [
                 "Mega-Play"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -55698,10 +55701,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "197": {
             "id": 197,
@@ -55709,6 +55709,9 @@
             "altNames": [
                 "Flipper"
             ],
+            "type": "Pinball",
+            "romtype": "file",
+            "supporttype": "non-applicable",
             "media": {
                 "logo-monochrome": [
                     {
@@ -55736,15 +55739,15 @@
                         "file": "icon.png"
                     }
                 ]
-            },
-            "type": "Pinball",
-            "romtype": "file",
-            "supporttype": "non-applicable"
+            }
         },
         "198": {
             "id": 198,
             "name": "Visual Pinball",
             "altNames": [],
+            "type": "Pinball",
+            "romtype": "file",
+            "supporttype": "non-applicable",
             "matches": {
                 "hyperspin": [
                     "Visual Pinball"
@@ -55843,15 +55846,15 @@
             "ext": [
                 "vpt",
                 "vpx"
-            ],
-            "type": "Pinball",
-            "romtype": "file",
-            "supporttype": "non-applicable"
+            ]
         },
         "199": {
             "id": 199,
             "name": "Future Pinball",
             "altNames": [],
+            "type": "Pinball",
+            "romtype": "file",
+            "supporttype": "non-applicable",
             "matches": {
                 "hyperspin": [
                     "Future Pinball"
@@ -55915,15 +55918,15 @@
             },
             "ext": [
                 "ftp"
-            ],
-            "type": "Pinball",
-            "romtype": "file",
-            "supporttype": "non-applicable"
+            ]
         },
         "200": {
             "id": 200,
             "name": "the Pinball Arcade",
             "altNames": [],
+            "type": "Pinball",
+            "romtype": "file",
+            "supporttype": "non-applicable",
             "media": {
                 "logo-monochrome": [
                     {
@@ -55976,15 +55979,15 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Pinball",
-            "romtype": "file",
-            "supporttype": "non-applicable"
+            ]
         },
         "201": {
             "id": 201,
             "name": "Pinball FX3",
             "altNames": [],
+            "type": "Pinball",
+            "romtype": "file",
+            "supporttype": "non-applicable",
             "company": "Zen Studios",
             "media": {
                 "logo-monochrome": [
@@ -56052,9 +56055,6 @@
             "ext": [
                 " "
             ],
-            "type": "Pinball",
-            "romtype": "file",
-            "supporttype": "non-applicable",
             "date_start": "2017"
         },
         "202": {
@@ -56064,6 +56064,9 @@
                 "Super Nintendo Entertainment System - Super Mario Mario Hacks",
                 "Snes - Super Mario World Hacks"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -56370,9 +56373,6 @@
                 "mgd",
                 "swc"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1990",
             "date_end": "2003"
         },
@@ -56383,6 +56383,9 @@
                 "Megadrive - Sonic The Hedgehog 2 Hacks",
                 "Genesis - Sonic The Hedgehog 2 Hacks"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -56695,9 +56698,6 @@
                 "bin",
                 "sg"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1988"
         },
         "205": {
@@ -56708,6 +56708,9 @@
                 "TI-99/4A",
                 "TI-99"
             ],
+            "type": "Computer",
+            "romtype": "file",
+            "supporttype": "cartouche-k7-floppy",
             "company": "Texas Instruments",
             "matches": {
                 "launchbox": [
@@ -56961,9 +56964,6 @@
                 "g",
                 "ctg"
             ],
-            "type": "Computer",
-            "romtype": "file",
-            "supporttype": "cartouche-k7-floppy",
             "date_start": "1981",
             "date_end": "1983"
         },
@@ -56971,6 +56971,9 @@
             "id": 206,
             "name": "Lutro",
             "altNames": [],
+            "type": "Virtual Machine",
+            "romtype": "file",
+            "supporttype": "download",
             "matches": {
                 "retropie": [
                     "lutro"
@@ -57197,9 +57200,6 @@
                 "lutro",
                 "lua"
             ],
-            "type": "Virtual Machine",
-            "romtype": "file",
-            "supporttype": "download",
             "date_start": "2015"
         },
         "207": {
@@ -57208,6 +57208,9 @@
             "altNames": [
                 "Watara Supervision"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Watara",
             "matches": {
                 "launchbox": [
@@ -57370,9 +57373,6 @@
                 "sv",
                 "bin"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1992"
         },
         "208": {
@@ -57382,6 +57382,9 @@
                 "PC98",
                 "PC9801"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "matches": {
                 "retropie": [
                     "Pc98"
@@ -57641,9 +57644,6 @@
                 "hdd",
                 "hdn"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1982"
         },
         "209": {
@@ -57652,6 +57652,9 @@
             "altNames": [
                 "Gottlieb"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "Gottlieb",
             "matches": {
                 "launchbox": [
@@ -57905,10 +57908,7 @@
             },
             "ext": [
                 "chd"
-            ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb"
+            ]
         },
         "210": {
             "id": 210,
@@ -57918,6 +57918,9 @@
                 "MSU-1",
                 "SNES MSU-1"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cd",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -58199,10 +58202,7 @@
             },
             "ext": [
                 "sfc"
-            ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cd"
+            ]
         },
         "211": {
             "id": 211,
@@ -58211,6 +58211,9 @@
                 "Pokemon Mini",
                 " PokeMini"
             ],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Nintendo",
             "matches": {
                 "recalbox": [
@@ -58404,9 +58407,6 @@
             "ext": [
                 "min"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "2001"
         },
         "213": {
@@ -58416,6 +58416,9 @@
                 "MGT SAM Coupé",
                 " SAM Coupé"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "matches": {
                 "launchbox": [
                     "MGT SAM Coupé"
@@ -58599,9 +58602,6 @@
                 "dsk",
                 "sad"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1959",
             "date_end": "1995"
         },
@@ -58611,6 +58611,9 @@
             "altNames": [
                 "OpenBOR"
             ],
+            "type": "Virtual Machine",
+            "romtype": "file",
+            "supporttype": "non-applicable",
             "matches": {
                 "launchbox": [
                     "OpenBOR"
@@ -58824,15 +58827,15 @@
             },
             "ext": [
                 "pak"
-            ],
-            "type": "Virtual Machine",
-            "romtype": "file",
-            "supporttype": "non-applicable"
+            ]
         },
         "215": {
             "id": 215,
             "name": "Z-Machine",
             "altNames": [],
+            "type": "Virtual Machine",
+            "romtype": "file",
+            "supporttype": "non-applicable",
             "media": {
                 "logo-monochrome": [
                     {
@@ -58913,10 +58916,7 @@
             "ext": [
                 "z3",
                 "z6"
-            ],
-            "type": "Virtual Machine",
-            "romtype": "file",
-            "supporttype": "non-applicable"
+            ]
         },
         "216": {
             "id": 216,
@@ -58924,6 +58924,9 @@
             "altNames": [
                 "Uzebox"
             ],
+            "type": "Console",
+            "romtype": "file",
+            "supporttype": "non-applicable",
             "matches": {
                 "launchbox": [
                     "Uzebox"
@@ -59198,9 +59201,6 @@
             "ext": [
                 "uze"
             ],
-            "type": "Console",
-            "romtype": "file",
-            "supporttype": "non-applicable",
             "date_start": "2008"
         },
         "217": {
@@ -59211,6 +59211,9 @@
                 "apple2gs",
                 "appleIIgs"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "company": "Apple",
             "matches": {
                 "launchbox": [
@@ -59456,9 +59459,6 @@
                 "hdv",
                 "zip"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1986",
             "date_end": "1992"
         },
@@ -59468,6 +59468,9 @@
             "altNames": [
                 "Spectravideo"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "cartouche-k7",
             "matches": {
                 "launchbox": [
                     "Spectravideo"
@@ -59684,9 +59687,6 @@
                 "dsk",
                 "zip"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "cartouche-k7",
             "date_start": "1981",
             "date_end": "1988"
         },
@@ -59697,6 +59697,9 @@
                 "palm",
                 "palmos"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "card",
             "matches": {
                 "recalbox": [
                     "palm"
@@ -59887,9 +59890,6 @@
                 "pqa",
                 "img"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "card",
             "date_start": "1995",
             "date_end": "2007"
         },
@@ -59900,6 +59900,9 @@
                 "Sharp X1",
                 "X1"
             ],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7",
             "company": "Sharp",
             "matches": {
                 "launchbox": [
@@ -60112,9 +60115,6 @@
                 "dup",
                 "cmd"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7",
             "date_start": "1982",
             "date_end": "1988"
         },
@@ -60122,6 +60122,9 @@
             "id": 221,
             "name": "NEC PC-8801",
             "altNames": [],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "floppy",
             "matches": {
                 "retropie": [
                     "pc88"
@@ -60336,15 +60339,15 @@
                 "88d",
                 "m3u"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "floppy",
             "date_start": "1981"
         },
         "222": {
             "id": 222,
             "name": "TIC-80",
             "altNames": [],
+            "type": "Virtual Machine",
+            "romtype": "rom",
+            "supporttype": "download",
             "matches": {
                 "recalbox": [
                     "tic80"
@@ -60671,15 +60674,15 @@
             "ext": [
                 "tic"
             ],
-            "type": "Virtual Machine",
-            "romtype": "rom",
-            "supporttype": "download",
             "date_start": "2017"
         },
         "223": {
             "id": 223,
             "name": "Solarus",
             "altNames": [],
+            "type": "Virtual Machine",
+            "romtype": "rom",
+            "supporttype": "download",
             "matches": {
                 "recalbox": [
                     "solarus"
@@ -60940,15 +60943,15 @@
             "ext": [
                 "solarus"
             ],
-            "type": "Virtual Machine",
-            "romtype": "rom",
-            "supporttype": "download",
             "date_start": "2006"
         },
         "225": {
             "id": 225,
             "name": "Switch",
             "altNames": [],
+            "type": "Console",
+            "romtype": "folder",
+            "supporttype": "cartouche",
             "company": "Nintendo",
             "matches": {
                 "launchbox": [
@@ -61157,9 +61160,6 @@
             "ext": [
                 "."
             ],
-            "type": "Console",
-            "romtype": "folder",
-            "supporttype": "cartouche",
             "date_start": "2017"
         },
         "227": {
@@ -61169,6 +61169,9 @@
                 "Sega Naomi-GD",
                 "Naomi GD"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "SEGA",
             "matches": {
                 "retropie": [
@@ -61487,9 +61490,6 @@
                 "gdi",
                 "raw"
             ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb",
             "date_start": "1999",
             "date_end": "?"
         },
@@ -61500,6 +61500,9 @@
                 "Sega Naomi 2",
                 "Naomi 2"
             ],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "SEGA",
             "matches": {
                 "launchbox": [
@@ -61781,9 +61784,6 @@
                 "gdi",
                 "raw"
             ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb",
             "date_start": "2000",
             "date_end": "?"
         },
@@ -61793,6 +61793,9 @@
             "altNames": [
                 "EasyRPG"
             ],
+            "type": "Virtual Machine",
+            "romtype": "folder",
+            "supporttype": "download",
             "matches": {
                 "retropie": [
                     "easyrpg"
@@ -62017,15 +62020,15 @@
             },
             "ext": [
                 "ini"
-            ],
-            "type": "Virtual Machine",
-            "romtype": "folder",
-            "supporttype": "download"
+            ]
         },
         "234": {
             "id": 234,
             "name": "Pico-8",
             "altNames": [],
+            "type": "Virtual Machine",
+            "romtype": "file",
+            "supporttype": "download",
             "matches": {
                 "recalbox": [
                     "pico8"
@@ -62327,15 +62330,15 @@
                 "p8",
                 "png"
             ],
-            "type": "Virtual Machine",
-            "romtype": "file",
-            "supporttype": "download",
             "date_start": "2014"
         },
         "237": {
             "id": 237,
             "name": "Pocket Challenge V2",
             "altNames": [],
+            "type": "Portable Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "Benesse",
             "matches": {
                 "recalbox": [
@@ -62486,9 +62489,6 @@
             "ext": [
                 "pc2"
             ],
-            "type": "Portable Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "2001",
             "date_end": "2002"
         },
@@ -62496,6 +62496,9 @@
             "id": 240,
             "name": "PET",
             "altNames": [],
+            "type": "Computer",
+            "romtype": "rom",
+            "supporttype": "k7-floppy",
             "company": "Commodore",
             "matches": {
                 "recalbox": [
@@ -62615,9 +62618,6 @@
                 "tap",
                 "t64"
             ],
-            "type": "Computer",
-            "romtype": "rom",
-            "supporttype": "k7-floppy",
             "date_start": "1977",
             "date_end": "1982"
         },
@@ -62625,6 +62625,9 @@
             "id": 241,
             "name": "CreatiVision",
             "altNames": [],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "VTech",
             "matches": {
                 "retropie": [
@@ -62791,9 +62794,6 @@
                 "bin",
                 "rom"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1981",
             "date_end": "1986"
         },
@@ -62801,6 +62801,9 @@
             "id": 244,
             "name": "LowRes NX",
             "altNames": [],
+            "type": "Virtual Machine",
+            "romtype": "rom",
+            "supporttype": "download",
             "matches": {
                 "recalbox": [
                     "lowresnx"
@@ -63046,9 +63049,6 @@
             "ext": [
                 "nx"
             ],
-            "type": "Virtual Machine",
-            "romtype": "rom",
-            "supporttype": "download",
             "date_start": "2020"
         },
         "250": {
@@ -63057,6 +63057,9 @@
             "altNames": [
                 "Kids Computer Pico"
             ],
+            "type": "Console",
+            "romtype": "rom",
+            "supporttype": "cartouche",
             "company": "SEGA",
             "media": {
                 "logo-monochrome": [
@@ -63380,9 +63383,6 @@
             "ext": [
                 "md"
             ],
-            "type": "Console",
-            "romtype": "rom",
-            "supporttype": "cartouche",
             "date_start": "1993",
             "date_end": "2005"
         },
@@ -63390,6 +63390,9 @@
             "id": 253,
             "name": "FM Towns",
             "altNames": [],
+            "type": "Computer",
+            "romtype": "iso",
+            "supporttype": "cd",
             "company": "Fujitsu",
             "matches": {
                 "retropie": [
@@ -63570,9 +63573,6 @@
                 "cue",
                 "bin"
             ],
-            "type": "Computer",
-            "romtype": "iso",
-            "supporttype": "cd",
             "date_start": "1989",
             "date_end": "1997"
         },
@@ -63580,6 +63580,9 @@
             "id": 258,
             "name": "Hikaru",
             "altNames": [],
+            "type": "Arcade",
+            "romtype": "rom",
+            "supporttype": "pcb",
             "company": "SEGA",
             "media": {
                 "logo-monochrome": [
@@ -63708,15 +63711,15 @@
             "ext": [
                 "zip"
             ],
-            "type": "Arcade",
-            "romtype": "rom",
-            "supporttype": "pcb",
             "date_start": "1999"
         },
         "261": {
             "id": 261,
             "name": "Philips VG 5000",
             "altNames": [],
+            "type": "Computer",
+            "romtype": "file",
+            "supporttype": "k7",
             "matches": {
                 "recalbox": [
                     "vg5000"
@@ -63907,9 +63910,6 @@
             "ext": [
                 "k7"
             ],
-            "type": "Computer",
-            "romtype": "file",
-            "supporttype": "k7",
             "date_start": "1984",
             "date_end": "1986"
         }
