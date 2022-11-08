@@ -255,6 +255,15 @@
                     "Sega Genesis"
                 ]
             },
+            "ext": [
+                "gen",
+                "md",
+                "smd",
+                "bin",
+                "sg"
+            ],
+            "date_start": "1988",
+            "date_end": "1998",
             "media": {
                 "logo-monochrome": [
                     {
@@ -971,16 +980,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "gen",
-                "md",
-                "smd",
-                "bin",
-                "sg"
-            ],
-            "date_start": "1988",
-            "date_end": "1998"
+            }
         },
         "2": {
             "id": 2,
@@ -1010,6 +1010,12 @@
                     "Sega Master System"
                 ]
             },
+            "ext": [
+                "sms",
+                "bin"
+            ],
+            "date_start": "1985",
+            "date_end": "1996",
             "media": {
                 "logo-monochrome": [
                     {
@@ -1385,13 +1391,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "sms",
-                "bin"
-            ],
-            "date_start": "1985",
-            "date_end": "1996"
+            }
         },
         "3": {
             "id": 3,
@@ -1423,6 +1423,15 @@
                     "Nintendo Famicom"
                 ]
             },
+            "ext": [
+                "nes",
+                "fds",
+                "fig",
+                "bin",
+                "unf"
+            ],
+            "date_start": "1983",
+            "date_end": "1995",
             "media": {
                 "logo-monochrome": [
                     {
@@ -2497,16 +2506,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "nes",
-                "fds",
-                "fig",
-                "bin",
-                "unf"
-            ],
-            "date_start": "1983",
-            "date_end": "1995"
+            }
         },
         "4": {
             "id": 4,
@@ -2537,6 +2537,15 @@
                     "Super Nintendo Entertainment System"
                 ]
             },
+            "ext": [
+                "sfc",
+                "smc",
+                "fig",
+                "mgd",
+                "swc"
+            ],
+            "date_start": "1990",
+            "date_end": "2003",
             "media": {
                 "logo-monochrome": [
                     {
@@ -3084,16 +3093,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "sfc",
-                "smc",
-                "fig",
-                "mgd",
-                "swc"
-            ],
-            "date_start": "1990",
-            "date_end": "2003"
+            }
         },
         "6": {
             "id": 6,
@@ -3132,6 +3132,11 @@
                     "Capcom Play System"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
+            "date_start": "1988",
+            "date_end": "1995",
             "media": {
                 "logo-monochrome": [
                     {
@@ -3398,12 +3403,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ],
-            "date_start": "1988",
-            "date_end": "1995"
+            }
         },
         "7": {
             "id": 7,
@@ -3441,6 +3441,11 @@
                     "Capcom Play System II"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
+            "date_start": "1993",
+            "date_end": "2004",
             "media": {
                 "logo-monochrome": [
                     {
@@ -3707,12 +3712,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ],
-            "date_start": "1993",
-            "date_end": "2004"
+            }
         },
         "8": {
             "id": 8,
@@ -3750,6 +3750,14 @@
                     "Capcom Play System III"
                 ]
             },
+            "ext": [
+                "ccd",
+                "chd",
+                "img",
+                "sub"
+            ],
+            "date_start": "1996",
+            "date_end": "1999",
             "media": {
                 "logo-monochrome": [
                     {
@@ -4010,15 +4018,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "ccd",
-                "chd",
-                "img",
-                "sub"
-            ],
-            "date_start": "1996",
-            "date_end": "1999"
+            }
         },
         "9": {
             "id": 9,
@@ -4047,6 +4047,12 @@
                     "Nintendo Game Boy"
                 ]
             },
+            "ext": [
+                "gb",
+                "bin"
+            ],
+            "date_start": "1989",
+            "date_end": "2003",
             "media": {
                 "logo-monochrome": [
                     {
@@ -4401,13 +4407,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "gb",
-                "bin"
-            ],
-            "date_start": "1989",
-            "date_end": "2003"
+            }
         },
         "10": {
             "id": 10,
@@ -4438,6 +4438,13 @@
                     "Nintendo Game Boy Color"
                 ]
             },
+            "ext": [
+                "gb",
+                "gbc",
+                "bin"
+            ],
+            "date_start": "1998",
+            "date_end": "2003",
             "media": {
                 "logo-monochrome": [
                     {
@@ -4735,14 +4742,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "gb",
-                "gbc",
-                "bin"
-            ],
-            "date_start": "1998",
-            "date_end": "2003"
+            }
         },
         "11": {
             "id": 11,
@@ -4771,6 +4771,13 @@
                     "Nintendo Virtual Boy"
                 ]
             },
+            "ext": [
+                "vb",
+                "vboy",
+                "bin"
+            ],
+            "date_start": "1995",
+            "date_end": "1996",
             "media": {
                 "logo-monochrome": [
                     {
@@ -4947,14 +4954,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "vb",
-                "vboy",
-                "bin"
-            ],
-            "date_start": "1995",
-            "date_end": "1996"
+            }
         },
         "12": {
             "id": 12,
@@ -4985,6 +4985,12 @@
                     "Nintendo Game Boy Advance"
                 ]
             },
+            "ext": [
+                "gba",
+                "bin"
+            ],
+            "date_start": "2001",
+            "date_end": "2008",
             "media": {
                 "logo-monochrome": [
                     {
@@ -5307,13 +5313,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "gba",
-                "bin"
-            ],
-            "date_start": "2001",
-            "date_end": "2008"
+            }
         },
         "13": {
             "id": 13,
@@ -5343,6 +5343,12 @@
                     "Nintendo GameCube"
                 ]
             },
+            "ext": [
+                "iso",
+                "gcz"
+            ],
+            "date_start": "2001",
+            "date_end": "2007",
             "media": {
                 "logo-monochrome": [
                     {
@@ -5652,13 +5658,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "iso",
-                "gcz"
-            ],
-            "date_start": "2001",
-            "date_end": "2007"
+            }
         },
         "14": {
             "id": 14,
@@ -5685,6 +5685,13 @@
                     "Nintendo 64"
                 ]
             },
+            "ext": [
+                "n64",
+                "v64",
+                "z64"
+            ],
+            "date_start": "1996",
+            "date_end": "2002",
             "media": {
                 "logo-monochrome": [
                     {
@@ -6208,14 +6215,7 @@
                         "file": "controls(JOY2_UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "n64",
-                "v64",
-                "z64"
-            ],
-            "date_start": "1996",
-            "date_end": "2002"
+            }
         },
         "15": {
             "id": 15,
@@ -6246,6 +6246,12 @@
                     "Nintendo DS"
                 ]
             },
+            "ext": [
+                "nds",
+                "bin"
+            ],
+            "date_start": "2004",
+            "date_end": "2013",
             "media": {
                 "logo-monochrome": [
                     {
@@ -6455,13 +6461,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "nds",
-                "bin"
-            ],
-            "date_start": "2004",
-            "date_end": "2013"
+            }
         },
         "16": {
             "id": 16,
@@ -6488,6 +6488,14 @@
                     "Nintendo Wii"
                 ]
             },
+            "ext": [
+                "iso",
+                "ciso",
+                "wad",
+                "wbfs"
+            ],
+            "date_start": "2006",
+            "date_end": "2013",
             "media": {
                 "logo-monochrome": [
                     {
@@ -6762,15 +6770,7 @@
                         "file": "controls(STICK).png"
                     }
                 ]
-            },
-            "ext": [
-                "iso",
-                "ciso",
-                "wad",
-                "wbfs"
-            ],
-            "date_start": "2006",
-            "date_end": "2013"
+            }
         },
         "17": {
             "id": 17,
@@ -6789,6 +6789,11 @@
                     "Nintendo 3DS"
                 ]
             },
+            "ext": [
+                "3ds"
+            ],
+            "date_start": "2011",
+            "date_end": "2020",
             "media": {
                 "logo-monochrome": [
                     {
@@ -6998,12 +7003,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "3ds"
-            ],
-            "date_start": "2011",
-            "date_end": "2020"
+            }
         },
         "18": {
             "id": 18,
@@ -7024,6 +7024,13 @@
                     "Nintendo Wii U"
                 ]
             },
+            "ext": [
+                "iso",
+                "ciso",
+                "wbfs"
+            ],
+            "date_start": "2012",
+            "date_end": "2017",
             "media": {
                 "logo-monochrome": [
                     {
@@ -7375,14 +7382,7 @@
                         "file": "controls(STICK-RIGHT).png"
                     }
                 ]
-            },
-            "ext": [
-                "iso",
-                "ciso",
-                "wbfs"
-            ],
-            "date_start": "2012",
-            "date_end": "2017"
+            }
         },
         "19": {
             "id": 19,
@@ -7416,6 +7416,20 @@
                     "Sega 32X"
                 ]
             },
+            "ext": [
+                "32x",
+                "smd",
+                "md",
+                "bin",
+                "ccd",
+                "cue",
+                "img",
+                "iso",
+                "sub",
+                "wav"
+            ],
+            "date_start": "1994",
+            "date_end": "1996",
             "media": {
                 "logo-monochrome": [
                     {
@@ -7741,21 +7755,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "32x",
-                "smd",
-                "md",
-                "bin",
-                "ccd",
-                "cue",
-                "img",
-                "iso",
-                "sub",
-                "wav"
-            ],
-            "date_start": "1994",
-            "date_end": "1996"
+            }
         },
         "20": {
             "id": 20,
@@ -7782,6 +7782,18 @@
                     "Sega CD"
                 ]
             },
+            "ext": [
+                "bin",
+                "ccd",
+                "chd",
+                "cue",
+                "img",
+                "iso",
+                "sub",
+                "wav"
+            ],
+            "date_start": "1991",
+            "date_end": "1996",
             "media": {
                 "logo-monochrome": [
                     {
@@ -8227,19 +8239,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "ccd",
-                "chd",
-                "cue",
-                "img",
-                "iso",
-                "sub",
-                "wav"
-            ],
-            "date_start": "1991",
-            "date_end": "1996"
+            }
         },
         "21": {
             "id": 21,
@@ -8268,6 +8268,13 @@
                     "Sega Game Gear"
                 ]
             },
+            "ext": [
+                "gg",
+                "sms",
+                "bin"
+            ],
+            "date_start": "1990",
+            "date_end": "1997",
             "media": {
                 "logo-monochrome": [
                     {
@@ -8975,14 +8982,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "gg",
-                "sms",
-                "bin"
-            ],
-            "date_start": "1990",
-            "date_end": "1997"
+            }
         },
         "22": {
             "id": 22,
@@ -9009,6 +9009,16 @@
                     "Sega Saturn"
                 ]
             },
+            "ext": [
+                "chd",
+                "cue",
+                "bin",
+                "mdf",
+                "iso",
+                "m3u"
+            ],
+            "date_start": "1994",
+            "date_end": "2000",
             "media": {
                 "logo-monochrome": [
                     {
@@ -9348,17 +9358,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd",
-                "cue",
-                "bin",
-                "mdf",
-                "iso",
-                "m3u"
-            ],
-            "date_start": "1994",
-            "date_end": "2000"
+            }
         },
         "23": {
             "id": 23,
@@ -9387,6 +9387,21 @@
                     "Sega Dreamcast"
                 ]
             },
+            "ext": [
+                "cdi",
+                "chd",
+                "gdi",
+                "bin",
+                "elf",
+                "img",
+                "nrg",
+                "raw",
+                "xpm",
+                "m3u",
+                "chd"
+            ],
+            "date_start": "1998",
+            "date_end": "2004",
             "media": {
                 "logo-monochrome": [
                     {
@@ -9951,22 +9966,7 @@
                         "file": "controls(stick haut).png"
                     }
                 ]
-            },
-            "ext": [
-                "cdi",
-                "chd",
-                "gdi",
-                "bin",
-                "elf",
-                "img",
-                "nrg",
-                "raw",
-                "xpm",
-                "m3u",
-                "chd"
-            ],
-            "date_start": "1998",
-            "date_end": "2004"
+            }
         },
         "25": {
             "id": 25,
@@ -9995,6 +9995,13 @@
                     "SNK Neo Geo Pocket"
                 ]
             },
+            "ext": [
+                "ngp",
+                "ngc",
+                "bin"
+            ],
+            "date_start": "1998",
+            "date_end": "2001",
             "media": {
                 "logo-monochrome": [
                     {
@@ -10220,14 +10227,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "ngp",
-                "ngc",
-                "bin"
-            ],
-            "date_start": "1998",
-            "date_end": "2001"
+            }
         },
         "26": {
             "id": 26,
@@ -10255,6 +10255,13 @@
                     "Atari 2600"
                 ]
             },
+            "ext": [
+                "a26",
+                "bin",
+                "rom"
+            ],
+            "date_start": "1977",
+            "date_end": "1992",
             "media": {
                 "logo-monochrome": [
                     {
@@ -10615,14 +10622,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "a26",
-                "bin",
-                "rom"
-            ],
-            "date_start": "1977",
-            "date_end": "1992"
+            }
         },
         "27": {
             "id": 27,
@@ -10649,6 +10649,16 @@
                     "Atari Jaguar"
                 ]
             },
+            "ext": [
+                "j64",
+                "jag",
+                "cof",
+                "bin",
+                "rom",
+                "abs"
+            ],
+            "date_start": "1993",
+            "date_end": "1996",
             "media": {
                 "logo-monochrome": [
                     {
@@ -10863,17 +10873,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "j64",
-                "jag",
-                "cof",
-                "bin",
-                "rom",
-                "abs"
-            ],
-            "date_start": "1993",
-            "date_end": "1996"
+            }
         },
         "28": {
             "id": 28,
@@ -10900,6 +10900,12 @@
                     "Atari Lynx"
                 ]
             },
+            "ext": [
+                "bin",
+                "lnx"
+            ],
+            "date_start": "1989",
+            "date_end": "1995",
             "media": {
                 "logo-monochrome": [
                     {
@@ -11136,13 +11142,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "lnx"
-            ],
-            "date_start": "1989",
-            "date_end": "1995"
+            }
         },
         "29": {
             "id": 29,
@@ -11171,6 +11171,15 @@
                     "Panasonic 3DO"
                 ]
             },
+            "ext": [
+                "bin",
+                "cue",
+                "iso",
+                "wav",
+                "chd"
+            ],
+            "date_start": "1993",
+            "date_end": "1995",
             "media": {
                 "logo-monochrome": [
                     {
@@ -11601,16 +11610,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "cue",
-                "iso",
-                "wav",
-                "chd"
-            ],
-            "date_start": "1993",
-            "date_end": "1995"
+            }
         },
         "30": {
             "id": 30,
@@ -11628,6 +11628,11 @@
                     "Nokia N-Gage"
                 ]
             },
+            "ext": [
+                "id"
+            ],
+            "date_start": "2003",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -11809,12 +11814,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "id"
-            ],
-            "date_start": "2003",
-            "date_end": "?"
+            }
         },
         "31": {
             "id": 31,
@@ -11844,6 +11844,12 @@
                     "NEC TurboGrafx-16"
                 ]
             },
+            "ext": [
+                "pce",
+                "sgx"
+            ],
+            "date_start": "1987",
+            "date_end": "1994",
             "media": {
                 "logo-monochrome": [
                     {
@@ -12272,13 +12278,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "pce",
-                "sgx"
-            ],
-            "date_start": "1987",
-            "date_end": "1994"
+            }
         },
         "32": {
             "id": 32,
@@ -12296,6 +12296,11 @@
                     "Microsoft Xbox"
                 ]
             },
+            "ext": [
+                "iso"
+            ],
+            "date_start": "2001",
+            "date_end": "2008",
             "media": {
                 "logo-monochrome": [
                     {
@@ -12495,12 +12500,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "iso"
-            ],
-            "date_start": "2001",
-            "date_end": "2008"
+            }
         },
         "33": {
             "id": 33,
@@ -12518,6 +12518,11 @@
                     "Microsoft Xbox 360"
                 ]
             },
+            "ext": [
+                "iso"
+            ],
+            "date_start": "2005",
+            "date_end": "2016",
             "media": {
                 "logo-monochrome": [
                     {
@@ -12808,12 +12813,7 @@
                         "file": "controls(STICK-RIGHT).png"
                     }
                 ]
-            },
-            "ext": [
-                "iso"
-            ],
-            "date_start": "2005",
-            "date_end": "2016"
+            }
         },
         "34": {
             "id": 34,
@@ -12831,6 +12831,10 @@
                     "Microsoft Xbox One"
                 ]
             },
+            "ext": [
+                "iso"
+            ],
+            "date_start": "2013",
             "media": {
                 "logo-monochrome": [
                     {
@@ -13028,11 +13032,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "iso"
-            ],
-            "date_start": "2013"
+            }
         },
         "36": {
             "id": 36,
@@ -13052,6 +13052,15 @@
                     "Acorn Atom"
                 ]
             },
+            "ext": [
+                "csw",
+                "dsk",
+                "tap",
+                "uef",
+                "wav"
+            ],
+            "date_start": "1980",
+            "date_end": "1983",
             "media": {
                 "logo-monochrome": [
                     {
@@ -13114,16 +13123,7 @@
                         "file": "photo(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "csw",
-                "dsk",
-                "tap",
-                "uef",
-                "wav"
-            ],
-            "date_start": "1980",
-            "date_end": "1983"
+            }
         },
         "37": {
             "id": 37,
@@ -13151,6 +13151,19 @@
                     "Acorn BBC Micro"
                 ]
             },
+            "ext": [
+                "adf",
+                "adl",
+                "bin",
+                "dsd",
+                "ssd",
+                "uef",
+                "csw",
+                "zip",
+                "m3u"
+            ],
+            "date_start": "1981",
+            "date_end": "1994",
             "media": {
                 "logo-monochrome": [
                     {
@@ -13297,20 +13310,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "adf",
-                "adl",
-                "bin",
-                "dsd",
-                "ssd",
-                "uef",
-                "csw",
-                "zip",
-                "m3u"
-            ],
-            "date_start": "1981",
-            "date_end": "1994"
+            }
         },
         "39": {
             "id": 39,
@@ -13327,6 +13327,7 @@
             "romtype": "rom",
             "supporttype": "k7",
             "company": "Atari",
+            "date_start": "1982",
             "media": {
                 "logo-monochrome": [
                     {
@@ -13484,8 +13485,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "date_start": "1982"
+            }
         },
         "40": {
             "id": 40,
@@ -13513,6 +13513,13 @@
                     "Atari 5200"
                 ]
             },
+            "ext": [
+                "a52",
+                "bin",
+                "rom"
+            ],
+            "date_start": "1982",
+            "date_end": "1984",
             "media": {
                 "logo-monochrome": [
                     {
@@ -13760,14 +13767,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "a52",
-                "bin",
-                "rom"
-            ],
-            "date_start": "1982",
-            "date_end": "1984"
+            }
         },
         "41": {
             "id": 41,
@@ -13795,6 +13795,13 @@
                     "Atari 7800"
                 ]
             },
+            "ext": [
+                "a78",
+                "bin",
+                "rom"
+            ],
+            "date_start": "1986",
+            "date_end": "1992",
             "media": {
                 "logo-monochrome": [
                     {
@@ -14075,14 +14082,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "a78",
-                "bin",
-                "rom"
-            ],
-            "date_start": "1986",
-            "date_end": "1992"
+            }
         },
         "42": {
             "id": 42,
@@ -14113,6 +14113,19 @@
                     "Atari ST"
                 ]
             },
+            "ext": [
+                "st",
+                "stx",
+                "ipf",
+                "ctr",
+                "img",
+                "raw",
+                "rom",
+                "msa",
+                "dim"
+            ],
+            "date_start": "1985",
+            "date_end": "1993",
             "media": {
                 "logo-monochrome": [
                     {
@@ -14298,20 +14311,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "st",
-                "stx",
-                "ipf",
-                "ctr",
-                "img",
-                "raw",
-                "rom",
-                "msa",
-                "dim"
-            ],
-            "date_start": "1985",
-            "date_end": "1993"
+            }
         },
         "43": {
             "id": 43,
@@ -14354,6 +14354,26 @@
                     "Atari 8-Bit"
                 ]
             },
+            "ext": [
+                "a52",
+                "asm",
+                "atr",
+                "atr.gz",
+                "atx",
+                "bas",
+                "bin",
+                "car",
+                "cas",
+                "com",
+                "dcm",
+                "rom",
+                "xex",
+                "xfd",
+                "xfd.gz",
+                "zip"
+            ],
+            "date_start": "1985",
+            "date_end": "1992",
             "media": {
                 "logo-monochrome": [
                     {
@@ -14571,27 +14591,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "a52",
-                "asm",
-                "atr",
-                "atr.gz",
-                "atx",
-                "bas",
-                "bin",
-                "car",
-                "cas",
-                "com",
-                "dcm",
-                "rom",
-                "xex",
-                "xfd",
-                "xfd.gz",
-                "zip"
-            ],
-            "date_start": "1985",
-            "date_end": "1992"
+            }
         },
         "44": {
             "id": 44,
@@ -14614,6 +14614,13 @@
                     "Bally Astrocade"
                 ]
             },
+            "ext": [
+                "bin",
+                "prg",
+                "wav"
+            ],
+            "date_start": "1977",
+            "date_end": "1985",
             "media": {
                 "logo-monochrome": [
                     {
@@ -14834,14 +14841,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "prg",
-                "wav"
-            ],
-            "date_start": "1977",
-            "date_end": "1985"
+            }
         },
         "45": {
             "id": 45,
@@ -14869,6 +14869,13 @@
                     "Bandai WonderSwan"
                 ]
             },
+            "ext": [
+                "ws",
+                "wsc",
+                "bin"
+            ],
+            "date_start": "1999",
+            "date_end": "2003",
             "media": {
                 "logo-monochrome": [
                     {
@@ -15078,14 +15085,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "ws",
-                "wsc",
-                "bin"
-            ],
-            "date_start": "1999",
-            "date_end": "2003"
+            }
         },
         "46": {
             "id": 46,
@@ -15113,6 +15113,13 @@
                     "Bandai WonderSwan Color"
                 ]
             },
+            "ext": [
+                "ws",
+                "wsc",
+                "bin"
+            ],
+            "date_start": "2000",
+            "date_end": "2003",
             "media": {
                 "logo-monochrome": [
                     {
@@ -15315,14 +15322,7 @@
                         "file": "support-texture-template(jp).png"
                     }
                 ]
-            },
-            "ext": [
-                "ws",
-                "wsc",
-                "bin"
-            ],
-            "date_start": "2000",
-            "date_end": "2003"
+            }
         },
         "47": {
             "id": 47,
@@ -15356,6 +15356,11 @@
                     "Cave"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
+            "date_start": "1994",
+            "date_end": "2012",
             "media": {
                 "logo-monochrome": [
                     {
@@ -15615,12 +15620,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ],
-            "date_start": "1994",
-            "date_end": "2012"
+            }
         },
         "48": {
             "id": 48,
@@ -15645,6 +15645,13 @@
                     "ColecoVision"
                 ]
             },
+            "ext": [
+                "col",
+                "rom",
+                "bin"
+            ],
+            "date_start": "1982",
+            "date_end": "1985",
             "media": {
                 "logo-monochrome": [
                     {
@@ -15977,14 +15984,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "col",
-                "rom",
-                "bin"
-            ],
-            "date_start": "1982",
-            "date_end": "1985"
+            }
         },
         "49": {
             "id": 49,
@@ -16020,6 +16020,9 @@
                     "Daphne"
                 ]
             },
+            "ext": [
+                "daphne(m2v|ogg)"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -16286,10 +16289,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "daphne(m2v|ogg)"
-            ]
+            }
         },
         "50": {
             "id": 50,
@@ -16312,6 +16312,12 @@
                     "pcengine"
                 ]
             },
+            "ext": [
+                "pce",
+                "sgx"
+            ],
+            "date_start": "1987",
+            "date_end": "1994",
             "media": {
                 "logo-monochrome": [
                     {
@@ -16413,13 +16419,7 @@
                         "file": "screenmarquee-blank(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "pce",
-                "sgx"
-            ],
-            "date_start": "1987",
-            "date_end": "1994"
+            }
         },
         "52": {
             "id": 52,
@@ -16452,6 +16452,11 @@
                     "Electronic Handheld Games"
                 ]
             },
+            "ext": [
+                "mgw"
+            ],
+            "date_start": "1980",
+            "date_end": "1991",
             "media": {
                 "logo-monochrome": [
                     {
@@ -16619,12 +16624,7 @@
                         "file": "support2D(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "mgw"
-            ],
-            "date_start": "1980",
-            "date_end": "1991"
+            }
         },
         "53": {
             "id": 53,
@@ -16660,6 +16660,11 @@
                     "Sammy Atomiswave"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
+            "date_start": "2003",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -16943,12 +16948,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ],
-            "date_start": "2003",
-            "date_end": "?"
+            }
         },
         "54": {
             "id": 54,
@@ -16986,6 +16986,11 @@
                     "Sega Model 2"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
+            "date_start": "1993",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -17245,12 +17250,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ],
-            "date_start": "1993",
-            "date_end": "?"
+            }
         },
         "55": {
             "id": 55,
@@ -17289,6 +17289,11 @@
                     "Sega Model 3"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
+            "date_start": "1996",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -17548,12 +17553,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ],
-            "date_start": "1996",
-            "date_end": "?"
+            }
         },
         "56": {
             "id": 56,
@@ -17591,6 +17591,14 @@
                     "Sega Naomi"
                 ]
             },
+            "ext": [
+                "chd",
+                "bin",
+                "gdi",
+                "raw"
+            ],
+            "date_start": "1998",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -17850,15 +17858,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd",
-                "bin",
-                "gdi",
-                "raw"
-            ],
-            "date_start": "1998",
-            "date_end": "?"
+            }
         },
         "57": {
             "id": 57,
@@ -17889,6 +17889,22 @@
                     "Sony PlayStation"
                 ]
             },
+            "ext": [
+                "iso",
+                "bin",
+                "ccd",
+                "cue",
+                "pbp",
+                "cbn",
+                "img",
+                "mdf",
+                "m3u",
+                "toc",
+                "znx",
+                "chd"
+            ],
+            "date_start": "1994",
+            "date_end": "2006",
             "media": {
                 "logo-monochrome": [
                     {
@@ -18691,23 +18707,7 @@
                         "file": "controls(JOY2_UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "iso",
-                "bin",
-                "ccd",
-                "cue",
-                "pbp",
-                "cbn",
-                "img",
-                "mdf",
-                "m3u",
-                "toc",
-                "znx",
-                "chd"
-            ],
-            "date_start": "1994",
-            "date_end": "2006"
+            }
         },
         "58": {
             "id": 58,
@@ -18738,6 +18738,15 @@
                     "Sony PlayStation 2"
                 ]
             },
+            "ext": [
+                "iso",
+                "chd",
+                "img",
+                "cue",
+                "gz"
+            ],
+            "date_start": "2000",
+            "date_end": "2013",
             "media": {
                 "logo-monochrome": [
                     {
@@ -19075,16 +19084,7 @@
                         "file": "controls(JOY2_UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "iso",
-                "chd",
-                "img",
-                "cue",
-                "gz"
-            ],
-            "date_start": "2000",
-            "date_end": "2013"
+            }
         },
         "59": {
             "id": 59,
@@ -19106,6 +19106,11 @@
                     "Sony Playstation 3"
                 ]
             },
+            "ext": [
+                "iso"
+            ],
+            "date_start": "2006",
+            "date_end": "2017",
             "media": {
                 "logo-monochrome": [
                     {
@@ -19553,12 +19558,7 @@
                         "file": "controls(STICK-RIGHT).png"
                     }
                 ]
-            },
-            "ext": [
-                "iso"
-            ],
-            "date_start": "2006",
-            "date_end": "2017"
+            }
         },
         "60": {
             "id": 60,
@@ -19580,6 +19580,10 @@
                     "Sony Playstation 4"
                 ]
             },
+            "ext": [
+                "iso"
+            ],
+            "date_start": "2013",
             "media": {
                 "logo-monochrome": [
                     {
@@ -19776,11 +19780,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "iso"
-            ],
-            "date_start": "2013"
+            }
         },
         "61": {
             "id": 61,
@@ -19811,6 +19811,16 @@
                     "Sony PSP"
                 ]
             },
+            "ext": [
+                "img",
+                "pbp",
+                "bin",
+                "iso",
+                "cue",
+                "cso"
+            ],
+            "date_start": "2004",
+            "date_end": "2014",
             "media": {
                 "logo-monochrome": [
                     {
@@ -20076,17 +20086,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "img",
-                "pbp",
-                "bin",
-                "iso",
-                "cue",
-                "cso"
-            ],
-            "date_start": "2004",
-            "date_end": "2014"
+            }
         },
         "62": {
             "id": 62,
@@ -20108,6 +20108,12 @@
                     "Sony Playstation Vita"
                 ]
             },
+            "ext": [
+                "iso",
+                "vpk"
+            ],
+            "date_start": "2011",
+            "date_end": "2019",
             "media": {
                 "logo-monochrome": [
                     {
@@ -20390,13 +20396,7 @@
                         "file": "controls(STICK-RIGHT).png"
                     }
                 ]
-            },
-            "ext": [
-                "iso",
-                "vpk"
-            ],
-            "date_start": "2011",
-            "date_end": "2019"
+            }
         },
         "63": {
             "id": 63,
@@ -20412,6 +20412,10 @@
                     "Android"
                 ]
             },
+            "ext": [
+                "apk"
+            ],
+            "date_start": "2007",
             "media": {
                 "logo-monochrome": [
                     {
@@ -20495,11 +20499,7 @@
                         "file": "background(eu).png"
                     }
                 ]
-            },
-            "ext": [
-                "apk"
-            ],
-            "date_start": "2007"
+            }
         },
         "64": {
             "id": 64,
@@ -20558,6 +20558,23 @@
                     "Commodore Amiga"
                 ]
             },
+            "ext": [
+                "adf",
+                "adz",
+                "ipf",
+                "uae",
+                "hdf",
+                "hdz",
+                "dms",
+                "exe",
+                "cpio",
+                "rom",
+                "lha",
+                "m3u",
+                "zip"
+            ],
+            "date_start": "1985",
+            "date_end": "1994",
             "media": {
                 "logo-monochrome": [
                     {
@@ -20813,24 +20830,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "adf",
-                "adz",
-                "ipf",
-                "uae",
-                "hdf",
-                "hdz",
-                "dms",
-                "exe",
-                "cpio",
-                "rom",
-                "lha",
-                "m3u",
-                "zip"
-            ],
-            "date_start": "1985",
-            "date_end": "1994"
+            }
         },
         "65": {
             "id": 65,
@@ -20879,6 +20879,14 @@
                     "Amstrad CPC"
                 ]
             },
+            "ext": [
+                "bin",
+                "cpr",
+                "dsk",
+                "cpc"
+            ],
+            "date_start": "1983",
+            "date_end": "1990",
             "media": {
                 "logo-monochrome": [
                     {
@@ -21205,15 +21213,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "cpr",
-                "dsk",
-                "cpc"
-            ],
-            "date_start": "1983",
-            "date_end": "1990"
+            }
         },
         "66": {
             "id": 66,
@@ -21241,6 +21241,31 @@
                     "Commodore 128"
                 ]
             },
+            "ext": [
+                "arc",
+                "ark",
+                "bin",
+                "c64",
+                "crt",
+                "d64",
+                "d71",
+                "d81",
+                "dmp",
+                "g64",
+                "lnx",
+                "nbz",
+                "nib",
+                "p00",
+                "prg",
+                "reu",
+                "sda",
+                "sfx",
+                "t64",
+                "tap",
+                "z64"
+            ],
+            "date_start": "1984",
+            "date_end": "1994",
             "media": {
                 "logo-monochrome": [
                     {
@@ -21437,32 +21462,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "arc",
-                "ark",
-                "bin",
-                "c64",
-                "crt",
-                "d64",
-                "d71",
-                "d81",
-                "dmp",
-                "g64",
-                "lnx",
-                "nbz",
-                "nib",
-                "p00",
-                "prg",
-                "reu",
-                "sda",
-                "sfx",
-                "t64",
-                "tap",
-                "z64"
-            ],
-            "date_start": "1984",
-            "date_end": "1994"
+            }
         },
         "67": {
             "id": 67,
@@ -21487,6 +21487,12 @@
                     "Epoch Super Cassette Vision"
                 ]
             },
+            "ext": [
+                "bin",
+                "cart"
+            ],
+            "date_start": "1984",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -21812,13 +21818,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "cart"
-            ],
-            "date_start": "1984",
-            "date_end": "?"
+            }
         },
         "68": {
             "id": 68,
@@ -21839,6 +21839,11 @@
                     "SNK Neo Geo MVS"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
+            "date_start": "1990",
+            "date_end": "2004",
             "media": {
                 "logo-monochrome": [
                     {
@@ -22067,12 +22072,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ],
-            "date_start": "1990",
-            "date_end": "2004"
+            }
         },
         "69": {
             "id": 69,
@@ -22108,6 +22108,11 @@
                     "Sega ST-V"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
+            "date_start": "1994",
+            "date_end": "2001",
             "media": {
                 "logo-monochrome": [
                     {
@@ -22356,12 +22361,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ],
-            "date_start": "1994",
-            "date_end": "2001"
+            }
         },
         "70": {
             "id": 70,
@@ -22387,6 +22387,15 @@
                     "SNK Neo Geo CD"
                 ]
             },
+            "ext": [
+                "bin",
+                "ccd",
+                "cue",
+                "img",
+                "iso"
+            ],
+            "date_start": "1994",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -22591,16 +22600,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "ccd",
-                "cue",
-                "img",
-                "iso"
-            ],
-            "date_start": "1994",
-            "date_end": "?"
+            }
         },
         "72": {
             "id": 72,
@@ -22626,6 +22626,16 @@
                     "NEC PC-FX"
                 ]
             },
+            "ext": [
+                "bin",
+                "chd",
+                "ccd",
+                "img",
+                "sub",
+                "cue"
+            ],
+            "date_start": "1994",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -22860,17 +22870,7 @@
                         "file": "support-texture-template(jp).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "chd",
-                "ccd",
-                "img",
-                "sub",
-                "cue"
-            ],
-            "date_start": "1994",
-            "date_end": "?"
+            }
         },
         "73": {
             "id": 73,
@@ -22897,6 +22897,16 @@
                     "Commodore VIC-20"
                 ]
             },
+            "ext": [
+                "crt",
+                "d64",
+                "prg",
+                "t64",
+                "tap",
+                "d81"
+            ],
+            "date_start": "1980",
+            "date_end": "1985",
             "media": {
                 "logo-monochrome": [
                     {
@@ -23074,17 +23084,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "crt",
-                "d64",
-                "prg",
-                "t64",
-                "tap",
-                "d81"
-            ],
-            "date_start": "1980",
-            "date_end": "1985"
+            }
         },
         "74": {
             "id": 74,
@@ -23105,6 +23105,11 @@
                     "Casio PV-1000"
                 ]
             },
+            "ext": [
+                "bin"
+            ],
+            "date_start": "1983",
+            "date_end": "1983",
             "media": {
                 "logo-monochrome": [
                     {
@@ -23261,12 +23266,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin"
-            ],
-            "date_start": "1983",
-            "date_end": "1983"
+            }
         },
         "75": {
             "id": 75,
@@ -23314,6 +23314,9 @@
                     "MiSFiT MAME"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -23697,10 +23700,7 @@
                         "file": "controls(TRACKBALL).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "76": {
             "id": 76,
@@ -23727,6 +23727,30 @@
                     "Sinclair ZX Spectrum"
                 ]
             },
+            "ext": [
+                "csw",
+                "dsk",
+                "fdi",
+                "img",
+                "ipf",
+                "mgt",
+                "rom",
+                "rzx",
+                "scl",
+                "slt",
+                "sp",
+                "tap",
+                "trd",
+                "tzx",
+                "scl",
+                "slt",
+                "sna",
+                "szx",
+                "udi",
+                "z80"
+            ],
+            "date_start": "1982",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -23919,31 +23943,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "csw",
-                "dsk",
-                "fdi",
-                "img",
-                "ipf",
-                "mgt",
-                "rom",
-                "rzx",
-                "scl",
-                "slt",
-                "sp",
-                "tap",
-                "trd",
-                "tzx",
-                "scl",
-                "slt",
-                "sna",
-                "szx",
-                "udi",
-                "z80"
-            ],
-            "date_start": "1982",
-            "date_end": "?"
+            }
         },
         "77": {
             "id": 77,
@@ -23967,6 +23967,13 @@
                     "Sinclair ZX81"
                 ]
             },
+            "ext": [
+                "c",
+                "p",
+                "tzx"
+            ],
+            "date_start": "1981",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -24113,14 +24120,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "c",
-                "p",
-                "tzx"
-            ],
-            "date_start": "1981",
-            "date_end": "?"
+            }
         },
         "78": {
             "id": 78,
@@ -24138,6 +24138,11 @@
                     "Entex Adventure Vision"
                 ]
             },
+            "ext": [
+                "bin"
+            ],
+            "date_start": "1982",
+            "date_end": "1983",
             "media": {
                 "logo-monochrome": [
                     {
@@ -24279,12 +24284,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin"
-            ],
-            "date_start": "1982",
-            "date_end": "1983"
+            }
         },
         "79": {
             "id": 79,
@@ -24313,6 +24313,23 @@
                     "Sharp X68000"
                 ]
             },
+            "ext": [
+                "dim",
+                "img",
+                "d88",
+                "88d",
+                "hdm",
+                "dup",
+                "2hd",
+                "xdf",
+                "hdf",
+                "cmd",
+                "m3u",
+                "zip",
+                "7z"
+            ],
+            "date_start": "1987",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -24621,24 +24638,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "dim",
-                "img",
-                "d88",
-                "88d",
-                "hdm",
-                "dup",
-                "2hd",
-                "xdf",
-                "hdf",
-                "cmd",
-                "m3u",
-                "zip",
-                "7z"
-            ],
-            "date_start": "1987",
-            "date_end": "?"
+            }
         },
         "80": {
             "id": 80,
@@ -24668,6 +24668,11 @@
                     "Fairchild Channel F"
                 ]
             },
+            "ext": [
+                "bin"
+            ],
+            "date_start": "1976",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -24876,12 +24881,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin"
-            ],
-            "date_start": "1976",
-            "date_end": "?"
+            }
         },
         "81": {
             "id": 81,
@@ -24902,6 +24902,11 @@
                     "WoW Action Max"
                 ]
             },
+            "ext": [
+                "singe"
+            ],
+            "date_start": "1987",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -24998,12 +25003,7 @@
                         "file": "screenmarquee-blank(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "singe"
-            ],
-            "date_start": "1987",
-            "date_end": "?"
+            }
         },
         "82": {
             "id": 82,
@@ -25034,6 +25034,13 @@
                     "SNK Neo Geo Pocket Color"
                 ]
             },
+            "ext": [
+                "ngp",
+                "ngc",
+                "bin"
+            ],
+            "date_start": "1999",
+            "date_end": "2000",
             "media": {
                 "logo-monochrome": [
                     {
@@ -25284,14 +25291,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "ngp",
-                "ngc",
-                "bin"
-            ],
-            "date_start": "1999",
-            "date_end": "2000"
+            }
         },
         "83": {
             "id": 83,
@@ -25310,6 +25310,11 @@
                     "Aamber Pegasus"
                 ]
             },
+            "ext": [
+                "bin"
+            ],
+            "date_start": "1981",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -25406,12 +25411,7 @@
                         "file": "bezel-16-9(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin"
-            ],
-            "date_start": "1981",
-            "date_end": "?"
+            }
         },
         "84": {
             "id": 84,
@@ -25431,6 +25431,14 @@
                     "Acorn Archimedes"
                 ]
             },
+            "ext": [
+                "cue",
+                "iso",
+                "adf",
+                "jfd"
+            ],
+            "date_start": "1987",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -25571,15 +25579,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "cue",
-                "iso",
-                "adf",
-                "jfd"
-            ],
-            "date_start": "1987",
-            "date_end": "?"
+            }
         },
         "85": {
             "id": 85,
@@ -25599,6 +25599,12 @@
                     "Acorn Electron"
                 ]
             },
+            "ext": [
+                "bin",
+                "sdd",
+                "uef"
+            ],
+            "date_start": "1983",
             "media": {
                 "logo-monochrome": [
                     {
@@ -25739,13 +25745,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "sdd",
-                "uef"
-            ],
-            "date_start": "1983"
+            }
         },
         "86": {
             "id": 86,
@@ -25789,6 +25789,14 @@
                     "Apple IIGS"
                 ]
             },
+            "ext": [
+                "dsk",
+                "do",
+                "po",
+                "nib"
+            ],
+            "date_start": "1977",
+            "date_end": "1981",
             "media": {
                 "logo-monochrome": [
                     {
@@ -26022,15 +26030,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "dsk",
-                "do",
-                "po",
-                "nib"
-            ],
-            "date_start": "1977",
-            "date_end": "1981"
+            }
         },
         "87": {
             "id": 87,
@@ -26054,6 +26054,14 @@
                     "Amstrad GX4000"
                 ]
             },
+            "ext": [
+                "bin",
+                "cpr",
+                "dsk",
+                "cpc"
+            ],
+            "date_start": "1990",
+            "date_end": "1991",
             "media": {
                 "logo-monochrome": [
                     {
@@ -26234,15 +26242,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "cpr",
-                "dsk",
-                "cpc"
-            ],
-            "date_start": "1990",
-            "date_end": "1991"
+            }
         },
         "88": {
             "id": 88,
@@ -26267,6 +26267,12 @@
                     "Camputers Lynx"
                 ]
             },
+            "ext": [
+                "ldf",
+                "tap"
+            ],
+            "date_start": "1983",
+            "date_end": "1984",
             "media": {
                 "logo-monochrome": [
                     {
@@ -26613,13 +26619,7 @@
                         "file": "controls(touche_Z).png"
                     }
                 ]
-            },
-            "ext": [
-                "ldf",
-                "tap"
-            ],
-            "date_start": "1983",
-            "date_end": "1984"
+            }
         },
         "89": {
             "id": 89,
@@ -26639,6 +26639,16 @@
                     "Coleco ADAM"
                 ]
             },
+            "ext": [
+                "bas",
+                "com",
+                "ddp",
+                "dsk",
+                "img",
+                "lbr"
+            ],
+            "date_start": "1983",
+            "date_end": "1985",
             "media": {
                 "logo-monochrome": [
                     {
@@ -26707,17 +26717,7 @@
                         "file": "video.mp4"
                     }
                 ]
-            },
-            "ext": [
-                "bas",
-                "com",
-                "ddp",
-                "dsk",
-                "img",
-                "lbr"
-            ],
-            "date_start": "1983",
-            "date_end": "1985"
+            }
         },
         "90": {
             "id": 90,
@@ -26737,6 +26737,11 @@
                     "Creatronic Mega Duck"
                 ]
             },
+            "ext": [
+                "bin"
+            ],
+            "date_start": "1993",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -26816,12 +26821,7 @@
                         "file": "bezel-16-9(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin"
-            ],
-            "date_start": "1993",
-            "date_end": "?"
+            }
         },
         "91": {
             "id": 91,
@@ -26848,6 +26848,22 @@
                     "Dragon Data Dragon"
                 ]
             },
+            "ext": [
+                "asc",
+                "bas",
+                "cas",
+                "ccc",
+                "dmk",
+                "dsk",
+                "jvc",
+                "os9",
+                "rom",
+                "sna",
+                "vdk",
+                "wav"
+            ],
+            "date_start": "1982",
+            "date_end": "1984",
             "media": {
                 "logo-monochrome": [
                     {
@@ -26988,23 +27004,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "asc",
-                "bas",
-                "cas",
-                "ccc",
-                "dmk",
-                "dsk",
-                "jvc",
-                "os9",
-                "rom",
-                "sna",
-                "vdk",
-                "wav"
-            ],
-            "date_start": "1982",
-            "date_end": "1984"
+            }
         },
         "92": {
             "id": 92,
@@ -27027,6 +27027,10 @@
                     "EACA EG2000 Colour Genie"
                 ]
             },
+            "ext": [
+                "cas"
+            ],
+            "date_start": "1982",
             "media": {
                 "logo-monochrome": [
                     {
@@ -27597,11 +27601,7 @@
                         "file": "controls(touche_Z).png"
                     }
                 ]
-            },
-            "ext": [
-                "cas"
-            ],
-            "date_start": "1982"
+            }
         },
         "93": {
             "id": 93,
@@ -27634,6 +27634,19 @@
                     "Elektronika BK"
                 ]
             },
+            "ext": [
+                "bas",
+                "bin",
+                "cod",
+                "doc",
+                "exe",
+                "mus",
+                "pig",
+                "bkd",
+                "img"
+            ],
+            "date_start": "1984",
+            "date_end": "1993",
             "media": {
                 "logo-monochrome": [
                     {
@@ -27701,20 +27714,7 @@
                         "file": "bezel-16-9(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bas",
-                "bin",
-                "cod",
-                "doc",
-                "exe",
-                "mus",
-                "pig",
-                "bkd",
-                "img"
-            ],
-            "date_start": "1984",
-            "date_end": "1993"
+            }
         },
         "94": {
             "id": 94,
@@ -27768,6 +27768,11 @@
                     "Emerson Arcadia 2001"
                 ]
             },
+            "ext": [
+                "bin"
+            ],
+            "date_start": "1982",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -28004,12 +28009,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin"
-            ],
-            "date_start": "1982",
-            "date_end": "?"
+            }
         },
         "95": {
             "id": 95,
@@ -28030,6 +28030,11 @@
                     "Epoch Game Pocket Computer"
                 ]
             },
+            "ext": [
+                "bin"
+            ],
+            "date_start": "1984",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -28097,12 +28102,7 @@
                         "file": "photo(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin"
-            ],
-            "date_start": "1984",
-            "date_end": "?"
+            }
         },
         "96": {
             "id": 96,
@@ -28122,6 +28122,17 @@
                     "Exelvision EXL 100"
                 ]
             },
+            "ext": [
+                "bas",
+                "bin",
+                "fd",
+                "k7",
+                "rom",
+                "td0",
+                "wav"
+            ],
+            "date_start": "1984",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -28184,18 +28195,7 @@
                         "file": "photo(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bas",
-                "bin",
-                "fd",
-                "k7",
-                "rom",
-                "td0",
-                "wav"
-            ],
-            "date_start": "1984",
-            "date_end": "?"
+            }
         },
         "97": {
             "id": 97,
@@ -28221,6 +28221,12 @@
                     "Fujitsu FM-7"
                 ]
             },
+            "ext": [
+                "d77",
+                "t77"
+            ],
+            "date_start": "1982",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -28371,13 +28377,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "d77",
-                "t77"
-            ],
-            "date_start": "1982",
-            "date_end": "?"
+            }
         },
         "98": {
             "id": 98,
@@ -28398,6 +28398,11 @@
                     "Casio Loopy"
                 ]
             },
+            "ext": [
+                "bin"
+            ],
+            "date_start": "1995",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -28508,12 +28513,7 @@
                         "file": "bezel-16-9(jp).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin"
-            ],
-            "date_start": "1995",
-            "date_end": "?"
+            }
         },
         "99": {
             "id": 99,
@@ -28537,6 +28537,17 @@
                     "Commodore 16 &amp; Plus4"
                 ]
             },
+            "ext": [
+                "crt",
+                "d64",
+                "g64",
+                "lnx",
+                "prg",
+                "tap",
+                "z64"
+            ],
+            "date_start": "1984",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -28656,18 +28667,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "crt",
-                "d64",
-                "g64",
-                "lnx",
-                "prg",
-                "tap",
-                "z64"
-            ],
-            "date_start": "1984",
-            "date_end": "?"
+            }
         },
         "100": {
             "id": 100,
@@ -28687,6 +28687,11 @@
                     "Funtech Super Acan"
                 ]
             },
+            "ext": [
+                "bin"
+            ],
+            "date_start": "1995",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -28808,12 +28813,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin"
-            ],
-            "date_start": "1995",
-            "date_end": "?"
+            }
         },
         "101": {
             "id": 101,
@@ -28830,6 +28830,12 @@
                     "GamePark 32"
                 ]
             },
+            "ext": [
+                "fpk",
+                "smc"
+            ],
+            "date_start": "2001",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -28965,13 +28971,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "fpk",
-                "smc"
-            ],
-            "date_start": "2001",
-            "date_end": "?"
+            }
         },
         "102": {
             "id": 102,
@@ -28997,6 +28997,13 @@
                     "GCE Vectrex"
                 ]
             },
+            "ext": [
+                "vec",
+                "bin",
+                "gam"
+            ],
+            "date_start": "1982",
+            "date_end": "1984",
             "media": {
                 "logo-monochrome": [
                     {
@@ -29325,14 +29332,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "vec",
-                "bin",
-                "gam"
-            ],
-            "date_start": "1982",
-            "date_end": "1984"
+            }
         },
         "103": {
             "id": 103,
@@ -29352,6 +29352,11 @@
                     "Hartung Game Master"
                 ]
             },
+            "ext": [
+                "bin"
+            ],
+            "date_start": "1990",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -29487,12 +29492,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin"
-            ],
-            "date_start": "1990",
-            "date_end": "?"
+            }
         },
         "104": {
             "id": 104,
@@ -29587,6 +29587,11 @@
                     "Philips Videopac Plus G7400"
                 ]
             },
+            "ext": [
+                "bin"
+            ],
+            "date_start": "1978",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -29918,12 +29923,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin"
-            ],
-            "date_start": "1978",
-            "date_end": "?"
+            }
         },
         "105": {
             "id": 105,
@@ -29951,6 +29951,14 @@
                     "NEC SuperGrafx"
                 ]
             },
+            "ext": [
+                "pce",
+                "cue",
+                "ccd",
+                "sgx"
+            ],
+            "date_start": "1989",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -30127,15 +30135,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "pce",
-                "cue",
-                "ccd",
-                "sgx"
-            ],
-            "date_start": "1989",
-            "date_end": "?"
+            }
         },
         "106": {
             "id": 106,
@@ -30176,6 +30176,13 @@
                     "Nintendo Famicom Disk System"
                 ]
             },
+            "ext": [
+                "fds",
+                "nes",
+                "bin"
+            ],
+            "date_start": "1986",
+            "date_end": "2003",
             "media": {
                 "logo-monochrome": [
                     {
@@ -30581,14 +30588,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "fds",
-                "nes",
-                "bin"
-            ],
-            "date_start": "1986",
-            "date_end": "2003"
+            }
         },
         "107": {
             "id": 107,
@@ -30617,6 +30617,11 @@
                     "Nintendo Satellaview"
                 ]
             },
+            "ext": [
+                "sfc"
+            ],
+            "date_start": "1995",
+            "date_end": "2000",
             "media": {
                 "logo-monochrome": [
                     {
@@ -30842,12 +30847,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "sfc"
-            ],
-            "date_start": "1995",
-            "date_end": "2000"
+            }
         },
         "108": {
             "id": 108,
@@ -30867,6 +30867,12 @@
                     "sufami"
                 ]
             },
+            "ext": [
+                "sfc",
+                "st",
+                "smc"
+            ],
+            "date_start": "1996",
             "media": {
                 "logo-monochrome": [
                     {
@@ -31007,13 +31013,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "sfc",
-                "st",
-                "smc"
-            ],
-            "date_start": "1996"
+            }
         },
         "109": {
             "id": 109,
@@ -31046,6 +31046,12 @@
                     "Sega SG-1000"
                 ]
             },
+            "ext": [
+                "sg",
+                "bin"
+            ],
+            "date_start": "1983",
+            "date_end": "1985",
             "media": {
                 "logo-monochrome": [
                     {
@@ -31232,13 +31238,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "sg",
-                "bin"
-            ],
-            "date_start": "1983",
-            "date_end": "1985"
+            }
         },
         "110": {
             "id": 110,
@@ -31247,6 +31247,8 @@
             "type": "Others",
             "romtype": "rom",
             "supporttype": "cartridge",
+            "date_start": "1997",
+            "date_end": "2007",
             "media": {
                 "logo-monochrome": [
                     {
@@ -31384,9 +31386,7 @@
                         "file": "box-texture-template(jp).png"
                     }
                 ]
-            },
-            "date_start": "1997",
-            "date_end": "2007"
+            }
         },
         "111": {
             "id": 111,
@@ -31413,6 +31413,23 @@
                     "Commodore Amiga"
                 ]
             },
+            "ext": [
+                "adf",
+                "adz",
+                "ipf",
+                "uae",
+                "hdf",
+                "hdz",
+                "dms",
+                "exe",
+                "cpio",
+                "rom",
+                "lha",
+                "m3u",
+                "zip"
+            ],
+            "date_start": "1992",
+            "date_end": "1994",
             "media": {
                 "logo-monochrome": [
                     {
@@ -31639,24 +31656,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "adf",
-                "adz",
-                "ipf",
-                "uae",
-                "hdf",
-                "hdz",
-                "dms",
-                "exe",
-                "cpio",
-                "rom",
-                "lha",
-                "m3u",
-                "zip"
-            ],
-            "date_start": "1992",
-            "date_end": "1994"
+            }
         },
         "112": {
             "id": 112,
@@ -31697,6 +31697,10 @@
                     "Taito Type X"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
+            "date_start": "2004",
             "media": {
                 "logo-monochrome": [
                     {
@@ -31939,11 +31943,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ],
-            "date_start": "2004"
+            }
         },
         "113": {
             "id": 113,
@@ -31973,6 +31973,14 @@
                     "Microsoft MSX"
                 ]
             },
+            "ext": [
+                "mx1",
+                "rom",
+                "dsk",
+                "col",
+                "cas"
+            ],
+            "date_start": "1980",
             "media": {
                 "logo-monochrome": [
                     {
@@ -32620,15 +32628,7 @@
                         "file": "controls(KEY_Z).png"
                     }
                 ]
-            },
-            "ext": [
-                "mx1",
-                "rom",
-                "dsk",
-                "col",
-                "cas"
-            ],
-            "date_start": "1980"
+            }
         },
         "114": {
             "id": 114,
@@ -32658,6 +32658,16 @@
                     "NEC TurboGrafx-CD"
                 ]
             },
+            "ext": [
+                "pce",
+                "cue",
+                "ccd",
+                "chd",
+                "iso",
+                "sgx"
+            ],
+            "date_start": "1988",
+            "date_end": "1994",
             "media": {
                 "logo-monochrome": [
                     {
@@ -32889,17 +32899,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "pce",
-                "cue",
-                "ccd",
-                "chd",
-                "iso",
-                "sgx"
-            ],
-            "date_start": "1988",
-            "date_end": "1994"
+            }
         },
         "115": {
             "id": 115,
@@ -32935,6 +32935,13 @@
                     "Mattel Intellivision"
                 ]
             },
+            "ext": [
+                "bin",
+                "int",
+                "rom"
+            ],
+            "date_start": "1979",
+            "date_end": "1984",
             "media": {
                 "logo-monochrome": [
                     {
@@ -33119,14 +33126,7 @@
                         "file": "support2D(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "int",
-                "rom"
-            ],
-            "date_start": "1979",
-            "date_end": "1984"
+            }
         },
         "116": {
             "id": 116,
@@ -33154,6 +33154,13 @@
                     "Microsoft MSX2"
                 ]
             },
+            "ext": [
+                "mx2",
+                "rom",
+                "cas",
+                "dsk"
+            ],
+            "date_start": "1985",
             "media": {
                 "logo-monochrome": [
                     {
@@ -33908,14 +33915,7 @@
                         "file": "controls(KEY_Z).png"
                     }
                 ]
-            },
-            "ext": [
-                "mx2",
-                "rom",
-                "cas",
-                "dsk"
-            ],
-            "date_start": "1985"
+            }
         },
         "117": {
             "id": 117,
@@ -33945,6 +33945,13 @@
                     "Microsoft MSX2+"
                 ]
             },
+            "ext": [
+                "mx2",
+                "rom",
+                "cas",
+                "dsk"
+            ],
+            "date_start": "1988",
             "media": {
                 "logo-monochrome": [
                     {
@@ -34532,14 +34539,7 @@
                         "file": "controls(KEY_Z).png"
                     }
                 ]
-            },
-            "ext": [
-                "mx2",
-                "rom",
-                "cas",
-                "dsk"
-            ],
-            "date_start": "1988"
+            }
         },
         "118": {
             "id": 118,
@@ -34566,6 +34566,14 @@
                     "Microsoft MSX"
                 ]
             },
+            "ext": [
+                "mx1",
+                "mx2",
+                "rom",
+                "dsk",
+                "col"
+            ],
+            "date_start": "1990",
             "media": {
                 "logo-monochrome": [
                     {
@@ -35146,15 +35154,7 @@
                         "file": "controls(KEY_Z).png"
                     }
                 ]
-            },
-            "ext": [
-                "mx1",
-                "mx2",
-                "rom",
-                "dsk",
-                "col"
-            ],
-            "date_start": "1990"
+            }
         },
         "119": {
             "id": 119,
@@ -35172,6 +35172,8 @@
             "romtype": "rom",
             "supporttype": "card",
             "company": "Nintendo",
+            "date_start": "2001",
+            "date_end": "2002",
             "media": {
                 "logo-monochrome": [
                     {
@@ -35326,9 +35328,7 @@
                         "file": "support-texture-template(us).png"
                     }
                 ]
-            },
-            "date_start": "2001",
-            "date_end": "2002"
+            }
         },
         "120": {
             "id": 120,
@@ -35341,6 +35341,11 @@
             "romtype": "rom",
             "supporttype": "cartridge",
             "company": "VTech",
+            "ext": [
+                "bin"
+            ],
+            "date_start": "2004",
+            "date_end": "2010",
             "media": {
                 "logo-monochrome": [
                     {
@@ -35517,12 +35522,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin"
-            ],
-            "date_start": "2004",
-            "date_end": "2010"
+            }
         },
         "121": {
             "id": 121,
@@ -35539,6 +35539,11 @@
                     "Tiger Game.com"
                 ]
             },
+            "ext": [
+                "bin"
+            ],
+            "date_start": "1997",
+            "date_end": "2000",
             "media": {
                 "logo-monochrome": [
                     {
@@ -35674,12 +35679,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin"
-            ],
-            "date_start": "1997",
-            "date_end": "2000"
+            }
         },
         "122": {
             "id": 122,
@@ -35707,6 +35707,11 @@
                     "Nintendo 64DD"
                 ]
             },
+            "ext": [
+                "ndd"
+            ],
+            "date_start": "1999",
+            "date_end": "2001",
             "media": {
                 "logo-monochrome": [
                     {
@@ -36011,12 +36016,7 @@
                         "file": "controls(JOY2_UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "ndd"
-            ],
-            "date_start": "1999",
-            "date_end": "2001"
+            }
         },
         "123": {
             "id": 123,
@@ -36043,6 +36043,11 @@
                     "ScummVM"
                 ]
             },
+            "ext": [
+                "svm",
+                "scummvm(scummvm)",
+                "residualvm(residualvm)"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -36245,12 +36250,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "svm",
-                "scummvm(scummvm)",
-                "residualvm(residualvm)"
-            ]
+            }
         },
         "124": {
             "id": 124,
@@ -36270,6 +36270,10 @@
                     "Radio-86RK Mikrosha"
                 ]
             },
+            "ext": [
+                "rkm"
+            ],
+            "date_start": "1986",
             "media": {
                 "logo-monochrome": [
                     {
@@ -36325,11 +36329,7 @@
                         "file": "icon.png"
                     }
                 ]
-            },
-            "ext": [
-                "rkm"
-            ],
-            "date_start": "1986"
+            }
         },
         "125": {
             "id": 125,
@@ -36340,6 +36340,10 @@
             "type": "Computer",
             "romtype": "rom",
             "supporttype": "k7",
+            "ext": [
+                "wav"
+            ],
+            "date_start": "1985",
             "media": {
                 "logo-monochrome": [
                     {
@@ -36408,11 +36412,7 @@
                         "file": "video.mp4"
                     }
                 ]
-            },
-            "ext": [
-                "wav"
-            ],
-            "date_start": "1985"
+            }
         },
         "126": {
             "id": 126,
@@ -36433,6 +36433,16 @@
                     "Jupiter ACE"
                 ]
             },
+            "ext": [
+                "a22",
+                "ace",
+                "asm",
+                "dsk",
+                "tap",
+                "wav"
+            ],
+            "date_start": "1982",
+            "date_end": "1984",
             "media": {
                 "logo-monochrome": [
                     {
@@ -36502,17 +36512,7 @@
                         "file": "box3D(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "a22",
-                "ace",
-                "asm",
-                "dsk",
-                "tap",
-                "wav"
-            ],
-            "date_start": "1982",
-            "date_end": "1984"
+            }
         },
         "127": {
             "id": 127,
@@ -36535,6 +36535,8 @@
                     "Nintendo Super Game Boy"
                 ]
             },
+            "date_start": "1994",
+            "date_end": "2003",
             "media": {
                 "logo-monochrome": [
                     {
@@ -36718,9 +36720,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "date_start": "1994",
-            "date_end": "2003"
+            }
         },
         "128": {
             "id": 128,
@@ -36743,6 +36743,12 @@
                     "Nintendo Super Game Boy"
                 ]
             },
+            "ext": [
+                "gb",
+                "gbc"
+            ],
+            "date_start": " 1998",
+            "date_end": "2003",
             "media": {
                 "logo-monochrome": [
                     {
@@ -36798,13 +36804,7 @@
                         "file": "icon.png"
                     }
                 ]
-            },
-            "ext": [
-                "gb",
-                "gbc"
-            ],
-            "date_start": " 1998",
-            "date_end": "2003"
+            }
         },
         "129": {
             "id": 129,
@@ -36832,6 +36832,16 @@
                     "Commodore CDTV"
                 ]
             },
+            "ext": [
+                "bin",
+                "ccd",
+                "cue",
+                "img",
+                "iso",
+                "wav"
+            ],
+            "date_start": "1991",
+            "date_end": "1994",
             "media": {
                 "logo-monochrome": [
                     {
@@ -36982,17 +36992,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "ccd",
-                "cue",
-                "img",
-                "iso",
-                "wav"
-            ],
-            "date_start": "1991",
-            "date_end": "1994"
+            }
         },
         "130": {
             "id": 130,
@@ -37019,6 +37019,18 @@
                     "Commodore Amiga CD32"
                 ]
             },
+            "ext": [
+                "bin",
+                "ccd",
+                "cdt",
+                "cue",
+                "img",
+                "iso",
+                "nrg",
+                "sub"
+            ],
+            "date_start": "1993",
+            "date_end": "1994",
             "media": {
                 "logo-monochrome": [
                     {
@@ -37180,19 +37192,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "ccd",
-                "cdt",
-                "cue",
-                "img",
-                "iso",
-                "nrg",
-                "sub"
-            ],
-            "date_start": "1993",
-            "date_end": "1994"
+            }
         },
         "131": {
             "id": 131,
@@ -37229,6 +37229,14 @@
                     "Tangerine Oric"
                 ]
             },
+            "ext": [
+                "bas",
+                "bin",
+                "dsk",
+                "tap"
+            ],
+            "date_start": "1982",
+            "date_end": "1988",
             "media": {
                 "logo-monochrome": [
                     {
@@ -37349,15 +37357,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bas",
-                "bin",
-                "dsk",
-                "tap"
-            ],
-            "date_start": "1982",
-            "date_end": "1988"
+            }
         },
         "133": {
             "id": 133,
@@ -37380,6 +37380,15 @@
                     "Philips CD-i"
                 ]
             },
+            "ext": [
+                "bin",
+                "cue",
+                "iso",
+                "nrg",
+                "wav"
+            ],
+            "date_start": "1991",
+            "date_end": "1997",
             "media": {
                 "logo-monochrome": [
                     {
@@ -37648,16 +37657,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "cue",
-                "iso",
-                "nrg",
-                "wav"
-            ],
-            "date_start": "1991",
-            "date_end": "1997"
+            }
         },
         "134": {
             "id": 134,
@@ -37681,6 +37681,11 @@
                     "Commodore Amiga CD32"
                 ]
             },
+            "ext": [
+                "cue",
+                "iso",
+                "wav"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -37736,12 +37741,7 @@
                         "file": "icon.png"
                     }
                 ]
-            },
-            "ext": [
-                "cue",
-                "iso",
-                "wav"
-            ]
+            }
         },
         "135": {
             "id": 135,
@@ -37778,6 +37778,14 @@
                     "Microsoft MS-DOS"
                 ]
             },
+            "ext": [
+                "pc(exe|com|iso|bin|mdf|ima|img|gog|dsk|z5|z8|bas|dat)",
+                "dos(exe|com|iso|bin|mdf|ima|img|gog|dsk|z5|z8|bas|dat)",
+                "wad",
+                "game",
+                "zip"
+            ],
+            "date_start": "1981",
             "media": {
                 "logo-monochrome": [
                     {
@@ -38531,15 +38539,7 @@
                         "file": "controls(KEY_Z).png"
                     }
                 ]
-            },
-            "ext": [
-                "pc(exe|com|iso|bin|mdf|ima|img|gog|dsk|z5|z8|bas|dat)",
-                "dos(exe|com|iso|bin|mdf|ima|img|gog|dsk|z5|z8|bas|dat)",
-                "wad",
-                "game",
-                "zip"
-            ],
-            "date_start": "1981"
+            }
         },
         "136": {
             "id": 136,
@@ -38566,6 +38566,11 @@
                     "Microsoft Windows 3.x"
                 ]
             },
+            "ext": [
+                "pc(exe|dll|com|iso|bin|mdf|img)",
+                "dos(exe|dll|com|iso|bin|mdf|img)"
+            ],
+            "date_start": "1990",
             "media": {
                 "logo-monochrome": [
                     {
@@ -39392,12 +39397,7 @@
                         "file": "controls(KEY_Z).png"
                     }
                 ]
-            },
-            "ext": [
-                "pc(exe|dll|com|iso|bin|mdf|img)",
-                "dos(exe|dll|com|iso|bin|mdf|img)"
-            ],
-            "date_start": "1990"
+            }
         },
         "137": {
             "id": 137,
@@ -39427,6 +39427,8 @@
             "romtype": "rom",
             "supporttype": "floppy",
             "company": "Microsoft",
+            "date_start": "1995",
+            "date_end": "1998",
             "media": {
                 "logo-monochrome": [
                     {
@@ -40047,9 +40049,7 @@
                         "file": "controls(KEY_Z).png"
                     }
                 ]
-            },
-            "date_start": "1995",
-            "date_end": "1998"
+            }
         },
         "138": {
             "id": 138,
@@ -40094,6 +40094,7 @@
                     "Windows"
                 ]
             },
+            "date_start": "2000",
             "media": {
                 "logo-monochrome": [
                     {
@@ -40810,8 +40811,7 @@
                         "file": "controls(KEY_Z).png"
                     }
                 ]
-            },
-            "date_start": "2000"
+            }
         },
         "139": {
             "id": 139,
@@ -40837,6 +40837,18 @@
                     "Commodore Amiga CD32"
                 ]
             },
+            "ext": [
+                "bin",
+                "ccd",
+                "cdt",
+                "cue",
+                "img",
+                "iso",
+                "nrg",
+                "sub"
+            ],
+            "date_start": "1993",
+            "date_end": "1994",
             "media": {
                 "logo-monochrome": [
                     {
@@ -40993,19 +41005,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "ccd",
-                "cdt",
-                "cue",
-                "img",
-                "iso",
-                "nrg",
-                "sub"
-            ],
-            "date_start": "1993",
-            "date_end": "1994"
+            }
         },
         "141": {
             "id": 141,
@@ -41049,6 +41049,17 @@
                     "thomson"
                 ]
             },
+            "ext": [
+                "fd",
+                "k7",
+                "m7",
+                "qd",
+                "sap",
+                "m5",
+                "wav"
+            ],
+            "date_start": "1982",
+            "date_end": "1986",
             "media": {
                 "logo-monochrome": [
                     {
@@ -41247,18 +41258,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "fd",
-                "k7",
-                "m7",
-                "qd",
-                "sap",
-                "m5",
-                "wav"
-            ],
-            "date_start": "1982",
-            "date_end": "1986"
+            }
         },
         "142": {
             "id": 142,
@@ -41289,6 +41289,11 @@
                     "SNK Neo Geo"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
+            "date_start": "1990",
+            "date_end": "2004",
             "media": {
                 "logo-monochrome": [
                     {
@@ -41632,12 +41637,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ],
-            "date_start": "1990",
-            "date_end": "2004"
+            }
         },
         "143": {
             "id": 143,
@@ -41652,6 +41652,11 @@
                     "Pinball FX2"
                 ]
             },
+            "ext": [
+                " "
+            ],
+            "date_start": "2010",
+            "date_end": "2017",
             "media": {
                 "logo-monochrome": [
                     {
@@ -41714,12 +41719,7 @@
                         "file": "illustration(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                " "
-            ],
-            "date_start": "2010",
-            "date_end": "2017"
+            }
         },
         "144": {
             "id": 144,
@@ -41750,6 +41750,22 @@
                     "Tandy TRS-80 Color Computer"
                 ]
             },
+            "ext": [
+                "cas",
+                "wav",
+                "bas",
+                "asc",
+                "dmk",
+                "jvc",
+                "os9",
+                "dsk",
+                "vdk",
+                "rom",
+                "ccc",
+                "sna"
+            ],
+            "date_start": "1980",
+            "date_end": "1991",
             "media": {
                 "logo-monochrome": [
                     {
@@ -41869,23 +41885,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "cas",
-                "wav",
-                "bas",
-                "asc",
-                "dmk",
-                "jvc",
-                "os9",
-                "dsk",
-                "vdk",
-                "rom",
-                "ccc",
-                "sna"
-            ],
-            "date_start": "1980",
-            "date_end": "1991"
+            }
         },
         "145": {
             "id": 145,
@@ -41897,6 +41897,7 @@
             "romtype": "rom",
             "supporttype": "cd-floppy",
             "company": "Public Domain",
+            "date_start": "1991",
             "media": {
                 "logo-monochrome": [
                     {
@@ -42054,8 +42055,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "date_start": "1991"
+            }
         },
         "146": {
             "id": 146,
@@ -42081,6 +42081,12 @@
                     "macintosh"
                 ]
             },
+            "ext": [
+                "img",
+                "rom"
+            ],
+            "date_start": "1984",
+            "date_end": "2001",
             "media": {
                 "logo-monochrome": [
                     {
@@ -42171,13 +42177,7 @@
                         "file": "screenmarquee-blank(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "img",
-                "rom"
-            ],
-            "date_start": "1984",
-            "date_end": "2001"
+            }
         },
         "147": {
             "id": 147,
@@ -42212,6 +42212,9 @@
                     "Sega Classics"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -42460,10 +42463,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "148": {
             "id": 148,
@@ -42498,6 +42498,9 @@
                     "Irem Classics"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -42740,10 +42743,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "149": {
             "id": 149,
@@ -42774,6 +42774,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -43016,10 +43019,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "150": {
             "id": 150,
@@ -43055,6 +43055,9 @@
                     "Williams Classics"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -43297,10 +43300,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "151": {
             "id": 151,
@@ -43335,6 +43335,9 @@
                     "Capcom Classics"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -43583,10 +43586,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "152": {
             "id": 152,
@@ -43622,6 +43622,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -43864,10 +43867,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "153": {
             "id": 153,
@@ -43899,6 +43899,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -44141,10 +44144,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "154": {
             "id": 154,
@@ -44179,6 +44179,9 @@
                     "SNK Classics"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -44421,10 +44424,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "155": {
             "id": 155,
@@ -44459,6 +44459,9 @@
                     "Namco Classics"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -44701,10 +44704,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "156": {
             "id": 156,
@@ -44740,6 +44740,9 @@
                     "Namco System 22"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -44982,10 +44985,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "157": {
             "id": 157,
@@ -45020,6 +45020,9 @@
                     "Taito Classics"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -45262,10 +45265,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "158": {
             "id": 158,
@@ -45301,6 +45301,9 @@
                     "Konami e-AMUSEMENT"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -45558,10 +45561,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "159": {
             "id": 159,
@@ -45593,6 +45593,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -45835,10 +45838,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "160": {
             "id": 160,
@@ -45873,6 +45873,9 @@
                     "Atari Classics"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -46121,10 +46124,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "161": {
             "id": 161,
@@ -46159,6 +46159,9 @@
                     "Nintendo Classics"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -46394,10 +46397,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "162": {
             "id": 162,
@@ -46432,6 +46432,9 @@
                     "Data East Classics"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -46674,10 +46677,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "163": {
             "id": 163,
@@ -46709,6 +46709,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -46951,10 +46954,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "164": {
             "id": 164,
@@ -46985,6 +46985,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -47220,10 +47223,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "165": {
             "id": 165,
@@ -47257,6 +47257,9 @@
                     "Exidy Sorcerer"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -47492,10 +47495,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "166": {
             "id": 166,
@@ -47527,6 +47527,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -47773,10 +47776,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "167": {
             "id": 167,
@@ -47808,6 +47808,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -48043,10 +48046,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "168": {
             "id": 168,
@@ -48075,6 +48075,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                " "
+            ],
             "media": {
                 "wheel-carbon-blank": [
                     {
@@ -48142,10 +48145,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                " "
-            ]
+            }
         },
         "169": {
             "id": 169,
@@ -48176,6 +48176,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -48418,10 +48421,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "170": {
             "id": 170,
@@ -48456,6 +48456,11 @@
                     "American Laser Games"
                 ]
             },
+            "ext": [
+                "chd",
+                "cue",
+                "iso"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -48708,12 +48713,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd",
-                "cue",
-                "iso"
-            ]
+            }
         },
         "171": {
             "id": 171,
@@ -48736,6 +48736,17 @@
                     "Atari Jaguar CD"
                 ]
             },
+            "ext": [
+                "bin",
+                "ccd",
+                "cdi",
+                "cue",
+                "img",
+                "nrg",
+                "sub"
+            ],
+            "date_start": "1995",
+            "date_end": "1996",
             "media": {
                 "logo-monochrome": [
                     {
@@ -48900,18 +48911,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "ccd",
-                "cdi",
-                "cue",
-                "img",
-                "nrg",
-                "sub"
-            ],
-            "date_start": "1995",
-            "date_end": "1996"
+            }
         },
         "172": {
             "id": 172,
@@ -48940,6 +48940,11 @@
                     "Sony PSP Minis"
                 ]
             },
+            "ext": [
+                "iso",
+                "pbp",
+                "cso"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -49055,12 +49060,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "iso",
-                "pbp",
-                "cso"
-            ]
+            }
         },
         "173": {
             "id": 173,
@@ -49092,6 +49092,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -49327,10 +49330,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "174": {
             "id": 174,
@@ -49362,6 +49362,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -49597,10 +49600,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "175": {
             "id": 175,
@@ -49631,6 +49631,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -49873,10 +49876,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "176": {
             "id": 176,
@@ -49908,6 +49908,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -50143,10 +50146,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "177": {
             "id": 177,
@@ -50178,6 +50178,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -50420,10 +50423,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "178": {
             "id": 178,
@@ -50455,6 +50455,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -50684,10 +50687,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "179": {
             "id": 179,
@@ -50719,6 +50719,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -50954,10 +50957,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "180": {
             "id": 180,
@@ -50989,6 +50989,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -51231,10 +51234,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "181": {
             "id": 181,
@@ -51266,6 +51266,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -51501,10 +51504,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "182": {
             "id": 182,
@@ -51535,6 +51535,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -51770,10 +51773,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "183": {
             "id": 183,
@@ -51804,6 +51804,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -52033,10 +52036,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "184": {
             "id": 184,
@@ -52067,6 +52067,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -52302,10 +52305,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "185": {
             "id": 185,
@@ -52337,6 +52337,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -52579,10 +52582,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "186": {
             "id": 186,
@@ -52614,6 +52614,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -52856,10 +52859,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "187": {
             "id": 187,
@@ -52891,6 +52891,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -53126,10 +53129,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "188": {
             "id": 188,
@@ -53160,6 +53160,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -53395,10 +53398,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "189": {
             "id": 189,
@@ -53430,6 +53430,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -53665,10 +53668,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "190": {
             "id": 190,
@@ -53700,6 +53700,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -53942,10 +53945,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "191": {
             "id": 191,
@@ -53977,6 +53977,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -54219,10 +54222,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "192": {
             "id": 192,
@@ -54254,6 +54254,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -54489,10 +54492,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "193": {
             "id": 193,
@@ -54523,6 +54523,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -54758,10 +54761,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "194": {
             "id": 194,
@@ -54796,6 +54796,9 @@
                     "Gaelco"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -55038,10 +55041,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "195": {
             "id": 195,
@@ -55073,6 +55073,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -55315,10 +55318,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "196": {
             "id": 196,
@@ -55350,6 +55350,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -55598,10 +55601,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "197": {
             "id": 197,
@@ -55653,6 +55653,10 @@
                     "Visual Pinball"
                 ]
             },
+            "ext": [
+                "vpt",
+                "vpx"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -55742,11 +55746,7 @@
                         "file": "screenmarquee-blank(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "vpt",
-                "vpx"
-            ]
+            }
         },
         "199": {
             "id": 199,
@@ -55760,6 +55760,9 @@
                     "Future Pinball"
                 ]
             },
+            "ext": [
+                "ftp"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -55815,10 +55818,7 @@
                         "file": "icon.png"
                     }
                 ]
-            },
-            "ext": [
-                "ftp"
-            ]
+            }
         },
         "200": {
             "id": 200,
@@ -55827,6 +55827,9 @@
             "type": "Pinball",
             "romtype": "file",
             "supporttype": "non-applicable",
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -55876,10 +55879,7 @@
                         "file": "icon.png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "201": {
             "id": 201,
@@ -55889,6 +55889,10 @@
             "romtype": "file",
             "supporttype": "non-applicable",
             "company": "Zen Studios",
+            "ext": [
+                " "
+            ],
+            "date_start": "2017",
             "media": {
                 "logo-monochrome": [
                     {
@@ -55951,11 +55955,7 @@
                         "file": "video.mp4"
                     }
                 ]
-            },
-            "ext": [
-                " "
-            ],
-            "date_start": "2017"
+            }
         },
         "202": {
             "id": 202,
@@ -55983,6 +55983,15 @@
                     "Super Nintendo Entertainment System"
                 ]
             },
+            "ext": [
+                "sfc",
+                "smc",
+                "fig",
+                "mgd",
+                "swc"
+            ],
+            "date_start": "1990",
+            "date_end": "2003",
             "media": {
                 "logo-monochrome": [
                     {
@@ -56265,16 +56274,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "sfc",
-                "smc",
-                "fig",
-                "mgd",
-                "swc"
-            ],
-            "date_start": "1990",
-            "date_end": "2003"
+            }
         },
         "203": {
             "id": 203,
@@ -56302,6 +56302,14 @@
                     "Sega Genesis"
                 ]
             },
+            "ext": [
+                "gen",
+                "md",
+                "smd",
+                "bin",
+                "sg"
+            ],
+            "date_start": "1988",
             "media": {
                 "logo-monochrome": [
                     {
@@ -56590,15 +56598,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "gen",
-                "md",
-                "smd",
-                "bin",
-                "sg"
-            ],
-            "date_start": "1988"
+            }
         },
         "205": {
             "id": 205,
@@ -56623,6 +56623,15 @@
                     "ti994a"
                 ]
             },
+            "ext": [
+                "bin",
+                "c",
+                "dsk",
+                "g",
+                "ctg"
+            ],
+            "date_start": "1981",
+            "date_end": "1983",
             "media": {
                 "logo-monochrome": [
                     {
@@ -56856,16 +56865,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "c",
-                "dsk",
-                "g",
-                "ctg"
-            ],
-            "date_start": "1981",
-            "date_end": "1983"
+            }
         },
         "206": {
             "id": 206,
@@ -56882,6 +56882,11 @@
                     "lutro"
                 ]
             },
+            "ext": [
+                "lutro",
+                "lua"
+            ],
+            "date_start": "2015",
             "media": {
                 "logo-monochrome": [
                     {
@@ -57095,12 +57100,7 @@
                         "file": "box-texture-template(ss).png"
                     }
                 ]
-            },
-            "ext": [
-                "lutro",
-                "lua"
-            ],
-            "date_start": "2015"
+            }
         },
         "207": {
             "id": 207,
@@ -57120,6 +57120,11 @@
                     "supervision"
                 ]
             },
+            "ext": [
+                "sv",
+                "bin"
+            ],
+            "date_start": "1992",
             "media": {
                 "logo-monochrome": [
                     {
@@ -57268,12 +57273,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "sv",
-                "bin"
-            ],
-            "date_start": "1992"
+            }
         },
         "208": {
             "id": 208,
@@ -57293,6 +57293,26 @@
                     "pc98"
                 ]
             },
+            "ext": [
+                "d98",
+                "98d",
+                "fdi",
+                "fdd",
+                "2hd",
+                "tfd",
+                "d88",
+                "88d",
+                "hdm",
+                "xdf",
+                "dup",
+                "cmd",
+                "hdi",
+                "thd",
+                "nhd",
+                "hdd",
+                "hdn"
+            ],
+            "date_start": "1982",
             "media": {
                 "logo-monochrome": [
                     {
@@ -57524,27 +57544,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "d98",
-                "98d",
-                "fdi",
-                "fdd",
-                "2hd",
-                "tfd",
-                "d88",
-                "88d",
-                "hdm",
-                "xdf",
-                "dup",
-                "cmd",
-                "hdi",
-                "thd",
-                "nhd",
-                "hdd",
-                "hdn"
-            ],
-            "date_start": "1982"
+            }
         },
         "209": {
             "id": 209,
@@ -57576,6 +57576,9 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -57805,10 +57808,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd"
-            ]
+            }
         },
         "210": {
             "id": 210,
@@ -57836,6 +57836,9 @@
                     "Super Nintendo MSU-1"
                 ]
             },
+            "ext": [
+                "sfc"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -58099,10 +58102,7 @@
                         "file": "controls(UP).png"
                     }
                 ]
-            },
-            "ext": [
-                "sfc"
-            ]
+            }
         },
         "211": {
             "id": 211,
@@ -58120,6 +58120,10 @@
                     "pokemini"
                 ]
             },
+            "ext": [
+                "min"
+            ],
+            "date_start": "2001",
             "media": {
                 "logo-monochrome": [
                     {
@@ -58303,11 +58307,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "min"
-            ],
-            "date_start": "2001"
+            }
         },
         "213": {
             "id": 213,
@@ -58330,6 +58330,12 @@
                     "MGT SAM Coupé"
                 ]
             },
+            "ext": [
+                "dsk",
+                "sad"
+            ],
+            "date_start": "1959",
+            "date_end": "1995",
             "media": {
                 "logo-monochrome": [
                     {
@@ -58497,13 +58503,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "dsk",
-                "sad"
-            ],
-            "date_start": "1959",
-            "date_end": "1995"
+            }
         },
         "214": {
             "id": 214,
@@ -58528,6 +58528,9 @@
                     "OpenBOR"
                 ]
             },
+            "ext": [
+                "pak"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -58724,10 +58727,7 @@
                         "file": "box-texture-template(ss).png"
                     }
                 ]
-            },
-            "ext": [
-                "pak"
-            ]
+            }
         },
         "215": {
             "id": 215,
@@ -58736,6 +58736,10 @@
             "type": "Virtual Machine",
             "romtype": "file",
             "supporttype": "non-applicable",
+            "ext": [
+                "z3",
+                "z6"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -58812,11 +58816,7 @@
                         "file": "screenmarquee-blank(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "z3",
-                "z6"
-            ]
+            }
         },
         "216": {
             "id": 216,
@@ -58841,6 +58841,10 @@
                     "Uzebox"
                 ]
             },
+            "ext": [
+                "uze"
+            ],
+            "date_start": "2008",
             "media": {
                 "logo-monochrome": [
                     {
@@ -59097,11 +59101,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "uze"
-            ],
-            "date_start": "2008"
+            }
         },
         "217": {
             "id": 217,
@@ -59123,6 +59123,17 @@
                     "apple2gs"
                 ]
             },
+            "ext": [
+                "2mg",
+                "po",
+                "nib",
+                "do",
+                "dsk",
+                "hdv",
+                "zip"
+            ],
+            "date_start": "1986",
+            "date_end": "1992",
             "media": {
                 "logo-monochrome": [
                     {
@@ -59349,18 +59360,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "2mg",
-                "po",
-                "nib",
-                "do",
-                "dsk",
-                "hdv",
-                "zip"
-            ],
-            "date_start": "1986",
-            "date_end": "1992"
+            }
         },
         "218": {
             "id": 218,
@@ -59382,6 +59382,14 @@
                     "spectravideo"
                 ]
             },
+            "ext": [
+                " cas",
+                "bin",
+                "dsk",
+                "zip"
+            ],
+            "date_start": "1981",
+            "date_end": "1988",
             "media": {
                 "logo-monochrome": [
                     {
@@ -59580,15 +59588,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                " cas",
-                "bin",
-                "dsk",
-                "zip"
-            ],
-            "date_start": "1981",
-            "date_end": "1988"
+            }
         },
         "219": {
             "id": 219,
@@ -59605,6 +59605,14 @@
                     "palm"
                 ]
             },
+            "ext": [
+                "prc",
+                "pdb",
+                "pqa",
+                "img"
+            ],
+            "date_start": "1995",
+            "date_end": "2007",
             "media": {
                 "logo-monochrome": [
                     {
@@ -59783,15 +59791,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "prc",
-                "pdb",
-                "pqa",
-                "img"
-            ],
-            "date_start": "1995",
-            "date_end": "2007"
+            }
         },
         "220": {
             "id": 220,
@@ -59818,6 +59818,20 @@
                     "Sharp X1"
                 ]
             },
+            "ext": [
+                "dx1",
+                "2d",
+                "2hd",
+                "tfd",
+                "d88",
+                "88d",
+                "hdm",
+                "xdf",
+                "dup",
+                "cmd"
+            ],
+            "date_start": "1982",
+            "date_end": "1988",
             "media": {
                 "logo-monochrome": [
                     {
@@ -60002,21 +60016,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "dx1",
-                "2d",
-                "2hd",
-                "tfd",
-                "d88",
-                "88d",
-                "hdm",
-                "xdf",
-                "dup",
-                "cmd"
-            ],
-            "date_start": "1982",
-            "date_end": "1988"
+            }
         },
         "221": {
             "id": 221,
@@ -60033,6 +60033,12 @@
                     "pc88"
                 ]
             },
+            "ext": [
+                "d88",
+                "88d",
+                "m3u"
+            ],
+            "date_start": "1981",
             "media": {
                 "logo-monochrome": [
                     {
@@ -60233,13 +60239,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "d88",
-                "88d",
-                "m3u"
-            ],
-            "date_start": "1981"
+            }
         },
         "222": {
             "id": 222,
@@ -60253,6 +60253,10 @@
                     "tic80"
                 ]
             },
+            "ext": [
+                "tic"
+            ],
+            "date_start": "2017",
             "media": {
                 "logo-monochrome": [
                     {
@@ -60570,11 +60574,7 @@
                         "file": "controls(BTN-Y).png"
                     }
                 ]
-            },
-            "ext": [
-                "tic"
-            ],
-            "date_start": "2017"
+            }
         },
         "223": {
             "id": 223,
@@ -60588,6 +60588,10 @@
                     "solarus"
                 ]
             },
+            "ext": [
+                "solarus"
+            ],
+            "date_start": "2006",
             "media": {
                 "logo-monochrome": [
                     {
@@ -60839,11 +60843,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "solarus"
-            ],
-            "date_start": "2006"
+            }
         },
         "225": {
             "id": 225,
@@ -60858,6 +60858,10 @@
                     "Nintendo Switch"
                 ]
             },
+            "ext": [
+                "."
+            ],
+            "date_start": "2017",
             "media": {
                 "logo-monochrome": [
                     {
@@ -61054,11 +61058,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "."
-            ],
-            "date_start": "2017"
+            }
         },
         "227": {
             "id": 227,
@@ -61090,6 +61090,14 @@
                     "naomi"
                 ]
             },
+            "ext": [
+                "chd",
+                "bin",
+                "gdi",
+                "raw"
+            ],
+            "date_start": "1999",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -61381,15 +61389,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd",
-                "bin",
-                "gdi",
-                "raw"
-            ],
-            "date_start": "1999",
-            "date_end": "?"
+            }
         },
         "230": {
             "id": 230,
@@ -61422,6 +61422,14 @@
                     "fba_libretro"
                 ]
             },
+            "ext": [
+                "chd",
+                "bin",
+                "gdi",
+                "raw"
+            ],
+            "date_start": "2000",
+            "date_end": "?",
             "media": {
                 "logo-monochrome": [
                     {
@@ -61675,15 +61683,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "chd",
-                "bin",
-                "gdi",
-                "raw"
-            ],
-            "date_start": "2000",
-            "date_end": "?"
+            }
         },
         "231": {
             "id": 231,
@@ -61702,6 +61702,9 @@
                     "easyrpg"
                 ]
             },
+            "ext": [
+                "ini"
+            ],
             "media": {
                 "logo-monochrome": [
                     {
@@ -61915,10 +61918,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "ini"
-            ]
+            }
         },
         "234": {
             "id": 234,
@@ -61932,6 +61932,11 @@
                     "pico8"
                 ]
             },
+            "ext": [
+                "p8",
+                "png"
+            ],
+            "date_start": "2014",
             "media": {
                 "logo-monochrome": [
                     {
@@ -62223,12 +62228,7 @@
                         "file": "controls(X).png"
                     }
                 ]
-            },
-            "ext": [
-                "p8",
-                "png"
-            ],
-            "date_start": "2014"
+            }
         },
         "237": {
             "id": 237,
@@ -62243,6 +62243,11 @@
                     "pcv2"
                 ]
             },
+            "ext": [
+                "pc2"
+            ],
+            "date_start": "2001",
+            "date_end": "2002",
             "media": {
                 "logo-monochrome": [
                     {
@@ -62383,12 +62388,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "pc2"
-            ],
-            "date_start": "2001",
-            "date_end": "2002"
+            }
         },
         "240": {
             "id": 240,
@@ -62403,6 +62403,18 @@
                     "pet"
                 ]
             },
+            "ext": [
+                "a0",
+                "b0",
+                "crt",
+                "d64",
+                "d81",
+                "prg",
+                "tap",
+                "t64"
+            ],
+            "date_start": "1977",
+            "date_end": "1982",
             "media": {
                 "logo-monochrome": [
                     {
@@ -62505,19 +62517,7 @@
                         "file": "screenmarquee-blank(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "a0",
-                "b0",
-                "crt",
-                "d64",
-                "d81",
-                "prg",
-                "tap",
-                "t64"
-            ],
-            "date_start": "1977",
-            "date_end": "1982"
+            }
         },
         "241": {
             "id": 241,
@@ -62532,6 +62532,12 @@
                     "crvision"
                 ]
             },
+            "ext": [
+                "bin",
+                "rom"
+            ],
+            "date_start": "1981",
+            "date_end": "1986",
             "media": {
                 "logo-monochrome": [
                     {
@@ -62685,13 +62691,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "bin",
-                "rom"
-            ],
-            "date_start": "1981",
-            "date_end": "1986"
+            }
         },
         "244": {
             "id": 244,
@@ -62705,6 +62705,10 @@
                     "lowresnx"
                 ]
             },
+            "ext": [
+                "nx"
+            ],
+            "date_start": "2020",
             "media": {
                 "logo-monochrome": [
                     {
@@ -62941,11 +62945,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "nx"
-            ],
-            "date_start": "2020"
+            }
         },
         "250": {
             "id": 250,
@@ -62957,6 +62957,11 @@
             "romtype": "rom",
             "supporttype": "cartridge",
             "company": "SEGA",
+            "ext": [
+                "md"
+            ],
+            "date_start": "1993",
+            "date_end": "2005",
             "media": {
                 "logo-monochrome": [
                     {
@@ -63273,12 +63278,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "md"
-            ],
-            "date_start": "1993",
-            "date_end": "2005"
+            }
         },
         "253": {
             "id": 253,
@@ -63293,6 +63293,12 @@
                     "fmtmarty"
                 ]
             },
+            "ext": [
+                "cue",
+                "bin"
+            ],
+            "date_start": "1989",
+            "date_end": "1997",
             "media": {
                 "logo-monochrome": [
                     {
@@ -63462,13 +63468,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "cue",
-                "bin"
-            ],
-            "date_start": "1989",
-            "date_end": "1997"
+            }
         },
         "258": {
             "id": 258,
@@ -63478,6 +63478,10 @@
             "romtype": "rom",
             "supporttype": "pcb",
             "company": "SEGA",
+            "ext": [
+                "zip"
+            ],
+            "date_start": "1999",
             "media": {
                 "logo-monochrome": [
                     {
@@ -63601,11 +63605,7 @@
                         "file": "box-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "zip"
-            ],
-            "date_start": "1999"
+            }
         },
         "261": {
             "id": 261,
@@ -63619,6 +63619,11 @@
                     "vg5000"
                 ]
             },
+            "ext": [
+                "k7"
+            ],
+            "date_start": "1984",
+            "date_end": "1986",
             "media": {
                 "logo-monochrome": [
                     {
@@ -63798,12 +63803,7 @@
                         "file": "support-texture-template(wor).png"
                     }
                 ]
-            },
-            "ext": [
-                "k7"
-            ],
-            "date_start": "1984",
-            "date_end": "1986"
+            }
         }
     },
     "emulators": {
